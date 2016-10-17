@@ -49,11 +49,23 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/urls.py" timestamp="1476743273693">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="41" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="22" column="41" />
+      </file>
       <file name="$USER_HOME$/projects/victor/victor/templates/lp/pages/form.html" timestamp="1472723435020">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="15" column="11" />
         <mark key="^" line="15" column="11" />
         <mark key="." line="15" column="11" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/recruitment/lib/python3.5/site-packages/rest_framework/viewsets.py" timestamp="1476743331628">
+        <mark key="[" line="137" column="6" />
+        <mark key="]" line="137" column="5" />
+        <mark key="." line="137" column="5" />
+        <mark key="^" line="137" column="5" />
       </file>
       <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/db/templates/pg_hba.conf" timestamp="1475676088749">
         <mark key="[" line="104" column="53" />
@@ -61,11 +73,12 @@
         <mark key="^" line="110" column="76" />
         <mark key="." line="110" column="76" />
       </file>
-      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" timestamp="1476737702775">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="11" />
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" timestamp="1476743490628">
+        <mark key="'" line="1" column="42" />
+        <mark key="[" line="40" column="50" />
+        <mark key="]" line="41" column="39" />
+        <mark key="." line="41" column="39" />
+        <mark key="^" line="41" column="39" />
       </file>
       <file name="$USER_HOME$/projects/victor_cms/victor_cms/settings/base.py" timestamp="1476708485787">
         <mark key="'" line="0" column="0" />
@@ -179,6 +192,12 @@
         <mark key="." line="16" column="48" />
         <mark key="^" line="16" column="64" />
       </file>
+      <file name="$USER_HOME$/projekty/tmp/nba_py/examples/example_team.py" timestamp="1476738748422">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/unlock_app-web/requirements/test.txt" timestamp="1473085090152">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="7" column="10" />
@@ -197,11 +216,12 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/management/commands/import_data.py" timestamp="1476736389937">
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="10" column="7" />
-        <mark key="^" line="10" column="7" />
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/management/commands/import_data.py" timestamp="1476742436411">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="26" column="55" />
+        <mark key="]" line="27" column="15" />
+        <mark key="^" line="27" column="15" />
+        <mark key="." line="27" column="15" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/recruitment/lib/python3.5/site-packages/django/db/models/fields/related_descriptors.py" timestamp="1476736298489">
         <mark key="'" line="510" column="10" />
@@ -279,11 +299,6 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="31" column="15" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" timestamp="1476713076157">
-        <mark key="'" line="475" column="98" />
-        <mark key="[" line="757" column="0" />
-        <mark key="]" line="757" column="46" />
-      </file>
       <file name="$USER_HOME$/projects/mysite/mysite/urls.py" timestamp="1473931222771">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="10" />
@@ -302,18 +317,19 @@
         <mark key="." line="104" column="8" />
         <mark key="^" line="104" column="21" />
       </file>
-      <file name="$USER_HOME$/projekty/tmp/nba_py/examples/example_player.py" timestamp="1476735563253">
-        <mark key="'" line="20" column="10" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="17" column="92" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projekty/tmp/nba_py/examples/example_player.py" timestamp="1476741327747">
+        <mark key="'" line="23" column="40" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/settings.py" timestamp="1476736528782">
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="40" column="13" />
-        <mark key="^" line="40" column="13" />
-        <mark key="." line="40" column="13" />
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/settings.py" timestamp="1476743381394">
+        <mark key="'" line="101" column="4" />
+        <mark key="[" line="140" column="22" />
+        <mark key="]" line="140" column="26" />
+        <mark key="^" line="140" column="26" />
+        <mark key="." line="140" column="26" />
       </file>
       <file name="$USER_HOME$/projects/mysite/lpform/views.py" timestamp="1473931342714">
         <mark key="[" line="1" column="0" />
@@ -378,24 +394,28 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="17" />
       </file>
-      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/views.py" timestamp="1476737674441">
-        <mark key="'" line="11" column="23" />
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="3" column="41" />
-        <mark key="^" line="3" column="41" />
-        <mark key="." line="3" column="41" />
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/views.py" timestamp="1476743730746">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/models.py" timestamp="1476737439293">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="29" column="40" />
-        <mark key="^" line="43" column="39" />
-        <mark key="." line="43" column="39" />
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/models.py" timestamp="1476740503712">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="70" column="49" />
+        <mark key="]" line="70" column="49" />
+        <mark key="^" line="70" column="91" />
+        <mark key="." line="70" column="49" />
       </file>
       <file name="$USER_HOME$/projects/ansible_roles/wordpress/host_vars/prod" timestamp="1476451629855">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="10" />
         <mark key="^" line="8" column="38" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/projekty/tmp/nba_py/nba_py/constants.py" timestamp="1476740278877">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mysite/lpform/models.py" timestamp="1473931488603">
         <mark key="[" line="32" column="42" />
@@ -471,6 +491,12 @@
         <mark key="^" line="29" column="31" />
         <mark key="." line="29" column="26" />
       </file>
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/tests.py" timestamp="1476744318604">
+        <mark key="[" line="16" column="62" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/victor_cms/step1/forms.py" timestamp="1473937095136">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="4" column="30" />
@@ -523,18 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="2" filename="$USER_HOME$/projects/victor/config/settings/local.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/projects/victor/config/settings/local.py" />
-      <jump line="88" column="4" filename="$USER_HOME$/projects/victor/deploy/roles/system/templates/nginx.j2" />
-      <jump line="166" column="19" filename="$USER_HOME$/.virtualenvs/victor2/lib/python2.7/site-packages/django/http/response.py" />
-      <jump line="205" column="31" filename="$USER_HOME$/.virtualenvs/victor2/lib/python2.7/site-packages/django/http/response.py" />
-      <jump line="204" column="11" filename="$USER_HOME$/.virtualenvs/victor2/lib/python2.7/site-packages/django/http/response.py" />
-      <jump line="167" column="10" filename="$USER_HOME$/.virtualenvs/victor2/lib/python2.7/site-packages/django/http/response.py" />
-      <jump line="212" column="62" filename="$USER_HOME$/.virtualenvs/victor2/local/lib/python2.7/site-packages/django/contrib/sessions/backends/base.py" />
-      <jump line="82" column="17" filename="$USER_HOME$/.virtualenvs/victor2/local/lib/python2.7/site-packages/django/contrib/sessions/backends/base.py" />
-      <jump line="85" column="13" filename="$USER_HOME$/.virtualenvs/victor2/local/lib/python2.7/site-packages/django/contrib/sessions/backends/base.py" />
-      <jump line="88" column="20" filename="$USER_HOME$/.virtualenvs/victor2/local/lib/python2.7/site-packages/django/contrib/sessions/backends/base.py" />
-      <jump line="41" column="28" filename="$USER_HOME$/.virtualenvs/victor2/local/lib/python2.7/site-packages/django/contrib/sessions/backends/base.py" />
       <jump line="133" column="42" filename="$USER_HOME$/projects/victor/victor/stats/logsmon.py" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/victor/victor/stats/logsmon.py" />
       <jump line="128" column="32" filename="$USER_HOME$/projects/victor/victor/stats/logsmon.py" />
@@ -623,70 +637,67 @@
       <jump line="510" column="10" filename="$USER_HOME$/.virtualenvs/recruitment/lib/python3.5/site-packages/django/db/models/fields/related_descriptors.py" />
       <jump line="10" column="38" filename="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/views.py" />
       <jump line="11" column="23" filename="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/views.py" />
+      <jump line="23" column="40" filename="$USER_HOME$/projekty/tmp/nba_py/examples/example_player.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projekty/tmp/nba_py/nba_py/constants.py" />
+      <jump line="39" column="45" filename="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/management/commands/import_data.py" />
+      <jump line="34" column="53" filename="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/management/commands/import_data.py" />
+      <jump line="16" column="30" filename="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/management/commands/import_data.py" />
+      <jump line="52" column="23" filename="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/management/commands/import_data.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/management/commands/import_data.py" />
+      <jump line="8" column="4" filename="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/views.py" />
+      <jump line="101" column="4" filename="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/settings.py" />
+      <jump line="30" column="19" filename="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" />
+      <jump line="1" column="42" filename="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQbGF5ZXJTZXJpYWxpemVyXD4=</text>
+        <text>queryset</text>
       </register>
-      <register name="0" type="8">
-        <text>&quot;,</text>
+      <register name="0" type="4">
+        <text>row.DISPLAY_LAST_COMMA_FIRST.split(',')</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ID0gbQogPSBtCiA9IG0KID0gbQogPSBtCj0gbW8KID0gbQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text>= models.CharField(max_length=
-models.CharField(max_length=10
-= models.CharField(max_length=
-models.CharField(max_length=10
-models.CharField(max_length=10
-odels.CharField(max_length=10)
-odels.CharField(max_length=10)
-odels.CharField(max_length=10)
-odels.CharField(max_length=10)
-odels.CharField(max_length=10)
-dels.CharField(max_length=10)
-odels.CharField(max_length=10)</text>
+      <register name="2" type="2">
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB0ZXN0cyBoZXJlLgo=</text>
       </register>
-      <register name="3" type="8">
-        <text>= models.IntegerField()
-= models.IntegerField()
- = models.IntegerField()
- = models.CharField(max_length=10)
- = models.CharField(max_length=10)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS51cmxyZXNvbHZlcnMgaW1wb3J0IHJldmVyc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAncHJvZmlsZScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAnZXZlcnlzcG9ydCc6IHsKICAgICAgICAgICAgJ2hhbmRsZXJzJzogWydjb25zb2xlJ10sCiAgICAgICAgICAgICdsZXZlbCc6ICdERUJVRycsCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlLAogICAgICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnYWxnb2xpYSc6IHsKICAgICAgICAgICAgJ2hhbmRsZXJzJzogWydjb25zb2xlJ10sCiAgICAgICAgICAgICdsZXZlbCc6ICdFUlJPUicsCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlLAogICAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBuYmFfcHkgaW1wb3J0IHBsYXllcgo=</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZWFtIAo=</text>
+        <text encoding="base64">ICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBQbGF5ZXJTZXJpYWxpemVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2ZpbGUnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQbGF5ZXJTZXJpYWxpemVyXD4=</last-search>
+      <last-search>queryset</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQbGF5ZXJTZXJpYWxpemVyXD4=</last-pattern>
+      <last-pattern>queryset</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -698,9 +709,20 @@ odels.CharField(max_length=10)</text>
         <entry encoding="base64">XDxwbGF5ZXJcPg==</entry>
         <entry>get_or_create</entry>
         <entry encoding="base64">XDxQbGF5ZXJTZXJpYWxpemVyXD4=</entry>
+        <entry encoding="base64">XDxDVVJSRU5UX1NFQVNPTlw+</entry>
+        <entry>Summary</entry>
+        <entry>pc</entry>
+        <entry>queryset</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
+        <entry>e</entry>
+        <entry>32</entry>
+        <entry>34</entry>
+        <entry encoding="base64">JzwsJz5zLz0vOi9h</entry>
+        <entry encoding="base64">JzwsJz46cy89LzovZ2E=</entry>
+        <entry>6</entry>
+        <entry>31</entry>
         <entry>w</entry>
         <entry>W</entry>
       </history-cmd>
