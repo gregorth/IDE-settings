@@ -49,11 +49,11 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/urls.py" timestamp="1476743273693">
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="41" />
-        <mark key="^" line="22" column="40" />
-        <mark key="." line="22" column="41" />
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/urls.py" timestamp="1476748597844">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="40" />
       </file>
       <file name="$USER_HOME$/projects/victor/victor/templates/lp/pages/form.html" timestamp="1472723435020">
         <mark key="[" line="15" column="5" />
@@ -73,12 +73,12 @@
         <mark key="^" line="110" column="76" />
         <mark key="." line="110" column="76" />
       </file>
-      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" timestamp="1476743490628">
-        <mark key="'" line="1" column="42" />
-        <mark key="[" line="40" column="50" />
-        <mark key="]" line="41" column="39" />
-        <mark key="." line="41" column="39" />
-        <mark key="^" line="41" column="39" />
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" timestamp="1476748166823">
+        <mark key="'" line="41" column="39" />
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="20" />
+        <mark key="^" line="62" column="23" />
       </file>
       <file name="$USER_HOME$/projects/victor_cms/victor_cms/settings/base.py" timestamp="1476708485787">
         <mark key="'" line="0" column="0" />
@@ -394,17 +394,17 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="17" />
       </file>
-      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/views.py" timestamp="1476743730746">
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/views.py" timestamp="1476748414682">
         <mark key="'" line="8" column="4" />
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-        <mark key="." line="16" column="38" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="59" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/models.py" timestamp="1476740503712">
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/models.py" timestamp="1476748062985">
         <mark key="'" line="69" column="0" />
-        <mark key="[" line="70" column="49" />
-        <mark key="]" line="70" column="49" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="55" column="40" />
         <mark key="^" line="70" column="91" />
         <mark key="." line="70" column="49" />
       </file>
@@ -549,7 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="42" filename="$USER_HOME$/projects/victor/victor/stats/logsmon.py" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/victor/victor/stats/logsmon.py" />
       <jump line="128" column="32" filename="$USER_HOME$/projects/victor/victor/stats/logsmon.py" />
       <jump line="134" column="28" filename="$USER_HOME$/projects/victor/victor/stats/logsmon.py" />
@@ -649,46 +648,51 @@
       <jump line="101" column="4" filename="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/settings.py" />
       <jump line="30" column="19" filename="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" />
       <jump line="1" column="42" filename="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" />
+      <jump line="41" column="39" filename="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RhdGlzdGljLm9iamVjdHMuZmlsdGVyKHBsYXllcl9faWQ9cGxheWVyX19waykK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>pk</text>
       </register>
       <register name="/" type="4">
         <text>queryset</text>
       </register>
       <register name="0" type="4">
-        <text>row.DISPLAY_LAST_COMMA_FIRST.split(',')</text>
+        <text>&quot;,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RhdGlzdGljLm9iamVjdHMuZmlsdGVyKHBsYXllcl9faWQ9cGxheWVyX19waykK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB0ZXN0cyBoZXJlLgo=</text>
+      <register name="2" type="8">
+        <text>)
+)
+)
+)
+)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS51cmxyZXNvbHZlcnMgaW1wb3J0IHJldmVyc2UK</text>
+      <register name="3" type="8">
+        <text encoding="base64">ID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwCiA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0xMAogPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTAKID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwCiA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0xMAo9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0xMCkKPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTAp</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAncHJvZmlsZScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnZXZlcnlzcG9ydCc6IHsKICAgICAgICAgICAgJ2hhbmRsZXJzJzogWydjb25zb2xlJ10sCiAgICAgICAgICAgICdsZXZlbCc6ICdERUJVRycsCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgcm91dGVycwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnYWxnb2xpYSc6IHsKICAgICAgICAgICAgJ2hhbmRsZXJzJzogWydjb25zb2xlJ10sCiAgICAgICAgICAgICdsZXZlbCc6ICdFUlJPUicsCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgcm91dGVycwpmcm9tIHJlc3RfZnJhbWV3b3JrX25lc3RlZCBpbXBvcnQgcm91dGVycwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBQbGF5ZXJTZXJpYWxpemVyCg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB0ZXN0cyBoZXJlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2ZpbGUnLAo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS51cmxyZXNvbHZlcnMgaW1wb3J0IHJldmVyc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -715,7 +719,6 @@
         <entry>queryset</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>e</entry>
         <entry>32</entry>
         <entry>34</entry>
@@ -723,6 +726,8 @@
         <entry encoding="base64">JzwsJz46cy89LzovZ2E=</entry>
         <entry>6</entry>
         <entry>31</entry>
+        <entry>q</entry>
+        <entry>Q</entry>
         <entry>w</entry>
         <entry>W</entry>
       </history-cmd>
