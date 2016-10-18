@@ -446,12 +446,12 @@
         <mark key="." line="29" column="32" />
         <mark key="^" line="29" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1476792851283">
-        <mark key="'" line="7" column="47" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="8" />
-        <mark key="^" line="104" column="8" />
-        <mark key="." line="98" column="8" />
+      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1476796076798">
+        <mark key="'" line="131" column="41" />
+        <mark key="[" line="111" column="4" />
+        <mark key="]" line="119" column="5" />
+        <mark key="^" line="110" column="3" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mysite/mysite/settings/dev.py" timestamp="1473851603719">
         <mark key="[" line="16" column="19" />
@@ -507,9 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="13" filename="$USER_HOME$/.virtualenvs/victor2/local/lib/python2.7/site-packages/django/contrib/sessions/backends/base.py" />
-      <jump line="88" column="20" filename="$USER_HOME$/.virtualenvs/victor2/local/lib/python2.7/site-packages/django/contrib/sessions/backends/base.py" />
-      <jump line="41" column="28" filename="$USER_HOME$/.virtualenvs/victor2/local/lib/python2.7/site-packages/django/contrib/sessions/backends/base.py" />
       <jump line="133" column="42" filename="$USER_HOME$/projects/victor/victor/stats/logsmon.py" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/victor/victor/stats/logsmon.py" />
       <jump line="128" column="32" filename="$USER_HOME$/projects/victor/victor/stats/logsmon.py" />
@@ -607,19 +604,22 @@
       <jump line="1413" column="8" filename="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" />
       <jump line="1487" column="12" filename="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" />
       <jump line="7" column="47" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
+      <jump line="105" column="24" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
+      <jump line="109" column="26" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
+      <jump line="110" column="41" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnRlbnRfcGFuZWxzID0gWwogICAgICAgIFBhZ2VDaG9vc2VyUGFuZWwoJ2ZyZW5jaF9saW5rJyksCiAgICAgICAgUGFnZUNob29zZXJQYW5lbCgnc3BhbmlzaF9saW5rJyksCiAgICAgICAgUGFnZUNob29zZXJQYW5lbCgnbm9yd2VnaWFuX2xpbmsnKSwKICAgICAgICBQYWdlQ2hvb3NlclBhbmVsKCdwb3J0dWdlc2VfbGluaycpLAogICAgICAgIFBhZ2VDaG9vc2VyUGFuZWwoJ3N3ZWRpc2hfbGluaycpLAogICAgICAgIFBhZ2VDaG9vc2VyUGFuZWwoJ25vcndlZ2lhbl9saW5rJyksCiAgICAgICAgUGFnZUNob29zZXJQYW5lbCgnaW5kb25lc2lhbl9saW5rJyksCiAgICBdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYWdlQ2hvb3NlclBhbmVsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSB3YWd0YWlsLndhZ3RhaWxhZG1pbi5lZGl0X2hhbmRsZXJzIGltcG9ydCAoRmllbGRQYW5lbCwgSW5saW5lUGFuZWwsCg==</text>
+        <text encoding="base64">ICAgIGNvbnRlbnRfcGFuZWxzID0gWwogICAgICAgIFBhZ2VDaG9vc2VyUGFuZWwoJ2ZyZW5jaF9saW5rJyksCiAgICAgICAgUGFnZUNob29zZXJQYW5lbCgnc3BhbmlzaF9saW5rJyksCiAgICAgICAgUGFnZUNob29zZXJQYW5lbCgnbm9yd2VnaWFuX2xpbmsnKSwKICAgICAgICBQYWdlQ2hvb3NlclBhbmVsKCdwb3J0dWdlc2VfbGluaycpLAogICAgICAgIFBhZ2VDaG9vc2VyUGFuZWwoJ3N3ZWRpc2hfbGluaycpLAogICAgICAgIFBhZ2VDaG9vc2VyUGFuZWwoJ25vcndlZ2lhbl9saW5rJyksCiAgICAgICAgUGFnZUNob29zZXJQYW5lbCgnaW5kb25lc2lhbl9saW5rJyksCiAgICBdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
@@ -700,10 +700,10 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>qa</entry>
-        <entry>W</entry>
         <entry>13</entry>
         <entry>14</entry>
         <entry>87</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
