@@ -12622,7 +12622,7 @@
         <entry key="arraymanagement" value="" />
         <entry key="arrayterator" value="" />
         <entry key="arronax" value="" />
-        <entry key="arrow" value="" />
+        <entry key="arrow" value="0.8.0" />
         <entry key="arrow-fatisar" value="" />
         <entry key="arrow-ng" value="" />
         <entry key="arrowhead" value="" />
@@ -14891,7 +14891,7 @@
         <entry key="binary-repr" value="" />
         <entry key="binary_tree_dict_mod" value="" />
         <entry key="binaryheap" value="" />
-        <entry key="binaryornot" value="" />
+        <entry key="binaryornot" value="0.4.0" />
         <entry key="binaryplist" value="" />
         <entry key="binarytree" value="" />
         <entry key="binch" value="" />
@@ -18528,7 +18528,7 @@
         <entry key="clicast" value="" />
         <entry key="cliche" value="" />
         <entry key="clicheck" value="" />
-        <entry key="click" value="" />
+        <entry key="click" value="6.6" />
         <entry key="click-completion" value="" />
         <entry key="click-config" value="" />
         <entry key="click-datetime" value="" />
@@ -21242,7 +21242,7 @@
         <entry key="cook-jobclient" value="" />
         <entry key="cookbook" value="" />
         <entry key="cookie06" value="" />
-        <entry key="cookiecutter" value="" />
+        <entry key="cookiecutter" value="1.4.0" />
         <entry key="cookiecutter-django" value="" />
         <entry key="cookiecutter-leonardo-module" value="" />
         <entry key="cookiecutter-pypackage" value="" />
@@ -38316,7 +38316,7 @@
         <entry key="fut14" value="" />
         <entry key="fut14analysis" value="" />
         <entry key="futen" value="" />
-        <entry key="future" value="" />
+        <entry key="future" value="0.15.2" />
         <entry key="future_value" value="" />
         <entry key="futurefinity" value="" />
         <entry key="futuregrid" value="" />
@@ -44370,7 +44370,7 @@
         <entry key="ipdasite.services" value="" />
         <entry key="ipdasite.theme" value="" />
         <entry key="ipdasite.views" value="" />
-        <entry key="ipdb" value="" />
+        <entry key="ipdb" value="0.10.1" />
         <entry key="ipdbplugin" value="" />
         <entry key="ipdetailscache" value="" />
         <entry key="ipe" value="" />
@@ -45365,7 +45365,7 @@
         <entry key="jinja2-registry" value="" />
         <entry key="jinja2-s3loader" value="" />
         <entry key="jinja2-slug" value="" />
-        <entry key="jinja2-time" value="" />
+        <entry key="jinja2-time" value="0.2.0" />
         <entry key="jinja24doc" value="" />
         <entry key="jinja2_maps" value="" />
         <entry key="jinja2_markdown" value="" />
@@ -56282,7 +56282,7 @@
         <entry key="numpee" value="" />
         <entry key="numpngw" value="" />
         <entry key="numprops" value="" />
-        <entry key="numpy" value="" />
+        <entry key="numpy" value="1.11.2" />
         <entry key="numpy-indexed" value="" />
         <entry key="numpy-mkl" value="" />
         <entry key="numpy-pypy" value="" />
@@ -58489,7 +58489,7 @@
         <entry key="pandapay" value="" />
         <entry key="pandarss" value="" />
         <entry key="pandarus" value="" />
-        <entry key="pandas" value="" />
+        <entry key="pandas" value="0.19.0rc1" />
         <entry key="pandas-bamboo" value="" />
         <entry key="pandas-charm" value="" />
         <entry key="pandas-datareader" value="" />
@@ -59942,7 +59942,7 @@
         <entry key="picklejar" value="" />
         <entry key="picklemigrate" value="" />
         <entry key="pickler" value="" />
-        <entry key="pickleshare" value="" />
+        <entry key="pickleshare" value="0.7.4" />
         <entry key="picklesize" value="" />
         <entry key="picklr" value="" />
         <entry key="pickly" value="" />
@@ -61614,7 +61614,7 @@
         <entry key="pox" value="" />
         <entry key="pox.banner" value="" />
         <entry key="poxls" value="" />
-        <entry key="poyo" value="" />
+        <entry key="poyo" value="0.4.0" />
         <entry key="poyonga" value="" />
         <entry key="pp" value="" />
         <entry key="pp-ez" value="" />
@@ -68701,7 +68701,7 @@
         <entry key="python-datemath" value="" />
         <entry key="python-datetime-tz" value="" />
         <entry key="python-datetime2" value="" />
-        <entry key="python-dateutil" value="" />
+        <entry key="python-dateutil" value="2.5.3" />
         <entry key="python-db" value="" />
         <entry key="python-dbusmock" value="" />
         <entry key="python-dbusx" value="" />
@@ -83434,7 +83434,7 @@
         <entry key="training" value="" />
         <entry key="trait_documenter" value="" />
         <entry key="traitar" value="" />
-        <entry key="traitlets" value="" />
+        <entry key="traitlets" value="4.3.1" />
         <entry key="traits" value="" />
         <entry key="traits-enaml" value="" />
         <entry key="traitscli" value="" />
@@ -87270,7 +87270,7 @@
         <entry key="wcsaxes" value="" />
         <entry key="wcurve" value="" />
         <entry key="wcut" value="" />
-        <entry key="wcwidth" value="" />
+        <entry key="wcwidth" value="0.1.7" />
         <entry key="wd" value="" />
         <entry key="wdapi" value="" />
         <entry key="wdb" value="" />
@@ -87759,7 +87759,7 @@
         <entry key="which" value="" />
         <entry key="which-app" value="" />
         <entry key="which_slave" value="" />
-        <entry key="whichcraft" value="" />
+        <entry key="whichcraft" value="0.4.0" />
         <entry key="whichpkg" value="" />
         <entry key="whiff" value="" />
         <entry key="whileloop" value="" />
