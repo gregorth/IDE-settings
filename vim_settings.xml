@@ -21,6 +21,9 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/__init__.py" timestamp="1476873290466">
+        <mark key="'" line="205" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/victor_cms/victor_cms/settings/base.py" timestamp="1476708485787">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -161,11 +164,11 @@
         <mark key="." line="26" column="7" />
         <mark key="^" line="26" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/templates/home/thx_page.html" timestamp="1476714952626">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="63" />
-        <mark key="." line="6" column="63" />
-        <mark key="^" line="6" column="63" />
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/home/thx_page.html" timestamp="1476874175710">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/projects/victor/requirements/base.txt" timestamp="1472807918171">
         <mark key="[" line="28" column="0" />
@@ -273,6 +276,9 @@
         <mark key="^" line="50" column="57" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/competition/templates/base.html" timestamp="1476870237450">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" timestamp="1476872668628">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/djcms_tutorial/polls_cms_integration/cms_plugin.py" timestamp="1476264001370">
@@ -537,18 +543,18 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/templates/home/home_page.html" timestamp="1476714670378">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="26" />
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/home/home_page.html" timestamp="1476874193004">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1476871486966">
-        <mark key="'" line="48" column="38" />
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="27" />
-        <mark key="^" line="17" column="27" />
+      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1476874263589">
+        <mark key="'" line="49" column="38" />
+        <mark key="[" line="142" column="19" />
+        <mark key="]" line="142" column="19" />
+        <mark key="." line="142" column="19" />
+        <mark key="^" line="142" column="19" />
       </file>
       <file name="$USER_HOME$/projects/motiwings_minisite/templates/motiwings/landing-pages/lp2.html" timestamp="1474983359771">
         <mark key="[" line="29" column="28" />
@@ -633,11 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/victor_cms/victor_cms/settings/base.py" />
-      <jump line="84" column="4" filename="$USER_HOME$/projects/victor_cms/victor_cms/settings/base.py" />
-      <jump line="112" column="29" filename="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" />
-      <jump line="621" column="40" filename="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" />
-      <jump line="1003" column="4" filename="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" />
       <jump line="1154" column="8" filename="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" />
       <jump line="1176" column="51" filename="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" />
       <jump line="1354" column="8" filename="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" />
@@ -733,55 +734,60 @@
       <jump line="254" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
       <jump line="255" column="21" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
       <jump line="44" column="1" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/__init__.py" />
+      <jump line="14" column="21" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/__init__.py" />
+      <jump line="204" column="4" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/__init__.py" />
+      <jump line="205" column="18" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQgKERFQlVHKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfbGFuZ3VhZ2Uoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgVGhpcyByZXR1cm5zIHRoZSBsYW5ndWFnZSBjb2RlIGZvciB0aGlzIHBhZ2UuCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>get_language</text>
       </register>
       <register name="/" type="4">
-        <text>Page</text>
+        <text>get_language_from_request</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnRfcGFuZWxzID0gUGFnZS5jb250ZW50X3BhbmVscyArIFsK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfbGFuZ3VhZ2Uoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgVGhpcyByZXR1cm5zIHRoZSBsYW5ndWFnZSBjb2RlIGZvciB0aGlzIHBhZ2UuCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQgKERFQlVHKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRk8iLCBsYW5ndWFnZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnRfcGFuZWxzID0gWwo=</text>
+        <text encoding="base64">cHJpbnQgKERFQlVHKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJIRVJFIiwgc2V0dGluZ3MuU1RBVElDX1JPT1QpCg==</text>
+        <text encoding="base64">ICAgIGNvbnRlbnRfcGFuZWxzID0gWwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0YXRpY2ZpbGVzX3VybHBhdHRlcm5zKCkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJIRVJFIiwgc2V0dGluZ3MuU1RBVElDX1JPT1QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN0YXRpY2ZpbGVzX3VybHBhdHRlcm5zKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXJ2ZShzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIGZyb20gLmZvcm1zIGltcG9ydCBDb250ZXN0Rm9ybQogICAgICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdQT1NUJzoKICAgICAgICAgICAgZm9ybSA9IENvbnRlc3RGb3JtKHJlcXVlc3QuUE9TVCkKICAgICAgICAgICAgaWYgZm9ybS5pc192YWxpZCgpOgogICAgICAgICAgICAgICAgY29udGVzdCA9IGZvcm0uc2F2ZSgpCiAgICAgICAgICAgICAgICByZXR1cm4gcmVkaXJlY3QoJy90aHgtcGFnZS8nKSAjIGZldGNoIHRoYXQgcGFnZSBmcm9tIERCPwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGZvcm0gPSBDb250ZXN0Rm9ybSgpCiAgICAgICAgcmV0dXJuIHJlbmRlcihyZXF1ZXN0LAogICAgICAgICAgICAnaG9tZS9ob21lX3BhZ2UuaHRtbCcsCiAgICAgICAgICAgIHsncGFnZSc6IHNlbGYsICdmb3JtJzogZm9ybX0KICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXJ2ZShzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIGZyb20gLmZvcm1zIGltcG9ydCBDb250ZXN0Rm9ybQogICAgICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdQT1NUJzoKICAgICAgICAgICAgZm9ybSA9IENvbnRlc3RGb3JtKHJlcXVlc3QuUE9TVCkKICAgICAgICAgICAgaWYgZm9ybS5pc192YWxpZCgpOgogICAgICAgICAgICAgICAgY29udGVzdCA9IGZvcm0uc2F2ZSgpCiAgICAgICAgICAgICAgICByZXR1cm4gcmVkaXJlY3QoJy90aHgtcGFnZS8nKSAjIGZldGNoIHRoYXQgcGFnZSBmcm9tIERCPwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGZvcm0gPSBDb250ZXN0Rm9ybSgpCiAgICAgICAgcmV0dXJuIHJlbmRlcihyZXF1ZXN0LAogICAgICAgICAgICAnaG9tZS9ob21lX3BhZ2UuaHRtbCcsCiAgICAgICAgICAgIHsncGFnZSc6IHNlbGYsICdmb3JtJzogZm9ybX0KICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoc2V0dGluZ3MuREVCVUcpCg==</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoc2V0dGluZ3MuREVCVUcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Page</last-search>
+      <last-search>get_language_from_request</last-search>
       <last-offset />
-      <last-pattern>Page</last-pattern>
+      <last-pattern>get_language_from_request</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -789,7 +795,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_or_create</entry>
         <entry encoding="base64">XDxQbGF5ZXJTZXJpYWxpemVyXD4=</entry>
         <entry encoding="base64">XDxDVVJSRU5UX1NFQVNPTlw+</entry>
         <entry>Summary</entry>
@@ -809,6 +814,7 @@
         <entry>print</entry>
         <entry>title</entry>
         <entry>Page</entry>
+        <entry>get_language_from_request</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
