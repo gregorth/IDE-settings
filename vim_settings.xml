@@ -125,11 +125,11 @@
         <mark key="^" line="70" column="91" />
         <mark key="." line="70" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/templates/home/thx_page_link.html" timestamp="1476871081853">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/home/thx_page_link.html" timestamp="1476954265835">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/projects/mysite/mysite/urls.py" timestamp="1473931222771">
         <mark key="[" line="11" column="10" />
@@ -149,8 +149,12 @@
         <mark key="." line="11" column="115" />
         <mark key="^" line="11" column="115" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1476870243521">
-        <mark key="'" line="141" column="0" />
+      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1476953140850">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="62" column="59" />
+        <mark key="]" line="63" column="47" />
+        <mark key="^" line="63" column="47" />
+        <mark key="." line="63" column="47" />
       </file>
       <file name="$USER_HOME$/projects/motiwings_minisite/minisite/forms.py" timestamp="1474977813194">
         <mark key="[" line="22" column="65" />
@@ -164,11 +168,11 @@
         <mark key="." line="26" column="7" />
         <mark key="^" line="26" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/templates/home/thx_page.html" timestamp="1476874175710">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="26" />
-        <mark key="^" line="5" column="26" />
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/home/thx_page.html" timestamp="1476954205155">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="42" />
+        <mark key="^" line="5" column="42" />
+        <mark key="." line="5" column="42" />
       </file>
       <file name="$USER_HOME$/projects/victor/requirements/base.txt" timestamp="1472807918171">
         <mark key="[" line="28" column="0" />
@@ -220,6 +224,12 @@
         <mark key="]" line="41" column="24" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="22" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/home/home_page_link.html" timestamp="1476954353637">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/projects/victor_cms/step1/tools.py" timestamp="1473946476737">
         <mark key="[" line="14" column="0" />
@@ -543,18 +553,17 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/templates/home/home_page.html" timestamp="1476874193004">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="23" />
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/home/home_page.html" timestamp="1476953950403">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1476874263589">
-        <mark key="'" line="49" column="38" />
-        <mark key="[" line="142" column="19" />
-        <mark key="]" line="142" column="19" />
-        <mark key="." line="142" column="19" />
-        <mark key="^" line="142" column="19" />
+      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1476954172117">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="144" column="14" />
       </file>
       <file name="$USER_HOME$/projects/motiwings_minisite/templates/motiwings/landing-pages/lp2.html" timestamp="1474983359771">
         <mark key="[" line="29" column="28" />
@@ -581,11 +590,10 @@
         <mark key="^" line="104" column="21" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" timestamp="1476871975106">
-        <mark key="'" line="44" column="1" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="4" column="11" />
-        <mark key="." line="47" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/unlock_app-web/unlock/authentication/social.py" timestamp="1475064500366">
         <mark key="[" line="21" column="34" />
@@ -639,9 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1154" column="8" filename="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" />
-      <jump line="1176" column="51" filename="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" />
-      <jump line="1354" column="8" filename="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" />
       <jump line="577" column="42" filename="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" />
       <jump line="594" column="8" filename="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" />
       <jump line="928" column="42" filename="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" />
@@ -739,55 +744,66 @@
       <jump line="204" column="4" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/__init__.py" />
       <jump line="205" column="18" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
+      <jump line="51" column="23" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
+      <jump line="146" column="21" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfbGFuZ3VhZ2Uoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgVGhpcyByZXR1cm5zIHRoZSBsYW5ndWFnZSBjb2RlIGZvciB0aGlzIHBhZ2UuCiAgICAgICAgIiIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>link</text>
       </register>
       <register name="-" type="4">
-        <text>get_language</text>
+        <text>link</text>
       </register>
       <register name="/" type="4">
-        <text>get_language_from_request</text>
+        <text>LOCALE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfbGFuZ3VhZ2Uoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgVGhpcyByZXR1cm5zIHRoZSBsYW5ndWFnZSBjb2RlIGZvciB0aGlzIHBhZ2UuCiAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfbGFuZ3VhZ2Uoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgVGhpcyByZXR1cm5zIHRoZSBsYW5ndWFnZSBjb2RlIGZvciB0aGlzIHBhZ2UuCiAgICAgICAgIiIiCiAgICAgICAgcHJpbnQoIldURiIpCiAgICAgICAgcHJpbnQgKHNlbGYuc2x1ZykKICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRk8iLCBsYW5ndWFnZSkK</text>
+        <text encoding="base64">ICAgIDxoMT5UaGFuayB5b3UgZm9yIHN1Ym1pdHRpbmcgeW91ciBjb250ZXN0LCBiZXN0IHdpc2hlcyE8L2gxPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQgKERFQlVHKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnRfcGFuZWxzID0gWwo=</text>
+        <text encoding="base64">ICAgIDxoMT5XZWxjb21lIHRvIHlvdXIgbmV3IFdhZ3RhaWwgc2l0ZSE8L2gxPgoKICAgIDxwPllvdSBjYW4gYWNjZXNzIHRoZSBhZG1pbiBpbnRlcmZhY2UgPGEgaHJlZj0ieyUgdXJsICd3YWd0YWlsYWRtaW5faG9tZScgJX0iPmhlcmU8L2E+IChtYWtlIHN1cmUgeW91IGhhdmUgcnVuICIuL21hbmFnZS5weSBjcmVhdGVzdXBlcnVzZXIiIGluIHRoZSBjb25zb2xlIGZpcnN0KS4KCiAgICA8cD5JZiB5b3UgaGF2ZW4ndCBhbHJlYWR5IGdpdmVuIHRoZSBkb2N1bWVudGF0aW9uIGEgcmVhZCwgaGVhZCBvdmVyIHRvIDxhIGhyZWY9Imh0dHA6Ly9kb2NzLndhZ3RhaWwuaW8vIj5odHRwOi8vZG9jcy53YWd0YWlsLmlvPC9hPiB0byBzdGFydCBidWlsZGluZyBvbiBXYWd0YWlsPC9wPgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJIRVJFIiwgc2V0dGluZ3MuU1RBVElDX1JPT1QpCg==</text>
+      <register name="4" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0YXRpY2ZpbGVzX3VybHBhdHRlcm5zKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRk8iLCBsYW5ndWFnZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQgKERFQlVHKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXJ2ZShzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIGZyb20gLmZvcm1zIGltcG9ydCBDb250ZXN0Rm9ybQogICAgICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdQT1NUJzoKICAgICAgICAgICAgZm9ybSA9IENvbnRlc3RGb3JtKHJlcXVlc3QuUE9TVCkKICAgICAgICAgICAgaWYgZm9ybS5pc192YWxpZCgpOgogICAgICAgICAgICAgICAgY29udGVzdCA9IGZvcm0uc2F2ZSgpCiAgICAgICAgICAgICAgICByZXR1cm4gcmVkaXJlY3QoJy90aHgtcGFnZS8nKSAjIGZldGNoIHRoYXQgcGFnZSBmcm9tIERCPwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGZvcm0gPSBDb250ZXN0Rm9ybSgpCiAgICAgICAgcmV0dXJuIHJlbmRlcihyZXF1ZXN0LAogICAgICAgICAgICAnaG9tZS9ob21lX3BhZ2UuaHRtbCcsCiAgICAgICAgICAgIHsncGFnZSc6IHNlbGYsICdmb3JtJzogZm9ybX0KICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGNvbnRlbnRfcGFuZWxzID0gWwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJIRVJFIiwgc2V0dGluZ3MuU1RBVElDX1JPT1QpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoc2V0dGluZ3MuREVCVUcpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN0YXRpY2ZpbGVzX3VybHBhdHRlcm5zKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_language_from_request</last-search>
+      <last-search>LOCALE</last-search>
       <last-offset />
-      <last-pattern>get_language_from_request</last-pattern>
+      <last-pattern>LOCALE</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -795,9 +811,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQbGF5ZXJTZXJpYWxpemVyXD4=</entry>
-        <entry encoding="base64">XDxDVVJSRU5UX1NFQVNPTlw+</entry>
-        <entry>Summary</entry>
         <entry>pc</entry>
         <entry>queryset</entry>
         <entry>extensions</entry>
@@ -815,6 +828,9 @@
         <entry>title</entry>
         <entry>Page</entry>
         <entry>get_language_from_request</entry>
+        <entry>LANGUAGES</entry>
+        <entry>MIDDLEWARE</entry>
+        <entry>LOCALE</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
