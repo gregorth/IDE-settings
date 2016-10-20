@@ -93,6 +93,11 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/landings/competition/requirements/local.txt" timestamp="1476969518094">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" timestamp="1476748166823">
         <mark key="'" line="41" column="39" />
         <mark key="[" line="63" column="20" />
@@ -221,7 +226,8 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" timestamp="1476867197856">
+      <file name="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" timestamp="1476970047453">
+        <mark key="'" line="26" column="0" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="41" column="24" />
         <mark key="." line="26" column="0" />
@@ -364,11 +370,11 @@
         <mark key="^" line="13" column="40" />
         <mark key="." line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/application/templates/env.stage" timestamp="1476867191805">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="3" column="35" />
-        <mark key="^" line="2" column="67" />
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/application/templates/env.stage" timestamp="1476969906429">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/projects/motiwings_minisite/templates/motiwings/landing-pages/lp1.html" timestamp="1474983251623">
         <mark key="[" line="50" column="86" />
@@ -672,7 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="7" filename="$USER_HOME$/projects/landings/competition/requirements/base.txt" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/victor/config/settings/production.py" />
       <jump line="16" column="7" filename="$USER_HOME$/projects/victor/config/settings/production.py" />
       <jump line="21" column="68" filename="$USER_HOME$/projects/victor/config/settings/production.py" />
@@ -772,13 +777,14 @@
       <jump line="6" column="24" filename="$USER_HOME$/projects/landings/competition/home/templates/home/includes/streamfield.html" />
       <jump line="3" column="9" filename="$USER_HOME$/projects/landings/competition/home/templates/home/includes/streamfield.html" />
       <jump line="71" column="6" filename="$USER_HOME$/projects/landings/competition/core/models.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YGBgCg==</text>
+      <register name="&quot;" type="4">
+        <text>eaccae4b97fc4fe09ae9ae78cec68629:7605d45fb3ca4c2cb3f9ab1e58884891@sentry.toreforge.space/11</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>eaccae4b97fc4fe09ae9ae78cec68629:7605d45fb3ca4c2cb3f9ab1e58884891@sentry.toreforge.space/11</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
@@ -787,31 +793,31 @@
         <text>translation.get_language_from_request(request,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">REpBTkdPX0FDQ09VTlRfQUxMT1dfUkVHSVNUUkFUSU9OPVRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3JlYXRlZGIgLU8gdW5sb2NrIHVubG9ja19kYgo=</text>
+        <text encoding="base64">U3BoaW54PT0xLjQuNQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ZGphbmdvLXRlc3QtcGx1cz09MS4wLjE1Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q3JlYXRlIHRoZSBkYXRhYmFzZSAqdW5sb2NrX2RiKjoK</text>
+        <text encoding="base64">bW9kZWxfbW9tbXk9PTEuMi42Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y3JlYXRldXNlciAtUCAtUyB1bmxvY2sK</text>
+        <text encoding="base64">Y3JlYXRlZGIgLU8gdW5sb2NrIHVubG9ja19kYgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q3JlYXRlIHVzZXIgKnVubG9ja191c2VyKiB3aXRoIHBhc3N3b3JkICp1bmxvY2sqCg==</text>
+        <text encoding="base64">Q3JlYXRlIHRoZSBkYXRhYmFzZSAqdW5sb2NrX2RiKjoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">e3sgcGFnZS5zdHJlYW1maWVsZCB9fQo=</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -858,10 +864,10 @@
         <entry>6</entry>
         <entry>31</entry>
         <entry>Q</entry>
-        <entry>qa</entry>
         <entry>q</entry>
-        <entry>w</entry>
+        <entry>qa</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
