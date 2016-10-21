@@ -233,11 +233,11 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" timestamp="1476979693700">
+      <file name="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" timestamp="1477042843161">
         <mark key="'" line="12" column="17" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
         <mark key="^" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/home/templates/home/home_page_link.html" timestamp="1476954353637">
@@ -620,12 +620,12 @@
         <mark key="." line="15" column="79" />
         <mark key="^" line="15" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1477041471022">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1477043570425">
+        <mark key="'" line="72" column="37" />
+        <mark key="[" line="72" column="37" />
+        <mark key="]" line="72" column="37" />
         <mark key="^" line="92" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="." line="72" column="37" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1477036987466">
         <mark key="'" line="6" column="30" />
@@ -718,8 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="7" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
-      <jump line="57" column="9" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
       <jump line="17" column="48" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
@@ -818,13 +816,15 @@
       <jump line="34" column="4" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="107" column="4" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
+      <jump line="108" column="15" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
+      <jump line="72" column="37" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICciJGFwcF9yZXF1ZXN0X3R5cGUifCcK</text>
+      <register name="&quot;" type="4">
+        <text>files</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1hZ2Ug</text>
+        <text>files</text>
       </register>
       <register name="/" type="4">
         <text>444</text>
@@ -907,8 +907,8 @@
         <entry>q</entry>
         <entry>25</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
