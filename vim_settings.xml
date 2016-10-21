@@ -371,7 +371,8 @@
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/landings/wolf-academy/wolfacademy/settings/production.py" timestamp="1477053462989">
+      <file name="$USER_HOME$/projects/landings/wolf-academy/wolfacademy/settings/production.py" timestamp="1477055005551">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -737,7 +738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
       <jump line="6" column="25" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
       <jump line="7" column="35" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
       <jump line="39" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
@@ -837,6 +837,7 @@
       <jump line="5" column="14" filename="$USER_HOME$/projects/landings/wolf-academy/deploy/host_vars/stage" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/landings/wolf-academy/deploy/roles/application/tasks/main.yml" />
       <jump line="45" column="46" filename="$USER_HOME$/projects/landings/wolf-academy/deploy/roles/application/tasks/main.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/landings/wolf-academy/wolfacademy/settings/production.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
