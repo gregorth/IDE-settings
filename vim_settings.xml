@@ -161,6 +161,13 @@
         <mark key="." line="159" column="40" />
         <mark key="^" line="159" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/landings/wolf-academy/deploy/roles/application/tasks/main.yml" timestamp="1477053756355">
+        <mark key="'" line="45" column="46" />
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="46" />
+        <mark key="." line="45" column="46" />
+        <mark key="^" line="45" column="46" />
+      </file>
       <file name="$USER_HOME$/projects/motiwings_minisite/minisite/forms.py" timestamp="1474977813194">
         <mark key="[" line="22" column="65" />
         <mark key="]" line="22" column="65" />
@@ -363,6 +370,12 @@
         <mark key="]" line="15" column="42" />
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/wolf-academy/wolfacademy/settings/production.py" timestamp="1477053462989">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/views.py" timestamp="1476748414682">
         <mark key="'" line="8" column="4" />
@@ -683,6 +696,13 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/landings/wolf-academy/deploy/host_vars/stage" timestamp="1477054324198">
+        <mark key="'" line="5" column="14" />
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" timestamp="1476709675473">
         <mark key="'" line="651" column="9" />
       </file>
@@ -717,9 +737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
-      <jump line="17" column="48" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
-      <jump line="46" column="47" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
       <jump line="6" column="25" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
       <jump line="7" column="35" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
@@ -817,16 +834,19 @@
       <jump line="72" column="37" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="111" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="23" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
+      <jump line="5" column="14" filename="$USER_HOME$/projects/landings/wolf-academy/deploy/host_vars/stage" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/landings/wolf-academy/deploy/roles/application/tasks/main.yml" />
+      <jump line="45" column="46" filename="$USER_HOME$/projects/landings/wolf-academy/deploy/roles/application/tasks/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICciJGFwcF9jb2RlbmFtZSInOwo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>files</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>app_codename</text>
+        <text>comp</text>
       </register>
       <register name="0" type="4">
         <text>DJANGO_EMAIL_SUBJECT_PREFIX</text>
@@ -863,9 +883,9 @@
       </register>
     </registers>
     <search>
-      <last-search>app_codename</last-search>
+      <last-search>comp</last-search>
       <last-offset />
-      <last-pattern>app_codename</last-pattern>
+      <last-pattern>comp</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -873,8 +893,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LANGUAGES</entry>
-        <entry>MIDDLEWARE</entry>
         <entry>LOCALE</entry>
         <entry>url</entry>
         <entry encoding="base64">XDxnZXRfc3VwcG9ydGVkX2xhbmd1YWdlX3ZhcmlhbnRcPg==</entry>
@@ -893,6 +911,8 @@
         <entry>app_request_type</entry>
         <entry>444</entry>
         <entry>app_codename</entry>
+        <entry>copy</entry>
+        <entry>comp</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -905,8 +925,9 @@
         <entry>Q</entry>
         <entry>q</entry>
         <entry>25</entry>
-        <entry>qa</entry>
+        <entry>90</entry>
         <entry>W</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
