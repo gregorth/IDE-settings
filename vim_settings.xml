@@ -620,11 +620,12 @@
         <mark key="." line="15" column="73" />
         <mark key="^" line="15" column="73" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1476980215175">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="94" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1477040275987">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="93" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1477036987466">
         <mark key="'" line="6" column="30" />
@@ -717,7 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="12" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
       <jump line="6" column="49" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
       <jump line="18" column="7" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
@@ -817,10 +817,11 @@
       <jump line="11" column="17" filename="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/application/handlers/main.yml" />
       <jump line="42" column="30" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
+      <jump line="34" column="4" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">e3sgcGFnZS5pbWcxLnZhbHVlIH19Cg==</text>
+        <text encoding="base64">ICAgIHNldCAkYXBwX2NvZGVuYW1lIHZpY3RvcjsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW1hZ2Ug</text>
@@ -832,31 +833,31 @@
         <text>DJANGO_EMAIL_SUBJECT_PREFIX</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e3sgcGFnZS5pbWcxLnZhbHVlIH19Cg==</text>
+        <text encoding="base64">ICAgIHNldCAkYXBwX2NvZGVuYW1lIHZpY3RvcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3sgcGFnZS5pbWcxLnZhbHVlIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlICAgICB1d3NnaV9wYXJhbXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1d3NnaV9wYXNzICB1bml4Oi8vL3Zhci9ydW4vdXdzZ2kvYXBwL3t7c2VydmljZV9uYW1lfX0vc29ja2V0Owo=</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlICAgICB1d3NnaV9wYXJhbXM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhY2Nlc3NfbG9nIHt7cHJvamVjdF9sb2dzX2Rpcn19L3t7IHNlcnZpY2VfbmFtZSB9fV9zdGF0cy5sb2cgc3RhdHNfbG9nOwo=</text>
+        <text encoding="base64">ICAgICAgICB1d3NnaV9wYXNzICB1bml4Oi8vL3Zhci9ydW4vdXdzZ2kvYXBwL3t7c2VydmljZV9uYW1lfX0vc29ja2V0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICBzZXQgJGFwcF9yZXF1ZXN0X3R5cGUgbm9ybWFsOwo=</text>
+        <text encoding="base64">ICAgICAgICBhY2Nlc3NfbG9nIHt7cHJvamVjdF9sb2dzX2Rpcn19L3t7IHNlcnZpY2VfbmFtZSB9fV9zdGF0cy5sb2cgc3RhdHNfbG9nOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBuYW1lOiByZXN0YXJ0IHN1cGVydmlzb3IKICBiZWNvbWVfdXNlcjogcm9vdAogIGNvbW1hbmQ6IHNlcnZpY2Ugc3VwZXJ2aXNvciByZXN0YXJ0Cg==</text>
+        <text encoding="base64">CSAgICBzZXQgJGFwcF9yZXF1ZXN0X3R5cGUgbm9ybWFsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBuYW1lOiByZXN0YXJ0IHV3c2dpCiAgYmVjb21lX3VzZXI6IHJvb3QKICBzZXJ2aWNlOiBuYW1lPXV3c2dpIHN0YXRlPXJlbG9hZGVkCgo=</text>
+        <text encoding="base64">LSBuYW1lOiByZXN0YXJ0IHN1cGVydmlzb3IKICBiZWNvbWVfdXNlcjogcm9vdAogIGNvbW1hbmQ6IHNlcnZpY2Ugc3VwZXJ2aXNvciByZXN0YXJ0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -904,10 +905,10 @@
         <entry>31</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>qa</entry>
         <entry>25</entry>
-        <entry>W</entry>
+        <entry>qa</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
