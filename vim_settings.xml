@@ -161,12 +161,12 @@
         <mark key="." line="159" column="40" />
         <mark key="^" line="159" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/landings/wolf-academy/deploy/roles/application/tasks/main.yml" timestamp="1477053756355">
+      <file name="$USER_HOME$/projects/landings/wolf-academy/deploy/roles/application/tasks/main.yml" timestamp="1477055790010">
         <mark key="'" line="45" column="46" />
-        <mark key="[" line="45" column="39" />
-        <mark key="]" line="45" column="46" />
-        <mark key="." line="45" column="46" />
-        <mark key="^" line="45" column="46" />
+        <mark key="[" line="59" column="12" />
+        <mark key="]" line="59" column="15" />
+        <mark key="." line="59" column="15" />
+        <mark key="^" line="59" column="15" />
       </file>
       <file name="$USER_HOME$/projects/motiwings_minisite/minisite/forms.py" timestamp="1474977813194">
         <mark key="[" line="22" column="65" />
@@ -841,10 +841,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>start</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>comp</text>
