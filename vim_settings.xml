@@ -614,18 +614,18 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/competition/wsgi.py" timestamp="1476979663076">
-        <mark key="[" line="15" column="70" />
-        <mark key="]" line="15" column="73" />
-        <mark key="." line="15" column="73" />
-        <mark key="^" line="15" column="73" />
+      <file name="$USER_HOME$/projects/landings/competition/competition/wsgi.py" timestamp="1477041371332">
+        <mark key="[" line="15" column="74" />
+        <mark key="]" line="15" column="79" />
+        <mark key="." line="15" column="79" />
+        <mark key="^" line="15" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1477040275987">
-        <mark key="'" line="34" column="4" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="93" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1477041471022">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="92" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1477036987466">
         <mark key="'" line="6" column="30" />
@@ -718,8 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
-      <jump line="6" column="49" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
       <jump line="18" column="7" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
       <jump line="57" column="9" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
@@ -818,55 +816,57 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/application/handlers/main.yml" />
       <jump line="42" column="30" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="34" column="4" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
+      <jump line="107" column="4" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
+      <jump line="23" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNldCAkYXBwX2NvZGVuYW1lIHZpY3RvcjsK</text>
+        <text encoding="base64">ICAgICciJGFwcF9yZXF1ZXN0X3R5cGUifCcK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW1hZ2Ug</text>
       </register>
       <register name="/" type="4">
-        <text>service_name</text>
+        <text>444</text>
       </register>
       <register name="0" type="4">
         <text>DJANGO_EMAIL_SUBJECT_PREFIX</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNldCAkYXBwX2NvZGVuYW1lIHZpY3RvcjsK</text>
+        <text encoding="base64">ICAgICciJGFwcF9yZXF1ZXN0X3R5cGUifCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">e3sgcGFnZS5pbWcxLnZhbHVlIH19Cg==</text>
+        <text encoding="base64">ICAgIHNldCAkYXBwX2NvZGVuYW1lIHZpY3RvcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3sgcGFnZS5pbWcxLnZhbHVlIH19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlICAgICB1d3NnaV9wYXJhbXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1d3NnaV9wYXNzICB1bml4Oi8vL3Zhci9ydW4vdXdzZ2kvYXBwL3t7c2VydmljZV9uYW1lfX0vc29ja2V0Owo=</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlICAgICB1d3NnaV9wYXJhbXM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhY2Nlc3NfbG9nIHt7cHJvamVjdF9sb2dzX2Rpcn19L3t7IHNlcnZpY2VfbmFtZSB9fV9zdGF0cy5sb2cgc3RhdHNfbG9nOwo=</text>
+        <text encoding="base64">ICAgICAgICB1d3NnaV9wYXNzICB1bml4Oi8vL3Zhci9ydW4vdXdzZ2kvYXBwL3t7c2VydmljZV9uYW1lfX0vc29ja2V0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICBzZXQgJGFwcF9yZXF1ZXN0X3R5cGUgbm9ybWFsOwo=</text>
+        <text encoding="base64">ICAgICAgICBhY2Nlc3NfbG9nIHt7cHJvamVjdF9sb2dzX2Rpcn19L3t7IHNlcnZpY2VfbmFtZSB9fV9zdGF0cy5sb2cgc3RhdHNfbG9nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBuYW1lOiByZXN0YXJ0IHN1cGVydmlzb3IKICBiZWNvbWVfdXNlcjogcm9vdAogIGNvbW1hbmQ6IHNlcnZpY2Ugc3VwZXJ2aXNvciByZXN0YXJ0Cg==</text>
+        <text encoding="base64">CSAgICBzZXQgJGFwcF9yZXF1ZXN0X3R5cGUgbm9ybWFsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>service_name</last-search>
+      <last-search>444</last-search>
       <last-offset />
-      <last-pattern>service_name</last-pattern>
+      <last-pattern>444</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -874,8 +874,6 @@
     </search>
     <history>
       <history-search>
-        <entry>title</entry>
-        <entry>Page</entry>
         <entry>get_language_from_request</entry>
         <entry>LANGUAGES</entry>
         <entry>MIDDLEWARE</entry>
@@ -894,6 +892,8 @@
         <entry encoding="base64">XDxJbWFnZUNob29zZXJQYW5lbFw+</entry>
         <entry encoding="base64">XDxob21lX2Rpclw+</entry>
         <entry>service_name</entry>
+        <entry>app_request_type</entry>
+        <entry>444</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
