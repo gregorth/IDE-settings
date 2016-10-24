@@ -533,7 +533,7 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/competition/settings/.env" timestamp="1477299086929">
+      <file name="$USER_HOME$/projects/landings/competition/competition/settings/.env" timestamp="1477302242081">
         <mark key="'" line="18" column="27" />
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="27" />
@@ -875,7 +875,7 @@
         <text encoding="base64">ICAgICAgICBhY2Nlc3NfbG9nIHt7cHJvamVjdF9sb2dzX2Rpcn19L3t7IHNlcnZpY2VfbmFtZSB9fV9zdGF0cy5sb2cgc3RhdHNfbG9nOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -923,8 +923,8 @@
         <entry>25</entry>
         <entry>90</entry>
         <entry>W</entry>
-        <entry>qa</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
