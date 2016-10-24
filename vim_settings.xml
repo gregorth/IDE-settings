@@ -144,12 +144,12 @@
         <mark key="." line="11" column="115" />
         <mark key="^" line="11" column="115" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1477311752616">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="48" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="161" column="19" />
+      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1477321527970">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="161" column="24" />
+        <mark key="]" line="161" column="26" />
+        <mark key="." line="161" column="26" />
+        <mark key="^" line="161" column="26" />
       </file>
       <file name="$USER_HOME$/projects/landings/wolf-academy/deploy/roles/application/tasks/main.yml" timestamp="1477055790010">
         <mark key="'" line="45" column="46" />
@@ -519,13 +519,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/forms.py" timestamp="1477311769295">
-        <mark key="'" line="27" column="38" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="36" />
-        <mark key="." line="27" column="36" />
-        <mark key="^" line="27" column="36" />
-      </file>
+      <file name="$USER_HOME$/projects/landings/competition/home/forms.py" timestamp="1477311769295" />
       <file name="$USER_HOME$/projects/victor/deploy/roles/system/handlers/main.yml" timestamp="1472806993551">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="2" column="12" />
@@ -648,13 +642,7 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1477311877298">
-        <mark key="'" line="53" column="8" />
-        <mark key="[" line="156" column="26" />
-        <mark key="]" line="156" column="47" />
-        <mark key="." line="156" column="47" />
-        <mark key="^" line="156" column="47" />
-      </file>
+      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1477311877298" />
       <file name="$USER_HOME$/projects/motiwings_minisite/templates/motiwings/landing-pages/lp2.html" timestamp="1474983359771">
         <mark key="[" line="29" column="28" />
         <mark key="]" line="29" column="32" />
@@ -751,7 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="740" column="63" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
       <jump line="995" column="58" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
       <jump line="1041" column="61" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
       <jump line="1157" column="67" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
@@ -851,6 +838,7 @@
       <jump line="160" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="113" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="27" column="38" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
