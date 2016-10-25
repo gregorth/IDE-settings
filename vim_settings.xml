@@ -76,6 +76,13 @@
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" timestamp="1477390956764">
+        <mark key="'" line="84" column="8" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="29" column="14" />
+        <mark key="^" line="84" column="8" />
+        <mark key="." line="84" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/mysite/lpform/views.py" timestamp="1473931342714">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
@@ -100,6 +107,13 @@
         <mark key="]" line="22" column="24" />
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/priv/cic/contact/serializers.py" timestamp="1477392301722">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="59" />
+        <mark key="." line="9" column="59" />
+        <mark key="^" line="9" column="59" />
       </file>
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/tools.py" timestamp="1476735965291">
         <mark key="[" line="48" column="51" />
@@ -162,6 +176,12 @@
         <mark key="]" line="22" column="65" />
         <mark key="^" line="22" column="73" />
         <mark key="." line="22" column="65" />
+      </file>
+      <file name="$USER_HOME$/projects/priv/cic/cic/urls.py" timestamp="1477391526627">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="41" />
+        <mark key="." line="24" column="41" />
+        <mark key="^" line="24" column="41" />
       </file>
       <file name="$USER_HOME$/projects/ansible_roles/wordpress/roles/server/tasks/main.yml" timestamp="1476447216981">
         <mark key="[" line="26" column="2" />
@@ -302,6 +322,13 @@
         <mark key="]" line="62" column="0" />
         <mark key="^" line="12" column="15" />
         <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/priv/cic/contact/models.py" timestamp="1477390213650">
+        <mark key="'" line="24" column="21" />
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="36" />
       </file>
       <file name="$USER_HOME$/projects/djcms_tutorial/polls_cms_integration/cms_plugin.py" timestamp="1476264001370">
         <mark key="[" line="0" column="0" />
@@ -518,7 +545,17 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/forms.py" timestamp="1477311769295" />
+      <file name="$USER_HOME$/.virtualenvs/cic/lib/python3.5/site-packages/rest_framework/mixins.py" timestamp="1477391875339">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="47" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/priv/cic/cic/settings.py" timestamp="1477392048119">
+        <mark key="'" line="42" column="20" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="129" column="18" />
+        <mark key="." line="130" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/victor/deploy/roles/system/handlers/main.yml" timestamp="1472806993551">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="2" column="12" />
@@ -562,6 +599,12 @@
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/priv/cic/contact/views.py" timestamp="1477392037686">
+        <mark key="'" line="8" column="28" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/competition/lp/models.py" timestamp="1476285036790">
         <mark key="'" line="29" column="19" />
@@ -743,60 +786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1041" column="61" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="1157" column="67" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="1381" column="55" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="1456" column="91" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="1461" column="91" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="34" column="38" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="75" column="35" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="234" column="39" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="244" column="45" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="247" column="10" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="249" column="15" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="251" column="44" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="254" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="255" column="21" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="44" column="1" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/__init__.py" />
-      <jump line="14" column="21" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/__init__.py" />
-      <jump line="204" column="4" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/__init__.py" />
-      <jump line="205" column="18" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="51" column="23" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
-      <jump line="146" column="21" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
-      <jump line="145" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
-      <jump line="312" column="4" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="330" column="4" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="410" column="12" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="412" column="21" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="418" column="35" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="420" column="75" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="421" column="17" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="423" column="20" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="479" column="26" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="486" column="21" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="125" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
-      <jump line="445" column="4" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="479" column="4" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="509" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
-      <jump line="151" column="10" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
-      <jump line="50" column="13" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/projects/landings/competition/core/models.py" />
-      <jump line="35" column="21" filename="$USER_HOME$/projects/landings/competition/core/models.py" />
-      <jump line="43" column="26" filename="$USER_HOME$/projects/landings/competition/core/models.py" />
-      <jump line="49" column="19" filename="$USER_HOME$/projects/landings/competition/core/models.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/projects/landings/competition/core/models.py" />
-      <jump line="2" column="21" filename="$USER_HOME$/projects/landings/competition/home/templates/home/includes/streamfield.html" />
-      <jump line="6" column="24" filename="$USER_HOME$/projects/landings/competition/home/templates/home/includes/streamfield.html" />
-      <jump line="3" column="9" filename="$USER_HOME$/projects/landings/competition/home/templates/home/includes/streamfield.html" />
-      <jump line="71" column="6" filename="$USER_HOME$/projects/landings/competition/core/models.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" />
-      <jump line="19" column="24" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
-      <jump line="11" column="56" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="16" column="6" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="17" column="6" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="9" column="13" filename="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" />
@@ -843,55 +832,109 @@
       <jump line="27" column="38" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="63" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="209" column="0" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="49" column="43" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="10" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="16" column="3" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="9" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="11" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="12" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="18" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="13" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="14" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="15" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="16" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="8" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="13" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="15" column="15" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="18" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="17" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="19" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="10" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="20" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="11" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="21" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="14" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="22" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="19" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="23" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="24" column="14" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="48" column="8" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="58" column="19" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="64" column="16" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="59" column="20" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="37" column="8" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="4" column="28" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="7" column="13" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="17" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="25" column="22" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="6" column="23" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="23" column="25" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="24" column="21" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
+      <jump line="40" column="18" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="39" column="17" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="3" column="7" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="65" column="8" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="75" column="19" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="76" column="20" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="82" column="16" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="84" column="8" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="8" column="28" filename="$USER_HOME$/projects/priv/cic/contact/views.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/priv/cic/contact/serializers.py" />
+      <jump line="4" column="6" filename="$USER_HOME$/projects/priv/cic/contact/serializers.py" />
+      <jump line="42" column="20" filename="$USER_HOME$/projects/priv/cic/cic/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXF1ZXN0Lk1FVEFbJ0hUVFBfQUNDRVBUX0xBTkdVQUdFJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>ContactListSerializer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdkamFuZ28ubWlkZGxld2FyZS5sb2NhbGUuTG9jYWxlTWlkZGxld2FyZScsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYWdlIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZXJpYWxpemVyID0gc2VsZi5nZXRfc2VyaWFsaXplcihwYWdlLCBtYW55PVRydWUpCiAgICAgICAgICAgIHJldHVybiBzZWxmLmdldF9wYWdpbmF0ZWRfcmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQoKICAgICAgICBzZXJpYWxpemVyID0gc2VsZi5nZXRfc2VyaWFsaXplcihxdWVyeXNldCwgbWFueT1UcnVlKQogICAgICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpemVyLmRhdGEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXF1ZXN0Lk1FVEFbJ0hUVFBfQUNDRVBUX0xBTkdVQUdFJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiTEFOR1VBR0UgQ09ERSIsIHJlcXVlc3QuTEFOR1VBR0VfQ09ERSkK</text>
+        <text encoding="base64">ICAgIHBhZ2Vfc2l6ZSA9IDEwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXF1ZXN0Lk1FVEEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdkamFuZ28ubWlkZGxld2FyZS5sb2NhbGUuTG9jYWxlTWlkZGxld2FyZScsCg==</text>
+        <text encoding="base64">ICAgIGRlZiBsaXN0KHNlbGYsIHJlcXVlc3QsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgcXVlcnlzZXQgPSBzZWxmLmZpbHRlcl9xdWVyeXNldChzZWxmLmdldF9xdWVyeXNldCgpKQoKICAgICAgICBwYWdlID0gc2VsZi5wYWdpbmF0ZV9xdWVyeXNldChxdWVyeXNldCkKICAgICAgICBpZiBwYWdlIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZXJpYWxpemVyID0gc2VsZi5nZXRfc2VyaWFsaXplcihwYWdlLCBtYW55PVRydWUpCiAgICAgICAgICAgIHJldHVybiBzZWxmLmdldF9wYWdpbmF0ZWRfcmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQoKICAgICAgICBzZXJpYWxpemVyID0gc2VsZi5nZXRfc2VyaWFsaXplcihxdWVyeXNldCwgbWFueT1UcnVlKQogICAgICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpemVyLmRhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0IGFzIF8K</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IENvbnRhY3Qub2JqZWN0cy5hbGwoKQogICAgICAgIHNlcmlhbGl6ZXIgPSBDb250YWN0TGlzdFNlcmlhbGl6ZXIocXVlcnlzZXQsIG1hbnk9VHJ1ZSkKICAgICAgICBwcmludCgiQEBAIiwgc2VyaWFsaXplcikKICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50ZW1wbGF0ZSA9ICdwYWdlcy90aHhfcGFnZV9oLmh0bWwnCg==</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjdXN0b21pemVkIHRlbXBsYXRlCg==</text>
+        <text encoding="base64">Q29udGFjdExpc3RTZXJpYWxpemVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAncGFnZScgaW4gcmVxdWVzdC5HRVQgYW5kIHJlcXVlc3QuR0VULmdldCgncGFnZScpID09ICdoJzoK</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAoJ2lkJywgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlID0gJ3BhZ2VzL3RoeF9wYWdlLmh0bWwnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>ContactListSerializer</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>ContactListSerializer</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -899,26 +942,26 @@
     </search>
     <history>
       <history-search>
-        <entry>StoryBlock</entry>
-        <entry>Stroy</entry>
-        <entry>self</entry>
-        <entry encoding="base64">XDxJbWFnZVw+</entry>
-        <entry encoding="base64">XDxUb3JjaGJveEltYWdlXD4=</entry>
-        <entry encoding="base64">XDxJbWFnZUNob29zZXJQYW5lbFw+</entry>
-        <entry encoding="base64">XDxob21lX2Rpclw+</entry>
-        <entry>service_name</entry>
-        <entry>app_request_type</entry>
-        <entry>444</entry>
-        <entry>app_codename</entry>
-        <entry>copy</entry>
-        <entry>comp</entry>
-        <entry>LocaleMiddleware</entry>
-        <entry>template_name</entry>
-        <entry>template</entry>
-        <entry>po</entry>
-        <entry>LANGUAGE_CODE</entry>
-        <entry>:w</entry>
-        <entry>print</entry>
+        <entry>vendor_name</entry>
+        <entry>email</entry>
+        <entry>record_id</entry>
+        <entry>main_office_region</entry>
+        <entry>cic_head</entry>
+        <entry>full_name</entry>
+        <entry>has_alternative_email</entry>
+        <entry>ops_rep</entry>
+        <entry>active</entry>
+        <entry>created_adn</entry>
+        <entry>created_ad</entry>
+        <entry>billing_rep</entry>
+        <entry>cic_phone</entry>
+        <entry encoding="base64">XDxjb250aW51ZVw+</entry>
+        <entry encoding="base64">XDxwcmVwcm9jZXNzX2RhdGFcPg==</entry>
+        <entry>mod</entry>
+        <entry>IntegerField</entry>
+        <entry encoding="base64">XDx0aW1lXD4=</entry>
+        <entry encoding="base64">XDxwcm9jZXNzZWRfcm93c1w+</entry>
+        <entry>ContactListSerializer</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -933,6 +976,7 @@
         <entry>90</entry>
         <entry>qa</entry>
         <entry>q</entry>
+        <entry>.w</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
@@ -981,6 +1025,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
