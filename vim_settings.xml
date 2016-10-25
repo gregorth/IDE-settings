@@ -76,12 +76,12 @@
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" timestamp="1477390956764">
-        <mark key="'" line="84" column="8" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="29" column="14" />
-        <mark key="^" line="84" column="8" />
-        <mark key="." line="84" column="8" />
+      <file name="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" timestamp="1477394430744">
+        <mark key="'" line="41" column="14" />
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="41" column="83" />
+        <mark key="^" line="41" column="83" />
+        <mark key="." line="41" column="83" />
       </file>
       <file name="$USER_HOME$/projects/mysite/lpform/views.py" timestamp="1473931342714">
         <mark key="[" line="1" column="0" />
@@ -177,11 +177,11 @@
         <mark key="^" line="22" column="73" />
         <mark key="." line="22" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/priv/cic/cic/urls.py" timestamp="1477391526627">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="41" />
-        <mark key="." line="24" column="41" />
-        <mark key="^" line="24" column="41" />
+      <file name="$USER_HOME$/projects/priv/cic/cic/urls.py" timestamp="1477393142281">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="25" />
+        <mark key="." line="24" column="25" />
+        <mark key="^" line="24" column="25" />
       </file>
       <file name="$USER_HOME$/projects/ansible_roles/wordpress/roles/server/tasks/main.yml" timestamp="1476447216981">
         <mark key="[" line="26" column="2" />
@@ -549,12 +549,12 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="47" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/priv/cic/cic/settings.py" timestamp="1477392048119">
-        <mark key="'" line="42" column="20" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="^" line="129" column="18" />
-        <mark key="." line="130" column="0" />
+      <file name="$USER_HOME$/projects/priv/cic/cic/settings.py" timestamp="1477393908942">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="53" column="43" />
+        <mark key="]" line="53" column="43" />
+        <mark key="^" line="53" column="43" />
+        <mark key="." line="53" column="43" />
       </file>
       <file name="$USER_HOME$/projects/victor/deploy/roles/system/handlers/main.yml" timestamp="1472806993551">
         <mark key="[" line="1" column="19" />
@@ -600,11 +600,12 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/priv/cic/contact/views.py" timestamp="1477392037686">
+      <file name="$USER_HOME$/projects/priv/cic/contact/views.py" timestamp="1477393530022">
         <mark key="'" line="8" column="28" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/projects/competition/lp/models.py" timestamp="1476285036790">
         <mark key="'" line="29" column="19" />
@@ -786,10 +787,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="6" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
-      <jump line="17" column="6" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
-      <jump line="9" column="13" filename="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" />
-      <jump line="19" column="16" filename="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" />
       <jump line="11" column="17" filename="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/application/handlers/main.yml" />
@@ -886,64 +883,66 @@
       <jump line="9" column="0" filename="$USER_HOME$/projects/priv/cic/contact/serializers.py" />
       <jump line="4" column="6" filename="$USER_HOME$/projects/priv/cic/contact/serializers.py" />
       <jump line="42" column="20" filename="$USER_HOME$/projects/priv/cic/cic/settings.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/projects/priv/cic/cic/settings.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="5" column="21" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
+      <jump line="41" column="14" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZSkK</text>
+        <text encoding="base64">ICAgICdjb3JzaGVhZGVycycsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>django-</text>
       </register>
       <register name="/" type="4">
-        <text>ContactListSerializer</text>
+        <text encoding="base64">XDxoaW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBwYWdlIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZXJpYWxpemVyID0gc2VsZi5nZXRfc2VyaWFsaXplcihwYWdlLCBtYW55PVRydWUpCiAgICAgICAgICAgIHJldHVybiBzZWxmLmdldF9wYWdpbmF0ZWRfcmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQoKICAgICAgICBzZXJpYWxpemVyID0gc2VsZi5nZXRfc2VyaWFsaXplcihxdWVyeXNldCwgbWFueT1UcnVlKQogICAgICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpemVyLmRhdGEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZSkK</text>
+        <text encoding="base64">ICAgICdjb3JzaGVhZGVycycsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhZ2Vfc2l6ZSA9IDEwCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhZ2Vfc2l6ZSA9IDEwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBsaXN0KHNlbGYsIHJlcXVlc3QsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgcXVlcnlzZXQgPSBzZWxmLmZpbHRlcl9xdWVyeXNldChzZWxmLmdldF9xdWVyeXNldCgpKQoKICAgICAgICBwYWdlID0gc2VsZi5wYWdpbmF0ZV9xdWVyeXNldChxdWVyeXNldCkKICAgICAgICBpZiBwYWdlIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZXJpYWxpemVyID0gc2VsZi5nZXRfc2VyaWFsaXplcihwYWdlLCBtYW55PVRydWUpCiAgICAgICAgICAgIHJldHVybiBzZWxmLmdldF9wYWdpbmF0ZWRfcmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQoKICAgICAgICBzZXJpYWxpemVyID0gc2VsZi5nZXRfc2VyaWFsaXplcihxdWVyeXNldCwgbWFueT1UcnVlKQogICAgICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpemVyLmRhdGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IENvbnRhY3Qub2JqZWN0cy5hbGwoKQogICAgICAgIHNlcmlhbGl6ZXIgPSBDb250YWN0TGlzdFNlcmlhbGl6ZXIocXVlcnlzZXQsIG1hbnk9VHJ1ZSkKICAgICAgICBwcmludCgiQEBAIiwgc2VyaWFsaXplcikKICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBsaXN0KHNlbGYsIHJlcXVlc3QsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgcXVlcnlzZXQgPSBzZWxmLmZpbHRlcl9xdWVyeXNldChzZWxmLmdldF9xdWVyeXNldCgpKQoKICAgICAgICBwYWdlID0gc2VsZi5wYWdpbmF0ZV9xdWVyeXNldChxdWVyeXNldCkKICAgICAgICBpZiBwYWdlIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZXJpYWxpemVyID0gc2VsZi5nZXRfc2VyaWFsaXplcihwYWdlLCBtYW55PVRydWUpCiAgICAgICAgICAgIHJldHVybiBzZWxmLmdldF9wYWdpbmF0ZWRfcmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQoKICAgICAgICBzZXJpYWxpemVyID0gc2VsZi5nZXRfc2VyaWFsaXplcihxdWVyeXNldCwgbWFueT1UcnVlKQogICAgICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpemVyLmRhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IENvbnRhY3Qub2JqZWN0cy5hbGwoKQogICAgICAgIHNlcmlhbGl6ZXIgPSBDb250YWN0TGlzdFNlcmlhbGl6ZXIocXVlcnlzZXQsIG1hbnk9VHJ1ZSkKICAgICAgICBwcmludCgiQEBAIiwgc2VyaWFsaXplcikKICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q29udGFjdExpc3RTZXJpYWxpemVyCg==</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAoJ2lkJywgKQo=</text>
+        <text encoding="base64">Q29udGFjdExpc3RTZXJpYWxpemVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAoJ2lkJywgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ContactListSerializer</last-search>
+      <last-search encoding="base64">XDxoaW50XD4=</last-search>
       <last-offset />
-      <last-pattern>ContactListSerializer</last-pattern>
+      <last-pattern encoding="base64">XDxoaW50XD4=</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vendor_name</entry>
-        <entry>email</entry>
         <entry>record_id</entry>
         <entry>main_office_region</entry>
         <entry>cic_head</entry>
@@ -962,6 +961,8 @@
         <entry encoding="base64">XDx0aW1lXD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzZWRfcm93c1w+</entry>
         <entry>ContactListSerializer</entry>
+        <entry>datetime</entry>
+        <entry encoding="base64">XDxoaW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -977,8 +978,8 @@
         <entry>qa</entry>
         <entry>q</entry>
         <entry>.w</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
