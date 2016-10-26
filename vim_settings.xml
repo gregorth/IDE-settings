@@ -16,9 +16,6 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/__init__.py" timestamp="1476959091511">
-        <mark key="'" line="205" column="18" />
-      </file>
       <file name="$USER_HOME$/projects/victor_cms/victor_cms/settings/base.py" timestamp="1476708485787">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -171,6 +168,11 @@
         <mark key="." line="59" column="15" />
         <mark key="^" line="59" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" timestamp="1477471829205">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/motiwings_minisite/minisite/forms.py" timestamp="1474977813194">
         <mark key="[" line="22" column="65" />
         <mark key="]" line="22" column="65" />
@@ -231,12 +233,6 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/recruitment/lib/python3.5/site-packages/django/db/models/fields/related_descriptors.py" timestamp="1476736298489">
-        <mark key="'" line="510" column="10" />
-      </file>
-      <file name="$USER_HOME$/projekty/tmp/nba_py/nba_py/constants.py" timestamp="1476740278877">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/stage.yml" timestamp="1476866541179">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="25" />
@@ -255,9 +251,6 @@
         <mark key="]" line="6" column="14" />
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/competition/.gitignore" timestamp="1477310169483">
-        <mark key="'" line="101" column="9" />
       </file>
       <file name="$USER_HOME$/projects/victor_cms/step1/tools.py" timestamp="1473946476737">
         <mark key="[" line="14" column="0" />
@@ -313,9 +306,6 @@
         <mark key="]" line="69" column="17" />
         <mark key="." line="69" column="17" />
         <mark key="^" line="69" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/competition/competition/templates/base.html" timestamp="1476870237450">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/tasks/main.yml" timestamp="1476979390406">
         <mark key="[" line="62" column="0" />
@@ -459,9 +449,6 @@
         <mark key="]" line="25" column="13" />
         <mark key="^" line="25" column="13" />
         <mark key="." line="25" column="13" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/competition/local/lib/python2.7/site-packages/wagtail/wagtailcore/models.py" timestamp="1477308493142">
-        <mark key="'" line="265" column="31" />
       </file>
       <file name="$USER_HOME$/projects/unlock_app-web/unlock/phrases/views.py" timestamp="1475674760295">
         <mark key="[" line="19" column="20" />
@@ -650,9 +637,6 @@
         <mark key="." line="19" column="27" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/victor/config/settings/production.py" timestamp="1476868166607">
-        <mark key="'" line="57" column="67" />
-      </file>
       <file name="$USER_HOME$/projects/djcms_tutorial/polls_cms_integration/models.py" timestamp="1476263966609">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="26" />
@@ -751,9 +735,6 @@
         <mark key="]" line="25" column="24" />
         <mark key="." line="25" column="24" />
         <mark key="^" line="25" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" timestamp="1476709675473">
-        <mark key="'" line="651" column="9" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/recruitment/lib/python3.5/site-packages/rest_framework/viewsets.py" timestamp="1476743331628">
         <mark key="[" line="137" column="6" />
@@ -889,11 +870,11 @@
       <jump line="41" column="14" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdjb3JzaGVhZGVycycsCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>django-</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoaW50XD4=</text>
