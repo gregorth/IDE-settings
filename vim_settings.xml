@@ -91,12 +91,12 @@
         <mark key="." line="59" column="15" />
         <mark key="^" line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" timestamp="1477494491659">
-        <mark key="'" line="136" column="28" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="145" column="46" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" timestamp="1477495960008">
+        <mark key="'" line="7" column="28" />
+        <mark key="[" line="114" column="24" />
+        <mark key="]" line="114" column="24" />
+        <mark key="." line="114" column="24" />
+        <mark key="^" line="118" column="0" />
       </file>
       <file name="$USER_HOME$/projects/priv/cic/cic/urls.py" timestamp="1477393142281">
         <mark key="[" line="24" column="25" />
@@ -104,10 +104,10 @@
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" timestamp="1477492332798">
+      <file name="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" timestamp="1477496378041">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="15" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="11" />
         <mark key="." line="28" column="3" />
         <mark key="^" line="28" column="3" />
       </file>
@@ -125,12 +125,12 @@
         <mark key="." line="69" column="17" />
         <mark key="^" line="69" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/tasks/main.yml" timestamp="1477488493973">
-        <mark key="'" line="59" column="77" />
-        <mark key="[" line="47" column="64" />
-        <mark key="]" line="47" column="68" />
-        <mark key="." line="47" column="68" />
-        <mark key="^" line="47" column="68" />
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/tasks/main.yml" timestamp="1477496446346">
+        <mark key="'" line="88" column="130" />
+        <mark key="[" line="86" column="53" />
+        <mark key="]" line="87" column="11" />
+        <mark key="." line="87" column="11" />
+        <mark key="^" line="87" column="11" />
       </file>
       <file name="$USER_HOME$/projects/priv/cic/contact/models.py" timestamp="1477390213650">
         <mark key="'" line="24" column="21" />
@@ -159,6 +159,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="28" column="59" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/supervisor.conf" timestamp="1477496346929">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="16" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/ssl.conf" timestamp="1477486357989">
         <mark key="[" line="1" column="42" />
@@ -297,11 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
-      <jump line="12" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
-      <jump line="18" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
-      <jump line="13" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
-      <jump line="14" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
       <jump line="21" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
       <jump line="15" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
       <jump line="16" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
@@ -387,7 +388,6 @@
       <jump line="70" column="9" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
       <jump line="58" column="12" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
       <jump line="36" column="16" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
-      <jump line="2" column="50" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
       <jump line="150" column="46" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
       <jump line="121" column="4" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
@@ -395,57 +395,63 @@
       <jump line="48" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
       <jump line="54" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
       <jump line="62" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
-      <jump line="145" column="24" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
-      <jump line="136" column="28" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
+      <jump line="136" column="33" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
+      <jump line="139" column="19" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
+      <jump line="145" column="16" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
+      <jump line="2" column="40" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
+      <jump line="131" column="14" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
+      <jump line="7" column="28" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
+      <jump line="48" column="14" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/tasks/main.yml" />
+      <jump line="87" column="130" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/tasks/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvLmRiLmJhY2tlbmRzJzogewogICAgICAgICAgICAnbGV2ZWwnOiAnRVJST1InLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnXSwKICAgICAgICAgICAgJ3Byb3BhZ2F0ZSc6IFRydWUsCiAgICAgICAgfSwKICAgICAgICAncmF2ZW4nOiB7CiAgICAgICAgICAgICdsZXZlbCc6ICdERUJVRycsCiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZSddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogRmFsc2UsCiAgICAgICAgfSwKICAgICAgICAnc2VudHJ5LmVycm9ycyc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0RFQlVHJywKICAgICAgICAgICAgJ2hhbmRsZXJzJzogWydjb25zb2xlJ10sCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBGYWxzZSwKICAgICAgICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>bpod0290</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sentry</text>
+        <text encoding="base64">XDxCYXNlQ29tbWFuZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyBsb2dnaW5nIGNvbmZpZ3VyYXRpb24KTE9HR0lORyA9IHsKICAgICd2ZXJzaW9uJzogMSwKICAgICdkaXNhYmxlX2V4aXN0aW5nX2xvZ2dlcnMnOiBUcnVlLAogICAgJ3Jvb3QnOiB7CiAgICAgICAgJ2xldmVsJzogJ1dBUk5JTkcnLAogICAgICAgICdoYW5kbGVycyc6IFsnc2VudHJ5J10sCiAgICB9LAogICAgJ2Zvcm1hdHRlcnMnOiB7CiAgICAgICAgJ3ZlcmJvc2UnOiB7CiAgICAgICAgICAgICdmb3JtYXQnOiAnJShsZXZlbG5hbWUpcyAlKGFzY3RpbWUpcyAlKG1vZHVsZSlzICcKICAgICAgICAgICAgICAgICAgICAgICclKHByb2Nlc3MpZCAlKHRocmVhZClkICUobWVzc2FnZSlzJwogICAgICAgIH0sCiAgICB9LAogICAgJ2hhbmRsZXJzJzogewogICAgICAgICdzZW50cnknOiB7CiAgICAgICAgICAgICdsZXZlbCc6ICdFUlJPUicsCiAgICAgICAgICAgICdjbGFzcyc6ICdyYXZlbi5jb250cmliLmRqYW5nby5yYXZlbl9jb21wYXQuaGFuZGxlcnMuU2VudHJ5SGFuZGxlcicsCiAgICAgICAgfSwKICAgICAgICAnY29uc29sZSc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0RFQlVHJywKICAgICAgICAgICAgJ2NsYXNzJzogJ2xvZ2dpbmcuU3RyZWFtSGFuZGxlcicsCiAgICAgICAgICAgICdmb3JtYXR0ZXInOiAndmVyYm9zZScKICAgICAgICB9LAogICAgICAgICdsb2dzbW9uX2xvZyc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0RFQlVHJywKICAgICAgICAgICAgJ2NsYXNzJzogJ2xvZ2dpbmcuRmlsZUhhbmRsZXInLAogICAgICAgICAgICAnZmlsZW5hbWUnOiBvcy5wYXRoLmpvaW4oTE9HU19ESVIsICdsb2dzbW9uLmxvZycpLAogICAgICAgIH0sCiAgICB9LAogICAgJ2xvZ2dlcnMnOiB7CiAgICAgICAgJ2RqYW5nby5kYi5iYWNrZW5kcyc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0VSUk9SJywKICAgICAgICAgICAgJ2hhbmRsZXJzJzogWydjb25zb2xlJ10sCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlLAogICAgICAgIH0sCiAgICAgICAgJ3JhdmVuJzogewogICAgICAgICAgICAnbGV2ZWwnOiAnREVCVUcnLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnXSwKICAgICAgICAgICAgJ3Byb3BhZ2F0ZSc6IEZhbHNlLAogICAgICAgIH0sCiAgICAgICAgJ3NlbnRyeS5lcnJvcnMnOiB7CiAgICAgICAgICAgICdsZXZlbCc6ICdERUJVRycsCiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZSddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogRmFsc2UsCiAgICAgICAgfSwKICAgICAgICAnbG9nc21vbic6IHsKICAgICAgICAgICAgJ2hhbmRsZXJzJzogWydsb2dzbW9uX2xvZyddLAogICAgICAgICAgICAnbGV2ZWwnOiAnREVCVUcnLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZSwKICAgICAgICB9LAogICB9Cn0K</text>
+      <register name="0" type="4">
+        <text>web_base_dir</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvLmRiLmJhY2tlbmRzJzogewogICAgICAgICAgICAnbGV2ZWwnOiAnRVJST1InLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnXSwKICAgICAgICAgICAgJ3Byb3BhZ2F0ZSc6IFRydWUsCiAgICAgICAgfSwKICAgICAgICAncmF2ZW4nOiB7CiAgICAgICAgICAgICdsZXZlbCc6ICdERUJVRycsCiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZSddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogRmFsc2UsCiAgICAgICAgfSwKICAgICAgICAnc2VudHJ5LmVycm9ycyc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0RFQlVHJywKICAgICAgICAgICAgJ2hhbmRsZXJzJzogWydjb25zb2xlJ10sCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBGYWxzZSwKICAgICAgICB9LAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvLmRiLmJhY2tlbmRzJzogewogICAgICAgICAgICAnbGV2ZWwnOiAnRVJST1InLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnXSwKICAgICAgICAgICAgJ3Byb3BhZ2F0ZSc6IFRydWUsCiAgICAgICAgfSwKICAgICAgICAncmF2ZW4nOiB7CiAgICAgICAgICAgICdsZXZlbCc6ICdERUJVRycsCiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZSddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogRmFsc2UsCiAgICAgICAgfSwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlub3RpZnkuYWRhcHRlcnMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnc2VudHJ5LmVycm9ycyc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0RFQlVHJywKICAgICAgICAgICAgJ2hhbmRsZXJzJzogWydjb25zb2xlJ10sCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBGYWxzZSwKICAgICAgICB9LAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnc2VudHJ5JzogewogICAgICAgICAgICAnbGV2ZWwnOiAnRVJST1InLAogICAgICAgICAgICAnY2xhc3MnOiAncmF2ZW4uY29udHJpYi5kamFuZ28ucmF2ZW5fY29tcGF0LmhhbmRsZXJzLlNlbnRyeUhhbmRsZXInLAogICAgICAgIH0sCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnaGFuZGxlcnMnOiBbJ3NlbnRyeSddLAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChkaXJfZW50cnkubmFtZSxkaXJfZW50cnkucGF0aCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICgiRVNYIikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlyX2VudHJ5Lm5hbWUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19mdWxsX3BhdGggPSBvcy5wYXRoLmpvaW4oV0FUQ0hfRElSLCBsb2dfbmFtZSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgbG9nX25hbWUgaW4gb3Muc2NhbmRpcigpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGxvZ19uYW1lIGluIG9zLmxpc3RkaXIoV0FUQ0hfRElSKToK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpID0gaW5vdGlmeS5hZGFwdGVycy5Jbm90aWZ5KCkK</text>
+        <text encoding="base64">ICAgICAgICAnZGphbmdvLmRiLmJhY2tlbmRzJzogewogICAgICAgICAgICAnbGV2ZWwnOiAnRVJST1InLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnXSwKICAgICAgICAgICAgJ3Byb3BhZ2F0ZSc6IFRydWUsCiAgICAgICAgfSwKICAgICAgICAncmF2ZW4nOiB7CiAgICAgICAgICAgICdsZXZlbCc6ICdERUJVRycsCiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZSddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogRmFsc2UsCiAgICAgICAgfSwKICAgICAgICAnc2VudHJ5LmVycm9ycyc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0RFQlVHJywKICAgICAgICAgICAgJ2hhbmRsZXJzJzogWydjb25zb2xlJ10sCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBGYWxzZSwKICAgICAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpLmFkZF93YXRjaChXQVRDSF9ESVIpCg==</text>
+        <text encoding="base64">ICAgICAgICAnZGphbmdvLmRiLmJhY2tlbmRzJzogewogICAgICAgICAgICAnbGV2ZWwnOiAnRVJST1InLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnXSwKICAgICAgICAgICAgJ3Byb3BhZ2F0ZSc6IFRydWUsCiAgICAgICAgfSwKICAgICAgICAncmF2ZW4nOiB7CiAgICAgICAgICAgICdsZXZlbCc6ICdERUJVRycsCiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZSddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogRmFsc2UsCiAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sentry</last-search>
+      <last-search encoding="base64">XDxCYXNlQ29tbWFuZFw+</last-search>
       <last-offset />
-      <last-pattern>sentry</last-pattern>
+      <last-pattern encoding="base64">XDxCYXNlQ29tbWFuZFw+</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -453,7 +459,6 @@
     </search>
     <history>
       <history-search>
-        <entry>IntegerField</entry>
         <entry encoding="base64">XDx0aW1lXD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzZWRfcm93c1w+</entry>
         <entry>ContactListSerializer</entry>
@@ -473,6 +478,7 @@
         <entry encoding="base64">XDxMT0dTX0RJUlw+</entry>
         <entry encoding="base64">XDxnZXRfZW50cmllc19mcm9tX2xvZ1w+</entry>
         <entry>sentry</entry>
+        <entry encoding="base64">XDxCYXNlQ29tbWFuZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -488,8 +494,8 @@
         <entry>q</entry>
         <entry>.w</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
