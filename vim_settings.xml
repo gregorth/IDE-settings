@@ -80,8 +80,8 @@
         <mark key="." line="70" column="49" />
       </file>
       <file name="$USER_HOME$/projects/landings/wolf-academy/home/templates/home/emails/email.tpl" timestamp="1477481713584" />
-      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1477490637674">
-        <mark key="'" line="41" column="4" />
+      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1477492121709">
+        <mark key="'" line="34" column="11" />
         <mark key="[" line="34" column="11" />
         <mark key="]" line="34" column="11" />
         <mark key="." line="34" column="11" />
@@ -107,10 +107,10 @@
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" timestamp="1477486270621">
-        <mark key="'" line="12" column="17" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="3" />
+      <file name="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" timestamp="1477492332798">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="15" />
         <mark key="." line="28" column="3" />
         <mark key="^" line="28" column="3" />
       </file>
@@ -189,6 +189,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="5" column="27" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/competition/settings/production.py" timestamp="1477492745880">
+        <mark key="'" line="36" column="16" />
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="24" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/wagtail/lib/python3.5/site-packages/wagtailtinymce/rich_text.py" timestamp="1476703886352">
         <mark key="'" line="105" column="8" />
@@ -286,16 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="6" filename="$USER_HOME$/.virtualenvs/competition/local/lib/python2.7/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="264" column="12" filename="$USER_HOME$/.virtualenvs/competition/local/lib/python2.7/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="265" column="31" filename="$USER_HOME$/.virtualenvs/competition/local/lib/python2.7/site-packages/wagtail/wagtailcore/models.py" />
-      <jump line="161" column="19" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
-      <jump line="16" column="13" filename="$USER_HOME$/projects/landings/competition/.gitignore" />
-      <jump line="47" column="25" filename="$USER_HOME$/projects/landings/competition/.gitignore" />
-      <jump line="56" column="3" filename="$USER_HOME$/projects/landings/competition/.gitignore" />
-      <jump line="77" column="12" filename="$USER_HOME$/projects/landings/competition/.gitignore" />
-      <jump line="101" column="9" filename="$USER_HOME$/projects/landings/competition/.gitignore" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/landings/competition/locale/nn/LC_MESSAGES/django.po" />
       <jump line="160" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="113" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="27" column="38" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
@@ -386,19 +383,29 @@
       <jump line="91" column="8" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="109" column="8" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="59" column="4" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
+      <jump line="81" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
+      <jump line="34" column="11" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
+      <jump line="0" column="1" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
+      <jump line="73" column="28" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" />
+      <jump line="69" column="37" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
+      <jump line="70" column="9" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
+      <jump line="58" column="12" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
+      <jump line="36" column="16" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGh0bWh0dHBzOi8vMS12b3VjaGVyLTEtYW5zd2VyLnZhcmlvdXNwYXRocy5jb20vbAo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>html</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY2Nlc3NfbG9nXD4=</text>
+        <text encoding="base64">XDxMT0dTX0RJUlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LSBuYW1lOiBjb3B5IFNTTCBob3N0IGNvbmZpZ3VyYXRpb24gc25pcHBldAogIGJlY29tZV91c2VyOiByb290CiAgdGFnczogU1NMLCBuZ2lueAogIHRlbXBsYXRlOiBzcmM9c3NsLWhvc3QuY29uZiBkZXN0PS9ldGMvbmdpbngvc25pcHBldHMvc3NsLXt7IHdlYl9ob3N0IH0uY29uZgogIHdoZW46IHVzZV9TU0wK</text>
+      <register name="0" type="4">
+        <text>project_logs_dir</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGh0bWh0dHBzOi8vMS12b3VjaGVyLTEtYW5zd2VyLnZhcmlvdXNwYXRocy5jb20vbAo=</text>
@@ -440,9 +447,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY2Nlc3NfbG9nXD4=</last-search>
+      <last-search encoding="base64">XDxMT0dTX0RJUlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY2Nlc3NfbG9nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxMT0dTX0RJUlw+</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -450,10 +457,6 @@
     </search>
     <history>
       <history-search>
-        <entry>created_ad</entry>
-        <entry>billing_rep</entry>
-        <entry>cic_phone</entry>
-        <entry encoding="base64">XDxjb250aW51ZVw+</entry>
         <entry encoding="base64">XDxwcmVwcm9jZXNzX2RhdGFcPg==</entry>
         <entry>mod</entry>
         <entry>IntegerField</entry>
@@ -470,6 +473,10 @@
         <entry>ssl-params</entry>
         <entry encoding="base64">XDx1c2VfU1NMXD4=</entry>
         <entry encoding="base64">XDxhY2Nlc3NfbG9nXD4=</entry>
+        <entry>LOGS_DIR</entry>
+        <entry>LOG</entry>
+        <entry encoding="base64">XDxwcm9qZWN0X2xvZ3NfZGlyXD4=</entry>
+        <entry encoding="base64">XDxMT0dTX0RJUlw+</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
