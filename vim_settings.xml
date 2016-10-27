@@ -179,12 +179,12 @@
         <mark key="." line="54" column="167" />
         <mark key="^" line="54" column="167" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1477568472035">
-        <mark key="'" line="234" column="0" />
-        <mark key="[" line="64" column="46" />
-        <mark key="]" line="64" column="53" />
-        <mark key="^" line="64" column="53" />
-        <mark key="." line="64" column="53" />
+      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1477571628274">
+        <mark key="'" line="240" column="21" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="^" line="216" column="0" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" timestamp="1476748166823">
         <mark key="'" line="41" column="39" />
@@ -314,10 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
-      <jump line="20" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
-      <jump line="11" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
-      <jump line="21" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
       <jump line="14" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
       <jump line="22" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
       <jump line="19" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
@@ -414,16 +410,20 @@
       <jump line="93" column="13" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="24" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="58" column="9" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
+      <jump line="214" column="21" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
+      <jump line="190" column="6" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
+      <jump line="216" column="6" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
+      <jump line="239" column="21" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>29_auto_20161027_1006</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>29_auto_20161027_1006</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>app_codename</text>
+        <text encoding="base64">XDxUaHhWZXJ0aWNhbFBhZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgTGFuZ3VhZ2VSZWRpcmVjdGlvblBhZ2UoUGFnZSk6CgogICAgZGVmIHNlcnZlKHNlbGYsIHJlcXVlc3QpOgogICAgICAgICMgVGhpcyB3aWxsIG9ubHkgcmV0dXJuIGEgbGFuZ3VhZ2UgdGhhdCBpcyBpbiB0aGUgTEFOR1VBR0VTIERqYW5nbyBzZXR0aW5nCiAgICAgICAgbGFuZ3VhZ2UgPSB0cmFuc2xhdGlvbi5nZXRfbGFuZ3VhZ2VfZnJvbV9yZXF1ZXN0KHJlcXVlc3QsIGNoZWNrX3BhdGg9VHJ1ZSkKICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlUmVkaXJlY3Qoc2VsZi51cmwrbGFuZ3VhZ2UrIi92ZXJ0aWNhbC8iKQo=</text>
@@ -460,9 +460,9 @@
       </register>
     </registers>
     <search>
-      <last-search>app_codename</last-search>
+      <last-search encoding="base64">XDxUaHhWZXJ0aWNhbFBhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>app_codename</last-pattern>
+      <last-pattern encoding="base64">XDxUaHhWZXJ0aWNhbFBhZ2VcPg==</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -470,8 +470,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoaW50XD4=</entry>
-        <entry>sendgrid</entry>
         <entry encoding="base64">XDxwcmVwYXRlX3NlbmRncmlkX2VtYWlsXD4=</entry>
         <entry encoding="base64">XDxzZW5kX21haWxcPg==</entry>
         <entry>role_path</entry>
@@ -490,6 +488,8 @@
         <entry>ALLOWED_HOSTS</entry>
         <entry>app_request_type</entry>
         <entry>app_codename</entry>
+        <entry encoding="base64">XDxUaHhIb3Jpem9udGFsUGFnZVw+</entry>
+        <entry encoding="base64">XDxUaHhWZXJ0aWNhbFBhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
