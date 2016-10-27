@@ -179,12 +179,12 @@
         <mark key="." line="54" column="167" />
         <mark key="^" line="54" column="167" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1477571628274">
-        <mark key="'" line="240" column="21" />
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="^" line="216" column="0" />
-        <mark key="." line="216" column="0" />
+      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1477573013111">
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="180" column="55" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" timestamp="1476748166823">
         <mark key="'" line="41" column="39" />
@@ -314,8 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
-      <jump line="22" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
       <jump line="19" column="4" filename="$USER_HOME$/projects/priv/cic/contact/models.py" />
       <jump line="23" column="5" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
       <jump line="24" column="14" filename="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" />
@@ -414,55 +412,57 @@
       <jump line="190" column="6" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="216" column="6" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="239" column="21" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
+      <jump line="99" column="70" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
+      <jump line="159" column="0" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiVVJMICIsc2VsZi51cmwpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>language</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUaHhWZXJ0aWNhbFBhZ2VcPg==</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgTGFuZ3VhZ2VSZWRpcmVjdGlvblBhZ2UoUGFnZSk6CgogICAgZGVmIHNlcnZlKHNlbGYsIHJlcXVlc3QpOgogICAgICAgICMgVGhpcyB3aWxsIG9ubHkgcmV0dXJuIGEgbGFuZ3VhZ2UgdGhhdCBpcyBpbiB0aGUgTEFOR1VBR0VTIERqYW5nbyBzZXR0aW5nCiAgICAgICAgbGFuZ3VhZ2UgPSB0cmFuc2xhdGlvbi5nZXRfbGFuZ3VhZ2VfZnJvbV9yZXF1ZXN0KHJlcXVlc3QsIGNoZWNrX3BhdGg9VHJ1ZSkKICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlUmVkaXJlY3Qoc2VsZi51cmwrbGFuZ3VhZ2UrIi92ZXJ0aWNhbC8iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoTE9HU19ESVIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiVVJMICIsc2VsZi51cmwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoQkFTRV9ESVIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnVybCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNlbGwgPSBjZWxsLmRlY29kZSgic3RyaW5nX2VzY2FwZSIpCg==</text>
+        <text encoding="base64">cHJpbnQoTE9HU19ESVIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoQkFTRV9ESVIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChkaXJfZW50cnkubmFtZSxkaXJfZW50cnkucGF0aCkK</text>
+        <text encoding="base64">ICAgIGNlbGwgPSBjZWxsLmRlY29kZSgic3RyaW5nX2VzY2FwZSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICgiRVNYIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlyX2VudHJ5Lm5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChkaXJfZW50cnkubmFtZSxkaXJfZW50cnkucGF0aCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19mdWxsX3BhdGggPSBvcy5wYXRoLmpvaW4oV0FUQ0hfRElSLCBsb2dfbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICgiRVNYIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbG9nX25hbWUgaW4gb3Muc2NhbmRpcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlyX2VudHJ5Lm5hbWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUaHhWZXJ0aWNhbFBhZ2VcPg==</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUaHhWZXJ0aWNhbFBhZ2VcPg==</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -470,8 +470,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVwYXRlX3NlbmRncmlkX2VtYWlsXD4=</entry>
-        <entry encoding="base64">XDxzZW5kX21haWxcPg==</entry>
         <entry>role_path</entry>
         <entry>dhparam</entry>
         <entry>ssl-params</entry>
@@ -490,6 +488,8 @@
         <entry>app_codename</entry>
         <entry encoding="base64">XDxUaHhIb3Jpem9udGFsUGFnZVw+</entry>
         <entry encoding="base64">XDxUaHhWZXJ0aWNhbFBhZ2VcPg==</entry>
+        <entry>redirect</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
