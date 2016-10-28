@@ -39,6 +39,9 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="16" />
       </file>
+      <file name="/a.dummy" timestamp="1477663142120">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/victor_cms/victor_cms/settings/base.py" timestamp="1476708485787">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -46,7 +49,8 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/application/templates/env.stage" timestamp="1477649331745">
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/application/templates/env.stage" timestamp="1477663140341">
+        <mark key="'" line="15" column="7" />
         <mark key="[" line="26" column="9" />
         <mark key="]" line="26" column="9" />
         <mark key="^" line="26" column="9" />
@@ -105,8 +109,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/competition/settings/production.py" timestamp="1477647765637">
-        <mark key="'" line="95" column="27" />
+      <file name="$USER_HOME$/projects/landings/competition/competition/settings/production.py" timestamp="1477663164598">
+        <mark key="'" line="23" column="0" />
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="37" />
         <mark key="." line="97" column="35" />
@@ -336,10 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="10" filename="$USER_HOME$/projects/landings/wolf-academy/home/models.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/projects/landings/wolf-academy/home/models.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/projects/landings/wolf-academy/wolfacademy/settings/base.py" />
-      <jump line="73" column="8" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="69" column="17" filename="$USER_HOME$/projects/landings/competition/deploy/roles/application/tasks/main.yml" />
       <jump line="59" column="77" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/tasks/main.yml" />
       <jump line="110" column="10" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
@@ -436,6 +436,10 @@
       <jump line="246" column="0" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="75" column="37" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="273" column="63" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
+      <jump line="26" column="9" filename="$USER_HOME$/projects/landings/competition/deploy/roles/application/templates/env.stage" />
+      <jump line="15" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/application/templates/env.stage" />
+      <jump line="25" column="50" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -445,7 +449,7 @@
         <text>default=datetime.now().year,</text>
       </register>
       <register name="/" type="4">
-        <text>help</text>
+        <text encoding="base64">XDxERUZBVUxUX0ZST01fRU1BSUxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIHRyYWNraW5nX2Nvb2tpZShmdW5jPU5vbmUsICoqb3B0aW9ucyk6CiAgICAiIiIKICAgIHRoaXMgZGVjb3JhdG9yIHRyaWVzIHRvIG1hdGNoIHVzZXIgYnkgc2Vzc2lvbiBvciBhZGRpdGlvbmFsIHBhcmFtcyBwYXNzZWQgdG8gaXQuCiAgICAiIiIKCiAgICBpZiBmdW5jIGlzIG5vdCBOb25lOgogICAgICAgIGRlZiBpbm5lcihyZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgICAgICBpZiBub3QgcmVxdWVzdC5zZXNzaW9uLnNlc3Npb25fa2V5OgogICAgICAgICAgICAgICAgcmVxdWVzdC5zZXNzaW9uLnNhdmUoKQogICAgICAgICAgICB1c2VyID0gTm9uZQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICB1c2VyX2lkID0gaW50KHJlcXVlc3Quc2Vzc2lvbi5nZXQoJ3VzZXJfaWQnLCBOb25lKSkKICAgICAgICAgICAgICAgIHVzZXIgPSBDb250ZXN0Lm9iamVjdHMuZ2V0KHBrPXVzZXJfaWQpCiAgICAgICAgICAgIGV4Y2VwdCAoVmFsdWVFcnJvciwgVHlwZUVycm9yLCBDb250ZXN0LkRvZXNOb3RFeGlzdCk6CiAgICAgICAgICAgICAgICBzaWduZWRfY29va2llID0gcmVxdWVzdC5nZXRfc2lnbmVkX2Nvb2tpZSgndWlkJywgZGVmYXVsdD1Ob25lLCBzYWx0PXNldHRpbmdzLlNJR05FRF9DT09LSUVfU0FMVCkKICAgICAgICAgICAgICAgIGlmIHNpZ25lZF9jb29raWU6CiAgICAgICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgICAgICB1c2VyID0gQ29udGVzdC5vYmplY3RzLmdldChzZXNzaW9uX2tleT1zaWduZWRfY29va2llKQogICAgICAgICAgICAgICAgICAgIGV4Y2VwdCBDb250ZXN0LkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgICAgICAgICAgICAgdXNlciA9IE5vbmUKICAgICAgICAgICAgICAgIGlmIG5vdCB1c2VyOgogICAgICAgICAgICAgICAgICAgIHVzZXIsIGNyZWF0ZWQgPSBDb250ZXN0Lm9iamVjdHMuZ2V0X29yX2NyZWF0ZShzZXNzaW9uX2tleT1yZXF1ZXN0LnNlc3Npb24uc2Vzc2lvbl9rZXkpCiAgICAgICAgICAgIHVzZXJfaWQgPSByZXF1ZXN0LnNlc3Npb24uZ2V0KCd1c2VyX2lkJywgTm9uZSkKICAgICAgICAgICAgaWYgbm90IHVzZXJfaWQgb3IgdXNlci5pZCAhPSB1c2VyX2lkOgogICAgICAgICAgICAgICAgcmVxdWVzdC5zZXNzaW9uWyd1c2VyX2lkJ10gPSB1c2VyLmlkCiAgICAgICAgICAgIHJlcXVlc3QubHB1c2VyID0gdXNlcgogICAgICAgICAgICByZXR1cm4gZnVuYyhyZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpCgogICAgICAgIHJldHVybiBpbm5lcgogICAgZWxzZToKICAgICAgICBkZWYgcGFydGlhbChmdW5jKToKICAgICAgICAgICAgcmV0dXJuIHRyYWNraW5nX2Nvb2tpZShmdW5jLCAqKm9wdGlvbnMpCgogICAgICAgIHJldHVybiBwYXJ0aWFsCg==</text>
@@ -482,9 +486,9 @@
       </register>
     </registers>
     <search>
-      <last-search>help</last-search>
+      <last-search encoding="base64">XDxERUZBVUxUX0ZST01fRU1BSUxcPg==</last-search>
       <last-offset />
-      <last-pattern>help</last-pattern>
+      <last-pattern encoding="base64">XDxERUZBVUxUX0ZST01fRU1BSUxcPg==</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -492,8 +496,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfZW50cmllc19mcm9tX2xvZ1w+</entry>
-        <entry>sentry</entry>
         <entry encoding="base64">XDxCYXNlQ29tbWFuZFw+</entry>
         <entry>decode</entry>
         <entry>ALLOWED_HOSTS</entry>
@@ -512,6 +514,8 @@
         <entry>send</entry>
         <entry>serve</entry>
         <entry>help</entry>
+        <entry>DEFAULT_FROM_EMAIL</entry>
+        <entry encoding="base64">XDxERUZBVUxUX0ZST01fRU1BSUxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
