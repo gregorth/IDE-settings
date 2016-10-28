@@ -445,7 +445,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>serve</text>
+        <text>help</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIHRyYWNraW5nX2Nvb2tpZShmdW5jPU5vbmUsICoqb3B0aW9ucyk6CiAgICAiIiIKICAgIHRoaXMgZGVjb3JhdG9yIHRyaWVzIHRvIG1hdGNoIHVzZXIgYnkgc2Vzc2lvbiBvciBhZGRpdGlvbmFsIHBhcmFtcyBwYXNzZWQgdG8gaXQuCiAgICAiIiIKCiAgICBpZiBmdW5jIGlzIG5vdCBOb25lOgogICAgICAgIGRlZiBpbm5lcihyZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgICAgICBpZiBub3QgcmVxdWVzdC5zZXNzaW9uLnNlc3Npb25fa2V5OgogICAgICAgICAgICAgICAgcmVxdWVzdC5zZXNzaW9uLnNhdmUoKQogICAgICAgICAgICB1c2VyID0gTm9uZQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICB1c2VyX2lkID0gaW50KHJlcXVlc3Quc2Vzc2lvbi5nZXQoJ3VzZXJfaWQnLCBOb25lKSkKICAgICAgICAgICAgICAgIHVzZXIgPSBDb250ZXN0Lm9iamVjdHMuZ2V0KHBrPXVzZXJfaWQpCiAgICAgICAgICAgIGV4Y2VwdCAoVmFsdWVFcnJvciwgVHlwZUVycm9yLCBDb250ZXN0LkRvZXNOb3RFeGlzdCk6CiAgICAgICAgICAgICAgICBzaWduZWRfY29va2llID0gcmVxdWVzdC5nZXRfc2lnbmVkX2Nvb2tpZSgndWlkJywgZGVmYXVsdD1Ob25lLCBzYWx0PXNldHRpbmdzLlNJR05FRF9DT09LSUVfU0FMVCkKICAgICAgICAgICAgICAgIGlmIHNpZ25lZF9jb29raWU6CiAgICAgICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgICAgICB1c2VyID0gQ29udGVzdC5vYmplY3RzLmdldChzZXNzaW9uX2tleT1zaWduZWRfY29va2llKQogICAgICAgICAgICAgICAgICAgIGV4Y2VwdCBDb250ZXN0LkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgICAgICAgICAgICAgdXNlciA9IE5vbmUKICAgICAgICAgICAgICAgIGlmIG5vdCB1c2VyOgogICAgICAgICAgICAgICAgICAgIHVzZXIsIGNyZWF0ZWQgPSBDb250ZXN0Lm9iamVjdHMuZ2V0X29yX2NyZWF0ZShzZXNzaW9uX2tleT1yZXF1ZXN0LnNlc3Npb24uc2Vzc2lvbl9rZXkpCiAgICAgICAgICAgIHVzZXJfaWQgPSByZXF1ZXN0LnNlc3Npb24uZ2V0KCd1c2VyX2lkJywgTm9uZSkKICAgICAgICAgICAgaWYgbm90IHVzZXJfaWQgb3IgdXNlci5pZCAhPSB1c2VyX2lkOgogICAgICAgICAgICAgICAgcmVxdWVzdC5zZXNzaW9uWyd1c2VyX2lkJ10gPSB1c2VyLmlkCiAgICAgICAgICAgIHJlcXVlc3QubHB1c2VyID0gdXNlcgogICAgICAgICAgICByZXR1cm4gZnVuYyhyZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpCgogICAgICAgIHJldHVybiBpbm5lcgogICAgZWxzZToKICAgICAgICBkZWYgcGFydGlhbChmdW5jKToKICAgICAgICAgICAgcmV0dXJuIHRyYWNraW5nX2Nvb2tpZShmdW5jLCAqKm9wdGlvbnMpCgogICAgICAgIHJldHVybiBwYXJ0aWFsCg==</text>
@@ -482,9 +482,9 @@
       </register>
     </registers>
     <search>
-      <last-search>serve</last-search>
+      <last-search>help</last-search>
       <last-offset />
-      <last-pattern>serve</last-pattern>
+      <last-pattern>help</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -492,7 +492,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMT0dTX0RJUlw+</entry>
         <entry encoding="base64">XDxnZXRfZW50cmllc19mcm9tX2xvZ1w+</entry>
         <entry>sentry</entry>
         <entry encoding="base64">XDxCYXNlQ29tbWFuZFw+</entry>
@@ -512,6 +511,7 @@
         <entry>mail</entry>
         <entry>send</entry>
         <entry>serve</entry>
+        <entry>help</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
