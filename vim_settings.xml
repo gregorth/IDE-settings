@@ -272,12 +272,12 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1477653471052">
+      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1477655561469">
         <mark key="'" line="283" column="0" />
-        <mark key="[" line="56" column="4" />
-        <mark key="]" line="57" column="3" />
-        <mark key="." line="57" column="3" />
-        <mark key="^" line="57" column="3" />
+        <mark key="[" line="273" column="41" />
+        <mark key="]" line="273" column="63" />
+        <mark key="." line="273" column="63" />
+        <mark key="^" line="273" column="63" />
       </file>
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/tools.py" timestamp="1476735454926">
         <mark key="'" line="9" column="24" />
@@ -526,9 +526,9 @@
         <entry>90</entry>
         <entry>q</entry>
         <entry>.w</entry>
-        <entry>qa</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
