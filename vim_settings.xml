@@ -104,11 +104,6 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/ssl-params.conf" timestamp="1477488475012">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/landings/competition/competition/settings/production.py" timestamp="1477663164598">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="97" column="0" />
@@ -149,6 +144,13 @@
         <mark key="]" line="55" column="40" />
         <mark key="^" line="70" column="91" />
         <mark key="." line="70" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" timestamp="1477914064804">
+        <mark key="'" line="77" column="16" />
+        <mark key="[" line="136" column="37" />
+        <mark key="]" line="136" column="37" />
+        <mark key="." line="136" column="37" />
+        <mark key="^" line="136" column="37" />
       </file>
       <file name="$USER_HOME$/projects/landings/wolf-academy/home/emails.py" timestamp="1477482080329">
         <mark key="'" line="13" column="107" />
@@ -216,10 +218,12 @@
         <mark key="." line="0" column="65" />
         <mark key="^" line="0" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/landings/wolf-academy/wolfacademy/settings/dev.py" timestamp="1477480914151">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/blocks/horizontal/form.html" timestamp="1477914030884">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="148" column="37" />
+        <mark key="]" line="148" column="37" />
+        <mark key="." line="148" column="37" />
+        <mark key="^" line="148" column="37" />
       </file>
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/settings.py" timestamp="1476743381394">
         <mark key="'" line="101" column="4" />
@@ -276,11 +280,11 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1477658611939">
+      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1477913460719">
         <mark key="'" line="273" column="63" />
-        <mark key="[" line="285" column="53" />
-        <mark key="]" line="285" column="53" />
-        <mark key="." line="285" column="53" />
+        <mark key="[" line="285" column="43" />
+        <mark key="]" line="285" column="43" />
+        <mark key="." line="285" column="43" />
         <mark key="^" line="285" column="53" />
       </file>
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/tools.py" timestamp="1476735454926">
@@ -297,12 +301,12 @@
         <mark key="." line="82" column="54" />
         <mark key="^" line="82" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/application/tasks/main.yml" timestamp="1477485869707">
-        <mark key="'" line="69" column="17" />
-        <mark key="[" line="68" column="19" />
-        <mark key="]" line="69" column="17" />
-        <mark key="." line="69" column="17" />
-        <mark key="^" line="69" column="17" />
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/application/tasks/main.yml" timestamp="1477914633911">
+        <mark key="'" line="68" column="2" />
+        <mark key="[" line="68" column="15" />
+        <mark key="]" line="68" column="15" />
+        <mark key="." line="68" column="15" />
+        <mark key="^" line="68" column="15" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/tasks/main.yml" timestamp="1477496446346">
         <mark key="'" line="88" column="130" />
@@ -340,19 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="17" filename="$USER_HOME$/projects/landings/competition/deploy/roles/application/tasks/main.yml" />
-      <jump line="59" column="77" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/tasks/main.yml" />
-      <jump line="110" column="10" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
-      <jump line="31" column="6" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
-      <jump line="48" column="10" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
-      <jump line="111" column="13" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
-      <jump line="51" column="0" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
-      <jump line="159" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
-      <jump line="40" column="4" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
-      <jump line="91" column="8" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
-      <jump line="109" column="8" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
-      <jump line="59" column="4" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
-      <jump line="81" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
       <jump line="71" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
       <jump line="34" column="11" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="0" column="1" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
@@ -440,19 +431,32 @@
       <jump line="15" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/application/templates/env.stage" />
       <jump line="25" column="50" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
+      <jump line="102" column="15" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" />
+      <jump line="61" column="193" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" />
+      <jump line="144" column="17" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" />
+      <jump line="10" column="9" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" />
+      <jump line="38" column="17" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" />
+      <jump line="44" column="17" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" />
+      <jump line="50" column="9" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" />
+      <jump line="158" column="14" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" />
+      <jump line="14" column="14" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" />
+      <jump line="6" column="294" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/horizontal/form.html" />
+      <jump line="77" column="16" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" />
+      <jump line="68" column="2" filename="$USER_HOME$/projects/landings/competition/deploy/roles/application/tasks/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>default=datetime.now().year,</text>
+        <text>checked=&quot;checked&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>default=datetime.now().year,</text>
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxERUZBVUxUX0ZST01fRU1BSUxcPg==</text>
+        <text encoding="base64">XDxiZWNvbWVfdXNlclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIHRyYWNraW5nX2Nvb2tpZShmdW5jPU5vbmUsICoqb3B0aW9ucyk6CiAgICAiIiIKICAgIHRoaXMgZGVjb3JhdG9yIHRyaWVzIHRvIG1hdGNoIHVzZXIgYnkgc2Vzc2lvbiBvciBhZGRpdGlvbmFsIHBhcmFtcyBwYXNzZWQgdG8gaXQuCiAgICAiIiIKCiAgICBpZiBmdW5jIGlzIG5vdCBOb25lOgogICAgICAgIGRlZiBpbm5lcihyZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgICAgICBpZiBub3QgcmVxdWVzdC5zZXNzaW9uLnNlc3Npb25fa2V5OgogICAgICAgICAgICAgICAgcmVxdWVzdC5zZXNzaW9uLnNhdmUoKQogICAgICAgICAgICB1c2VyID0gTm9uZQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICB1c2VyX2lkID0gaW50KHJlcXVlc3Quc2Vzc2lvbi5nZXQoJ3VzZXJfaWQnLCBOb25lKSkKICAgICAgICAgICAgICAgIHVzZXIgPSBDb250ZXN0Lm9iamVjdHMuZ2V0KHBrPXVzZXJfaWQpCiAgICAgICAgICAgIGV4Y2VwdCAoVmFsdWVFcnJvciwgVHlwZUVycm9yLCBDb250ZXN0LkRvZXNOb3RFeGlzdCk6CiAgICAgICAgICAgICAgICBzaWduZWRfY29va2llID0gcmVxdWVzdC5nZXRfc2lnbmVkX2Nvb2tpZSgndWlkJywgZGVmYXVsdD1Ob25lLCBzYWx0PXNldHRpbmdzLlNJR05FRF9DT09LSUVfU0FMVCkKICAgICAgICAgICAgICAgIGlmIHNpZ25lZF9jb29raWU6CiAgICAgICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgICAgICB1c2VyID0gQ29udGVzdC5vYmplY3RzLmdldChzZXNzaW9uX2tleT1zaWduZWRfY29va2llKQogICAgICAgICAgICAgICAgICAgIGV4Y2VwdCBDb250ZXN0LkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgICAgICAgICAgICAgdXNlciA9IE5vbmUKICAgICAgICAgICAgICAgIGlmIG5vdCB1c2VyOgogICAgICAgICAgICAgICAgICAgIHVzZXIsIGNyZWF0ZWQgPSBDb250ZXN0Lm9iamVjdHMuZ2V0X29yX2NyZWF0ZShzZXNzaW9uX2tleT1yZXF1ZXN0LnNlc3Npb24uc2Vzc2lvbl9rZXkpCiAgICAgICAgICAgIHVzZXJfaWQgPSByZXF1ZXN0LnNlc3Npb24uZ2V0KCd1c2VyX2lkJywgTm9uZSkKICAgICAgICAgICAgaWYgbm90IHVzZXJfaWQgb3IgdXNlci5pZCAhPSB1c2VyX2lkOgogICAgICAgICAgICAgICAgcmVxdWVzdC5zZXNzaW9uWyd1c2VyX2lkJ10gPSB1c2VyLmlkCiAgICAgICAgICAgIHJlcXVlc3QubHB1c2VyID0gdXNlcgogICAgICAgICAgICByZXR1cm4gZnVuYyhyZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpCgogICAgICAgIHJldHVybiBpbm5lcgogICAgZWxzZToKICAgICAgICBkZWYgcGFydGlhbChmdW5jKToKICAgICAgICAgICAgcmV0dXJuIHRyYWNraW5nX2Nvb2tpZShmdW5jLCAqKm9wdGlvbnMpCgogICAgICAgIHJldHVybiBwYXJ0aWFsCg==</text>
+      <register name="0" type="4">
+        <text>checked=&quot;checked&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChyZXNwKQo=</text>
@@ -486,21 +490,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxERUZBVUxUX0ZST01fRU1BSUxcPg==</last-search>
+      <last-search encoding="base64">XDxiZWNvbWVfdXNlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxERUZBVUxUX0ZST01fRU1BSUxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxiZWNvbWVfdXNlclw+</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCYXNlQ29tbWFuZFw+</entry>
-        <entry>decode</entry>
-        <entry>ALLOWED_HOSTS</entry>
-        <entry>app_request_type</entry>
-        <entry>app_codename</entry>
         <entry encoding="base64">XDxUaHhIb3Jpem9udGFsUGFnZVw+</entry>
         <entry encoding="base64">XDxUaHhWZXJ0aWNhbFBhZ2VcPg==</entry>
         <entry>redirect</entry>
@@ -516,6 +515,11 @@
         <entry>help</entry>
         <entry>DEFAULT_FROM_EMAIL</entry>
         <entry encoding="base64">XDxERUZBVUxUX0ZST01fRU1BSUxcPg==</entry>
+        <entry>terms_and</entry>
+        <entry>input</entry>
+        <entry>question</entry>
+        <entry>checked</entry>
+        <entry encoding="base64">XDxiZWNvbWVfdXNlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -531,8 +535,8 @@
         <entry>q</entry>
         <entry>.w</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry>qa</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
