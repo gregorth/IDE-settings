@@ -252,6 +252,9 @@
         <mark key="^" line="9" column="16" />
         <mark key="." line="9" column="16" />
       </file>
+      <file name="/Django Console" timestamp="1477921223148">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/djcms_tutorial/polls_cms_integration/models.py" timestamp="1476263966609">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="26" />
@@ -587,6 +590,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
