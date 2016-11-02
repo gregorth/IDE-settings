@@ -171,11 +171,11 @@
         <mark key="^" line="53" column="43" />
         <mark key="." line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1478095960186">
+      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1478098000883">
         <mark key="'" line="75" column="37" />
-        <mark key="[" line="178" column="36" />
-        <mark key="]" line="178" column="37" />
-        <mark key="." line="178" column="37" />
+        <mark key="[" line="160" column="32" />
+        <mark key="]" line="179" column="37" />
+        <mark key="." line="179" column="37" />
         <mark key="^" line="75" column="37" />
       </file>
       <file name="$USER_HOME$/projects/landings/wolf-academy/deploy/roles/application/tasks/main.yml" timestamp="1477055790010">
