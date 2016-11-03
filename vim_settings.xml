@@ -494,7 +494,7 @@
         <text encoding="base64">ICAgIGRlZiBjbGVhbl9maXJzdF9uYW1lKHNlbGYpOgogICAgICAgIG5hbWUgPSBzZWxmLmNsZWFuZWRfZGF0YVsnZmlyc3RfbmFtZSddCiAgICAgICAgcHJpbnQgKCJuYW1lIiwgbmFtZSkKICAgICAgICBpZiBub3QgbmFtZToKICAgICAgICAgICAgcmFpc2UgZm9ybXMuVmFsaWRhdGlvbkVycm9yKF8oIlBsZWFzZSBlbnRlciB5b3VyIG5hbWUiKSkKICAgICAgICByZXR1cm4gbmFtZQoKICAgIGRlZiBjbGVhbl9zdXJuYW1lKHNlbGYpOgogICAgICAgIHN1cm5hbWUgPSBzZWxmLmNsZWFuZWRfZGF0YVsnc3VybmFtZSddCiAgICAgICAgcHJpbnQgKCJzdXJuYW1lIiwgc3VybmFtZSkKICAgICAgICBpZiBub3Qgc3VybmFtZToKICAgICAgICAgICAgcmFpc2UgZm9ybXMuVmFsaWRhdGlvbkVycm9yKF8oIlBsZWFzZSBlbnRlciB5b3VyIHN1cm5hbWUiKSkKICAgICAgICByZXR1cm4gc3VybmFtZQoKICAgIGRlZiBjbGVhbl9waG9uZShzZWxmKToKICAgICAgICBwaG9uZSA9IHNlbGYuY2xlYW5lZF9kYXRhWydwaG9uZSddCiAgICAgICAgcHJpbnQgKCJwaG9uZSIsIHBob25lKQogICAgICAgIGlmIG5vdCBwaG9uZToKICAgICAgICAgICAgcmFpc2UgZm9ybXMuVmFsaWRhdGlvbkVycm9yKF8oIlBsZWFzZSBlbnRlciB5b3VyIHBob25lIikpCiAgICAgICAgcmV0dXJuIHBob25lCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -543,10 +543,10 @@
         <entry>q</entry>
         <entry>.w</entry>
         <entry>wq</entry>
-        <entry>qa</entry>
         <entry>14</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
