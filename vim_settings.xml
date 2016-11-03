@@ -154,11 +154,12 @@
         <mark key="." line="16" column="79" />
         <mark key="^" line="16" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/forms.py" timestamp="1478166937585">
-        <mark key="[" line="52" column="70" />
-        <mark key="]" line="52" column="70" />
-        <mark key="^" line="52" column="70" />
-        <mark key="." line="52" column="70" />
+      <file name="$USER_HOME$/projects/landings/competition/home/forms.py" timestamp="1478169401082">
+        <mark key="'" line="39" column="40" />
+        <mark key="[" line="46" column="26" />
+        <mark key="]" line="46" column="33" />
+        <mark key="^" line="46" column="33" />
+        <mark key="." line="46" column="33" />
       </file>
       <file name="$USER_HOME$/projects/priv/cic/cic/settings.py" timestamp="1477393908942">
         <mark key="'" line="43" column="0" />
@@ -167,12 +168,12 @@
         <mark key="^" line="53" column="43" />
         <mark key="." line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1478166986524">
+      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1478168823760">
         <mark key="'" line="75" column="37" />
-        <mark key="[" line="160" column="20" />
-        <mark key="]" line="160" column="20" />
-        <mark key="." line="160" column="20" />
-        <mark key="^" line="160" column="20" />
+        <mark key="[" line="178" column="48" />
+        <mark key="]" line="178" column="48" />
+        <mark key="." line="178" column="48" />
+        <mark key="^" line="178" column="48" />
       </file>
       <file name="$USER_HOME$/projects/landings/wolf-academy/deploy/roles/application/tasks/main.yml" timestamp="1477055790010">
         <mark key="'" line="45" column="46" />
@@ -227,7 +228,7 @@
         <mark key="^" line="140" column="26" />
         <mark key="." line="140" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1478165294579">
+      <file name="/Python Console" timestamp="1478169407455">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/priv/cic/contact/views.py" timestamp="1477395576130">
@@ -281,7 +282,7 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1478165275165">
+      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1478169011327">
         <mark key="'" line="283" column="92" />
         <mark key="[" line="218" column="0" />
         <mark key="]" line="218" column="82" />
@@ -388,7 +389,6 @@
       <jump line="18" column="21" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="22" column="5" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="238" column="4" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
-      <jump line="39" column="33" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="17" column="0" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="5" column="21" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="40" column="35" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
@@ -458,19 +458,20 @@
       <jump line="466" column="31" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="498" column="4" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="506" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
+      <jump line="39" column="40" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>get_language</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhbmd1YWdlID0gdHJhbnNsYXRpb24uZ2V0X2xhbmd1YWdlX2Zyb21fcmVxdWVzdChyZXF1ZXN0LCBjaGVja19wYXRoPVRydWUpCg==</text>
+      <register name="0" type="4">
+        <text>_(&quot;You need to accept rules&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiMiIsIGZvcm0uZXJyb3JzKQo=</text>
