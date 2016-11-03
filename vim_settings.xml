@@ -154,11 +154,11 @@
         <mark key="." line="16" column="79" />
         <mark key="^" line="16" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/forms.py" timestamp="1478165099653">
-        <mark key="[" line="54" column="21" />
-        <mark key="]" line="54" column="22" />
-        <mark key="^" line="54" column="22" />
-        <mark key="." line="54" column="22" />
+      <file name="$USER_HOME$/projects/landings/competition/home/forms.py" timestamp="1478166937585">
+        <mark key="[" line="52" column="70" />
+        <mark key="]" line="52" column="70" />
+        <mark key="^" line="52" column="70" />
+        <mark key="." line="52" column="70" />
       </file>
       <file name="$USER_HOME$/projects/priv/cic/cic/settings.py" timestamp="1477393908942">
         <mark key="'" line="43" column="0" />
@@ -167,7 +167,7 @@
         <mark key="^" line="53" column="43" />
         <mark key="." line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1478166289176">
+      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1478166986524">
         <mark key="'" line="75" column="37" />
         <mark key="[" line="160" column="20" />
         <mark key="]" line="160" column="20" />
@@ -460,11 +460,11 @@
       <jump line="506" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhbmd1YWdlID0gdHJhbnNsYXRpb24uZ2V0X2xhbmd1YWdlX2Zyb21fcmVxdWVzdChyZXF1ZXN0LCBjaGVja19wYXRoPVRydWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>fdsfdsf</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>get_language</text>
