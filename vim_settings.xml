@@ -371,7 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="130" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/tasks/main.yml" />
       <jump line="42" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
       <jump line="114" column="24" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
       <jump line="91" column="25" filename="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" />
@@ -471,6 +470,7 @@
       <jump line="506" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="39" column="40" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="24" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
