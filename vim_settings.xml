@@ -280,8 +280,8 @@
         <mark key="." line="21" column="33" />
         <mark key="^" line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1477569238390">
-        <mark key="'" line="58" column="9" />
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1478178267175">
+        <mark key="'" line="24" column="7" />
         <mark key="[" line="87" column="30" />
         <mark key="]" line="87" column="30" />
         <mark key="^" line="87" column="30" />
@@ -381,7 +381,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="23" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="93" column="13" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
-      <jump line="24" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="58" column="9" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="214" column="21" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="190" column="6" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
@@ -471,6 +470,7 @@
       <jump line="498" column="4" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="506" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="39" column="40" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
+      <jump line="24" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -513,7 +513,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoZm9ybS5pc192YWxpZCgpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -563,9 +563,9 @@
         <entry>.w</entry>
         <entry>wq</entry>
         <entry>14</entry>
-        <entry>qa</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
