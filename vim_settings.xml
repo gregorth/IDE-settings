@@ -27,6 +27,12 @@
         <mark key="^" line="28" column="59" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/landings/wolf-academy/home/models.py" timestamp="1477482756444">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/supervisor.conf" timestamp="1477496346929">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="29" />
@@ -77,6 +83,7 @@
         <mark key="^" line="8" column="138" />
         <mark key="." line="8" column="98" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/middleware/locale.py" timestamp="1478170740468" />
       <file name="$USER_HOME$/projects/ansible_roles/wordpress/roles/wordpress/tasks/main.yml" timestamp="1476451467800">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="29" column="25" />
@@ -133,6 +140,12 @@
         <mark key="." line="9" column="59" />
         <mark key="^" line="9" column="59" />
       </file>
+      <file name="$USER_HOME$/projects/landings/wolf-academy/wolfacademy/settings/base.py" timestamp="1477482850614">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+      </file>
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/models.py" timestamp="1476748062985">
         <mark key="'" line="69" column="0" />
         <mark key="[" line="34" column="0" />
@@ -154,12 +167,11 @@
         <mark key="." line="16" column="79" />
         <mark key="^" line="16" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/forms.py" timestamp="1478169401082">
+      <file name="$USER_HOME$/projects/landings/competition/home/forms.py" timestamp="1478170910287">
         <mark key="'" line="39" column="40" />
-        <mark key="[" line="46" column="26" />
-        <mark key="]" line="46" column="33" />
-        <mark key="^" line="46" column="33" />
-        <mark key="." line="46" column="33" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/projects/priv/cic/cic/settings.py" timestamp="1477393908942">
         <mark key="'" line="43" column="0" />
@@ -168,10 +180,10 @@
         <mark key="^" line="53" column="43" />
         <mark key="." line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1478168823760">
+      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1478170563708">
         <mark key="'" line="75" column="37" />
-        <mark key="[" line="178" column="48" />
-        <mark key="]" line="178" column="48" />
+        <mark key="[" line="66" column="5" />
+        <mark key="]" line="66" column="46" />
         <mark key="." line="178" column="48" />
         <mark key="^" line="178" column="48" />
       </file>
@@ -228,7 +240,7 @@
         <mark key="^" line="140" column="26" />
         <mark key="." line="140" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1478169407455">
+      <file name="/Python Console" timestamp="1478170800994">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/priv/cic/contact/views.py" timestamp="1477395576130">
@@ -283,10 +295,10 @@
         <mark key="." line="22" column="11" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1478169011327">
-        <mark key="'" line="283" column="92" />
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="82" />
-        <mark key="." line="218" column="0" />
+        <mark key="'" line="281" column="92" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="82" />
+        <mark key="." line="182" column="0" />
         <mark key="^" line="182" column="41" />
       </file>
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/tools.py" timestamp="1476735454926">
@@ -461,44 +473,44 @@
       <jump line="39" column="40" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiUEFSQU1TOiAiLCBwYXJhbXMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>get_language</text>
       </register>
       <register name="0" type="4">
-        <text>_(&quot;You need to accept rules&quot;)</text>
+        <text>django.middleware.locale.LocaleMiddleware'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiMiIsIGZvcm0uZXJyb3JzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUEFSQU1TOiAiLCBwYXJhbXMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiMSIsIGZvcm0uZXJyb3JzKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2xhdGVkX3RleHQgPSB1Z2V0dGV4dCgiWW91IG5lZWQgdG8gYWNjZXB0IHJ1bGVzIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmb3JtLmlzX3ZhbGlkKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGRqYW5nby51dGlscy50cmFuc2xhdGlvbiBpbXBvcnQgdWdldHRleHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoZm9ybS5pc192YWxpZCgpKQo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28ubWlkZGxld2FyZS5sb2NhbGUgaW1wb3J0IExvY2FsZU1pZGRsZXdhcmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoZm9ybS5pc192YWxpZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiMiIsIGZvcm0uZXJyb3JzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtX2RhdGEK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiMSIsIGZvcm0uZXJyb3JzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmb3JtLmlzX3ZhbGlkKCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoZm9ybS5pc192YWxpZCgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBjbGVhbl9maXJzdF9uYW1lKHNlbGYpOgogICAgICAgIG5hbWUgPSBzZWxmLmNsZWFuZWRfZGF0YVsnZmlyc3RfbmFtZSddCiAgICAgICAgcHJpbnQgKCJuYW1lIiwgbmFtZSkKICAgICAgICBpZiBub3QgbmFtZToKICAgICAgICAgICAgcmFpc2UgZm9ybXMuVmFsaWRhdGlvbkVycm9yKF8oIlBsZWFzZSBlbnRlciB5b3VyIG5hbWUiKSkKICAgICAgICByZXR1cm4gbmFtZQoKICAgIGRlZiBjbGVhbl9zdXJuYW1lKHNlbGYpOgogICAgICAgIHN1cm5hbWUgPSBzZWxmLmNsZWFuZWRfZGF0YVsnc3VybmFtZSddCiAgICAgICAgcHJpbnQgKCJzdXJuYW1lIiwgc3VybmFtZSkKICAgICAgICBpZiBub3Qgc3VybmFtZToKICAgICAgICAgICAgcmFpc2UgZm9ybXMuVmFsaWRhdGlvbkVycm9yKF8oIlBsZWFzZSBlbnRlciB5b3VyIHN1cm5hbWUiKSkKICAgICAgICByZXR1cm4gc3VybmFtZQoKICAgIGRlZiBjbGVhbl9waG9uZShzZWxmKToKICAgICAgICBwaG9uZSA9IHNlbGYuY2xlYW5lZF9kYXRhWydwaG9uZSddCiAgICAgICAgcHJpbnQgKCJwaG9uZSIsIHBob25lKQogICAgICAgIGlmIG5vdCBwaG9uZToKICAgICAgICAgICAgcmFpc2UgZm9ybXMuVmFsaWRhdGlvbkVycm9yKF8oIlBsZWFzZSBlbnRlciB5b3VyIHBob25lIikpCiAgICAgICAgcmV0dXJuIHBob25lCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoZm9ybS5pc192YWxpZCgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
