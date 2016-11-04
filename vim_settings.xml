@@ -351,8 +351,8 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" timestamp="1478271743018">
-        <mark key="'" line="84" column="37" />
+      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" timestamp="1478272589715">
+        <mark key="'" line="126" column="21" />
         <mark key="[" line="237" column="0" />
         <mark key="]" line="237" column="0" />
         <mark key="." line="237" column="0" />
@@ -395,8 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="16" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
-      <jump line="6" column="24" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="14" column="5" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="95" column="27" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
       <jump line="48" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
@@ -495,6 +493,8 @@
       <jump line="225" column="23" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="104" column="8" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="84" column="37" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
+      <jump line="272" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
+      <jump line="126" column="21" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -504,7 +504,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>activate</text>
+        <text>merge</text>
       </register>
       <register name="0" type="4">
         <text>You need to accept rules&quot;</text>
@@ -541,9 +541,9 @@
       </register>
     </registers>
     <search>
-      <last-search>activate</last-search>
+      <last-search>merge</last-search>
       <last-offset />
-      <last-pattern>activate</last-pattern>
+      <last-pattern>merge</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -551,7 +551,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZW5kR3JpZEFQSUNsaWVudFw+</entry>
         <entry encoding="base64">XDxwcmVwYXJlX3NlbmRncmlkX2VtYWlsXD4=</entry>
         <entry>mail</entry>
         <entry>send</entry>
@@ -571,6 +570,7 @@
         <entry>in</entry>
         <entry encoding="base64">XDxfdHJhbnNsYXRpb25zXD4=</entry>
         <entry>activate</entry>
+        <entry>merge</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
