@@ -145,11 +145,6 @@
         <mark key="." line="54" column="167" />
         <mark key="^" line="54" column="167" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/templates/page-parts/gtm-code.html" timestamp="1478519754728">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" timestamp="1476748166823">
         <mark key="'" line="41" column="39" />
         <mark key="[" line="63" column="20" />
@@ -220,6 +215,12 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/system/tasks/main.yml" timestamp="1478532369739">
+        <mark key="[" line="62" column="38" />
+        <mark key="]" line="65" column="39" />
+        <mark key="." line="65" column="39" />
+        <mark key="^" line="65" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" timestamp="1477555926413">
         <mark key="'" line="91" column="25" />
         <mark key="[" line="96" column="0" />
@@ -278,6 +279,11 @@
         <mark key="]" line="9" column="16" />
         <mark key="^" line="9" column="16" />
         <mark key="." line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/db/tasks/main.yml" timestamp="1478531745515">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/locale/fr/LC_MESSAGES/django.po" timestamp="1478526105608">
         <mark key="[" line="22" column="24" />
@@ -525,8 +531,8 @@
       <jump line="21" column="9" filename="$USER_HOME$/projects/landings/competition/deploy/roles/db/tasks/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBuYW1lOiBlbmFibGUgc3VwZXJ2aXNvcgogIHNlcnZpY2U6IG5hbWU9c3VwZXJ2aXNvciBlbmFibGVkPXllcwo=</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -538,31 +544,38 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIiIHNlbGVjdGVkPnt7IGNoaWxkLnZhbHVlLnNleF9maWVsZF92YWx1ZXxzYWZlIH19PC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgeyUgZm9yIHZhbHVlLCB0ZXh0IGluIGZvcm0uZmllbGRzLnNleC5jaG9pY2VzICV9CiAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0ie3sgdmFsdWUgfX0iPnt7IHRleHQgfX08L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICB7JSBlbmRmb3IgJX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQk8b3B0aW9uIHZhbHVlPSIxIj5Xb21lbjwvb3B0aW9uPgo=</text>
+        <text encoding="base64">LSBuYW1lOiBlbmFibGUgc3VwZXJ2aXNvcgogIHNlcnZpY2U6IG5hbWU9c3VwZXJ2aXNvciBlbmFibGVkPXllcwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQk8b3B0aW9uIHZhbHVlPSIwIj5NZW48L29wdGlvbj4K</text>
+      <register name="2" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQk8b3B0aW9uIHZhbHVlPSIiPnt7IGNoaWxkLnZhbHVlLnNleF9maWVsZF92YWx1ZXxzYWZlIH19PC9vcHRpb24+Cg==</text>
+        <text encoding="base64">CQkJCQk8b3B0aW9uIHZhbHVlPSIxIj5Xb21lbjwvb3B0aW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmb3JtLmlzX3ZhbGlkKCkpCg==</text>
+        <text encoding="base64">CQkJCQk8b3B0aW9uIHZhbHVlPSIwIj5NZW48L29wdGlvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmb3JtLmVycm9ycykK</text>
+        <text encoding="base64">CQkJCQk8b3B0aW9uIHZhbHVlPSIiPnt7IGNoaWxkLnZhbHVlLnNleF9maWVsZF92YWx1ZXxzYWZlIH19PC9vcHRpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgibG9jYWxlIiwgc2VsZi5fX2xvY2FsZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmb3JtLmlzX3ZhbGlkKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgibG9jYWxlIiwgc2VsZi5fX2xvY2FsZSkKICAgICAgICBwcmludCgiX19sYW5ndWFnZSIsIHNlbGYuX19sYW5ndWFnZSkKICAgICAgICBwcmludCgiX190b19sYW5ndWFnZSIsIHNlbGYuX190b19sYW5ndWFnZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmb3JtLmVycm9ycykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZyA9IF8oIllvdSBuZWVkIHRvIGFjY2VwdCBydWxlcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgibG9jYWxlIiwgc2VsZi5fX2xvY2FsZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgic2Zkc2ZkIiwgYWcpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgibG9jYWxlIiwgc2VsZi5fX2xvY2FsZSkKICAgICAgICBwcmludCgiX19sYW5ndWFnZSIsIHNlbGYuX19sYW5ndWFnZSkKICAgICAgICBwcmludCgiX190b19sYW5ndWFnZSIsIHNlbGYuX190b19sYW5ndWFnZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -619,8 +632,8 @@
         <entry>172</entry>
         <entry>wq</entry>
         <entry>qa</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
