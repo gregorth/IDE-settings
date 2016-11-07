@@ -50,6 +50,12 @@
         <mark key="^" line="26" column="9" />
         <mark key="." line="26" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/landings/competition/locale/id/LC_MESSAGES/django.po" timestamp="1478516805691">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="22" />
+        <mark key="." line="30" column="22" />
+        <mark key="^" line="30" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/ssl.conf" timestamp="1477486357989">
         <mark key="[" line="1" column="42" />
         <mark key="]" line="1" column="55" />
@@ -70,9 +76,10 @@
         <mark key="^" line="111" column="84" />
         <mark key="." line="111" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/locale/in/LC_MESSAGES/django.po" timestamp="1478268114183">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="16" />
+      <file name="$USER_HOME$/projects/landings/competition/locale/in/LC_MESSAGES/django.po" timestamp="1478516766123">
+        <mark key="'" line="1" column="38" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="33" column="11" />
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="16" />
       </file>
@@ -171,12 +178,12 @@
         <mark key="." line="16" column="79" />
         <mark key="^" line="16" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/forms.py" timestamp="1478270938917">
-        <mark key="'" line="48" column="47" />
-        <mark key="[" line="59" column="8" />
-        <mark key="]" line="59" column="8" />
-        <mark key="." line="59" column="8" />
-        <mark key="^" line="59" column="8" />
+      <file name="$USER_HOME$/projects/landings/competition/home/forms.py" timestamp="1478516603195">
+        <mark key="'" line="3" column="37" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="55" />
+        <mark key="." line="48" column="13" />
+        <mark key="^" line="48" column="13" />
       </file>
       <file name="$USER_HOME$/projects/priv/cic/cic/settings.py" timestamp="1477393908942">
         <mark key="'" line="43" column="0" />
@@ -185,12 +192,12 @@
         <mark key="^" line="53" column="43" />
         <mark key="." line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1478270092940">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="143" column="19" />
-        <mark key="]" line="143" column="22" />
-        <mark key="." line="143" column="22" />
-        <mark key="^" line="143" column="22" />
+      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1478516138667">
+        <mark key="'" line="14" column="44" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
+        <mark key="^" line="167" column="47" />
       </file>
       <file name="$USER_HOME$/projects/landings/wolf-academy/deploy/roles/application/tasks/main.yml" timestamp="1477055790010">
         <mark key="'" line="45" column="46" />
@@ -245,10 +252,7 @@
         <mark key="^" line="140" column="26" />
         <mark key="." line="140" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1478271567607">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1478269194482">
+      <file name="/fragment.py" timestamp="1478515442683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/priv/cic/contact/views.py" timestamp="1477395576130">
@@ -351,11 +355,12 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" timestamp="1478272589715">
-        <mark key="'" line="126" column="21" />
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="." line="237" column="0" />
+      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" timestamp="1478517349711">
+        <mark key="'" line="143" column="8" />
+        <mark key="[" line="164" column="42" />
+        <mark key="]" line="164" column="42" />
+        <mark key="." line="164" column="42" />
+        <mark key="^" line="164" column="42" />
       </file>
       <file name="$USER_HOME$/projects/landings/wolf-academy/deploy/host_vars/stage" timestamp="1477054324198">
         <mark key="'" line="5" column="14" />
@@ -363,6 +368,12 @@
         <mark key="]" line="25" column="24" />
         <mark key="." line="25" column="24" />
         <mark key="^" line="25" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/home/myscipy.py" timestamp="1478516440133">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/home/migrations/0030_auto_20161027_1207.py" timestamp="1477570532201">
         <mark key="[" line="12" column="20" />
@@ -395,16 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="5" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
-      <jump line="95" column="27" filename="$USER_HOME$/projects/landings/competition/competition/settings/production.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" />
-      <jump line="42" column="29" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
-      <jump line="50" column="8" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/python_http_client/client.py" />
-      <jump line="56" column="61" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/python_http_client/client.py" />
-      <jump line="196" column="8" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
-      <jump line="11" column="51" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
-      <jump line="55" column="21" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="223" column="0" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="224" column="8" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="225" column="39" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
@@ -473,7 +474,6 @@
       <jump line="63" column="4" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="64" column="48" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="73" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
-      <jump line="4" column="44" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="47" column="47" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="321" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="242" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
@@ -495,55 +495,66 @@
       <jump line="84" column="37" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="272" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="126" column="21" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
+      <jump line="92" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
+      <jump line="140" column="17" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
+      <jump line="194" column="34" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
+      <jump line="226" column="34" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
+      <jump line="168" column="20" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
+      <jump line="14" column="44" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
+      <jump line="1" column="38" filename="$USER_HOME$/projects/landings/competition/locale/in/LC_MESSAGES/django.po" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
+      <jump line="48" column="13" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
+      <jump line="3" column="37" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
+      <jump line="143" column="8" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>merge</text>
+        <text encoding="base64">XDxfbmV3X2dudV90cmFuc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>You need to accept rules&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgibG9jYWxlIiwgc2VsZi5fX2xvY2FsZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJpbnQoQkFTRV9ESVIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQCIsIHRyYW5zbGF0aW9uLmdldF9sYW5ndWFnZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpIAo=</text>
+        <text encoding="base64">ICAgICAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpjbGFzcyBMb2NhbGVNaWRkbGV3YXJlKE1pZGRsZXdhcmVNaXhpbik6CiAgICAiIiIKICAgIFRoaXMgaXMgYSB2ZXJ5IHNpbXBsZSBtaWRkbGV3YXJlIHRoYXQgcGFyc2VzIGEgcmVxdWVzdAogICAgYW5kIGRlY2lkZXMgd2hhdCB0cmFuc2xhdGlvbiBvYmplY3QgdG8gaW5zdGFsbCBpbiB0aGUgY3VycmVudAogICAgdGhyZWFkIGNvbnRleHQuIFRoaXMgYWxsb3dzIHBhZ2VzIHRvIGJlIGR5bmFtaWNhbGx5CiAgICB0cmFuc2xhdGVkIHRvIHRoZSBsYW5ndWFnZSB0aGUgdXNlciBkZXNpcmVzIChpZiB0aGUgbGFuZ3VhZ2UKICAgIGlzIGF2YWlsYWJsZSwgb2YgY291cnNlKS4KICAgICIiIgogICAgcmVzcG9uc2VfcmVkaXJlY3RfY2xhc3MgPSBIdHRwUmVzcG9uc2VSZWRpcmVjdAoKICAgIGRlZiBwcm9jZXNzX3JlcXVlc3Qoc2VsZiwgcmVxdWVzdCk6CiAgICAgICAgdXJsY29uZiA9IGdldGF0dHIocmVxdWVzdCwgJ3VybGNvbmYnLCBzZXR0aW5ncy5ST09UX1VSTENPTkYpCiAgICAgICAgbGFuZ3VhZ2UgPSB0cmFuc2xhdGlvbi5nZXRfbGFuZ3VhZ2VfZnJvbV9yZXF1ZXN0KHJlcXVlc3QsIGNoZWNrX3BhdGg9VHJ1ZSkKICAgICAgICB0cmFuc2xhdGlvbi5hY3RpdmF0ZShsYW5ndWFnZSkKICAgICAgICByZXF1ZXN0LkxBTkdVQUdFX0NPREUgPSB0cmFuc2xhdGlvbi5nZXRfbGFuZ3VhZ2UoKQoKICAgIGRlZiBwcm9jZXNzX3Jlc3BvbnNlKHNlbGYsIHJlcXVlc3QsIHJlc3BvbnNlKToKICAgICAgICBsYW5ndWFnZSA9IHRyYW5zbGF0aW9uLmdldF9sYW5ndWFnZSgpCiAgICAgICAgbGFuZ3VhZ2VfZnJvbV9wYXRoID0gdHJhbnNsYXRpb24uZ2V0X2xhbmd1YWdlX2Zyb21fcGF0aChyZXF1ZXN0LnBhdGhfaW5mbykKICAgICAgICB1cmxjb25mID0gZ2V0YXR0cihyZXF1ZXN0LCAndXJsY29uZicsIHNldHRpbmdzLlJPT1RfVVJMQ09ORikKICAgICAgICBpMThuX3BhdHRlcm5zX3VzZWQsIHByZWZpeGVkX2RlZmF1bHRfbGFuZ3VhZ2UgPSBpc19sYW5ndWFnZV9wcmVmaXhfcGF0dGVybnNfdXNlZCh1cmxjb25mKQoKICAgICAgICBpZiByZXNwb25zZS5zdGF0dXNfY29kZSA9PSA0MDQgYW5kIG5vdCBsYW5ndWFnZV9mcm9tX3BhdGggYW5kIGkxOG5fcGF0dGVybnNfdXNlZDoKICAgICAgICAgICAgbGFuZ3VhZ2VfcGF0aCA9ICcvJXMlcycgJSAobGFuZ3VhZ2UsIHJlcXVlc3QucGF0aF9pbmZvKQogICAgICAgICAgICBwYXRoX3ZhbGlkID0gaXNfdmFsaWRfcGF0aChsYW5ndWFnZV9wYXRoLCB1cmxjb25mKQogICAgICAgICAgICBwYXRoX25lZWRzX3NsYXNoID0gKAogICAgICAgICAgICAgICAgbm90IHBhdGhfdmFsaWQgYW5kICgKICAgICAgICAgICAgICAgICAgICBzZXR0aW5ncy5BUFBFTkRfU0xBU0ggYW5kIG5vdCBsYW5ndWFnZV9wYXRoLmVuZHN3aXRoKCcvJykgYW5kCiAgICAgICAgICAgICAgICAgICAgaXNfdmFsaWRfcGF0aCgnJXMvJyAlIGxhbmd1YWdlX3BhdGgsIHVybGNvbmYpCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICkKCiAgICAgICAgICAgIGlmIHBhdGhfdmFsaWQgb3IgcGF0aF9uZWVkc19zbGFzaDoKICAgICAgICAgICAgICAgIHNjcmlwdF9wcmVmaXggPSBnZXRfc2NyaXB0X3ByZWZpeCgpCiAgICAgICAgICAgICAgICAjIEluc2VydCBsYW5ndWFnZSBhZnRlciB0aGUgc2NyaXB0IHByZWZpeCBhbmQgYmVmb3JlIHRoZQogICAgICAgICAgICAgICAgIyByZXN0IG9mIHRoZSBVUkwKICAgICAgICAgICAgICAgIGxhbmd1YWdlX3VybCA9IHJlcXVlc3QuZ2V0X2Z1bGxfcGF0aChmb3JjZV9hcHBlbmRfc2xhc2g9cGF0aF9uZWVkc19zbGFzaCkucmVwbGFjZSgKICAgICAgICAgICAgICAgICAgICBzY3JpcHRfcHJlZml4LAogICAgICAgICAgICAgICAgICAgICclcyVzLycgJSAoc2NyaXB0X3ByZWZpeCwgbGFuZ3VhZ2UpLAogICAgICAgICAgICAgICAgICAgIDEKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLnJlc3BvbnNlX3JlZGlyZWN0X2NsYXNzKGxhbmd1YWdlX3VybCkKCiAgICAgICAgaWYgbm90IChpMThuX3BhdHRlcm5zX3VzZWQgYW5kIGxhbmd1YWdlX2Zyb21fcGF0aCk6CiAgICAgICAgICAgIHBhdGNoX3ZhcnlfaGVhZGVycyhyZXNwb25zZSwgKCdBY2NlcHQtTGFuZ3VhZ2UnLCkpCiAgICAgICAgaWYgJ0NvbnRlbnQtTGFuZ3VhZ2UnIG5vdCBpbiByZXNwb25zZToKICAgICAgICAgICAgcmVzcG9uc2VbJ0NvbnRlbnQtTGFuZ3VhZ2UnXSA9IGxhbmd1YWdlCiAgICAgICAgcmV0dXJuIHJlc3BvbnNlCgo=</text>
+        <text encoding="base64">ICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28ubWlkZGxld2FyZS5sb2NhbGUgaW1wb3J0IExvY2FsZU1pZGRsZXdhcmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQCIsIHRyYW5zbGF0aW9uLmdldF9sYW5ndWFnZSgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>merge</last-search>
+      <last-search encoding="base64">XDxfbmV3X2dudV90cmFuc1w+</last-search>
       <last-offset />
-      <last-pattern>merge</last-pattern>
+      <last-pattern encoding="base64">XDxfbmV3X2dudV90cmFuc1w+</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -551,10 +562,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVwYXJlX3NlbmRncmlkX2VtYWlsXD4=</entry>
-        <entry>mail</entry>
-        <entry>send</entry>
-        <entry>serve</entry>
         <entry>help</entry>
         <entry>DEFAULT_FROM_EMAIL</entry>
         <entry encoding="base64">XDxERUZBVUxUX0ZST01fRU1BSUxcPg==</entry>
@@ -571,6 +578,10 @@
         <entry encoding="base64">XDxfdHJhbnNsYXRpb25zXD4=</entry>
         <entry>activate</entry>
         <entry>merge</entry>
+        <entry encoding="base64">XDxEamFuZ29UcmFuc2xhdGlvblw+</entry>
+        <entry>os</entry>
+        <entry>ugettext</entry>
+        <entry encoding="base64">XDxfbmV3X2dudV90cmFuc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
