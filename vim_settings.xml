@@ -429,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/db/templates/postgresql.conf" />
       <jump line="104" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/db/templates/pg_hba.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/db/templates/pg_hba.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
@@ -529,6 +528,7 @@
       <jump line="82" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/db/templates/pg_hba.conf" />
       <jump line="16" column="13" filename="$USER_HOME$/projects/landings/competition/deploy/roles/db/tasks/main.yml" />
       <jump line="21" column="9" filename="$USER_HOME$/projects/landings/competition/deploy/roles/db/tasks/main.yml" />
+      <jump line="65" column="39" filename="$USER_HOME$/projects/unlock_app-web/deploy/roles/system/tasks/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
