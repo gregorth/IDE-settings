@@ -36,6 +36,9 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/airskl_backend/lib/tools.py" timestamp="1478609566365">
+        <mark key="'" line="4" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/victor_cms/victor_cms/settings/base.py" timestamp="1476708485787">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -300,6 +303,7 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/airskl_backend/README.md" timestamp="1478610127527" />
       <file name="$USER_HOME$/projects/landings/competition/deploy/stage.yml" timestamp="1478601617721">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -449,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="11" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="282" column="20" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="437" column="4" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="466" column="31" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
@@ -549,6 +552,7 @@
       <jump line="22" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="26" column="2" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="20" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
+      <jump line="4" column="20" filename="$USER_HOME$/projects/airskl_backend/lib/tools.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -558,7 +562,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNwX3Nlc3Npb25pZFw+</text>
+        <text encoding="base64">XDx3ZWJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWFwICRzZW50X2h0dHBfc2V0X2Nvb2tpZSAkcmVzcF91aWQgewogICAgZGVmYXVsdCAkY29va2llX3VpZDsKICAgIH4qdWlkPSg/PHU+WzAtOWEtekEtWjpfLV0rKSAkdTsKfQo=</text>
@@ -602,9 +606,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNwX3Nlc3Npb25pZFw+</last-search>
+      <last-search encoding="base64">XDx3ZWJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNwX3Nlc3Npb25pZFw+</last-pattern>
+      <last-pattern encoding="base64">XDx3ZWJcPg==</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -612,7 +616,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbmV3X2dudV90cmFuc1w+</entry>
         <entry>get_language_from_request</entry>
         <entry>TextInput</entry>
         <entry encoding="base64">XDxleHRyYV9hdHRyc1w+</entry>
@@ -632,6 +635,7 @@
         <entry encoding="base64">XDxyZXNwX2NpZFw+</entry>
         <entry encoding="base64">XDxiZWxvd1w+</entry>
         <entry encoding="base64">XDxyZXNwX3Nlc3Npb25pZFw+</entry>
+        <entry encoding="base64">XDx3ZWJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
