@@ -331,11 +331,11 @@
       <file name="$USER_HOME$/projects/landings/competition/.gitignore" timestamp="1478524740197">
         <mark key="'" line="27" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1478602637715">
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1478605127418">
         <mark key="'" line="20" column="7" />
         <mark key="[" line="40" column="31" />
         <mark key="]" line="40" column="31" />
-        <mark key="^" line="27" column="78" />
+        <mark key="^" line="40" column="31" />
         <mark key="." line="40" column="31" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/locale/hi/LC_MESSAGES/django.po" timestamp="1478524760404">
