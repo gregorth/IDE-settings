@@ -75,6 +75,11 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/horizontal/main.html" timestamp="1478708507861">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="46" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/roles/db/templates/pg_hba.conf" timestamp="1478526545160">
         <mark key="'" line="82" column="0" />
         <mark key="[" line="104" column="84" />
@@ -135,7 +140,7 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" timestamp="1478707164385">
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" timestamp="1478708500954">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="46" />
@@ -343,12 +348,12 @@
       <file name="$USER_HOME$/projects/landings/competition/.gitignore" timestamp="1478524740197">
         <mark key="'" line="27" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1478605127418">
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1478708680355">
         <mark key="'" line="20" column="7" />
-        <mark key="[" line="40" column="31" />
-        <mark key="]" line="40" column="31" />
-        <mark key="^" line="40" column="31" />
-        <mark key="." line="40" column="31" />
+        <mark key="[" line="102" column="38" />
+        <mark key="]" line="102" column="38" />
+        <mark key="^" line="102" column="38" />
+        <mark key="." line="102" column="38" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/locale/hi/LC_MESSAGES/django.po" timestamp="1478524760404">
         <mark key="[" line="25" column="8" />
@@ -366,7 +371,7 @@
       <file name="$USER_HOME$/projects/landings/competition/deploy/roles/db/tasks/main.yml" timestamp="1478531666345">
         <mark key="'" line="21" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1478524487395">
+      <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1478708463794">
         <mark key="'" line="289" column="0" />
         <mark key="[" line="287" column="50" />
         <mark key="]" line="288" column="32" />
@@ -424,6 +429,12 @@
         <mark key="." line="25" column="24" />
         <mark key="^" line="25" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/simple-page/main.html" timestamp="1478708239119">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="46" />
+        <mark key="." line="75" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/landings/competition/home/myscipy.py" timestamp="1478516440133">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -461,7 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="437" column="4" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="466" column="31" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="498" column="4" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="506" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
@@ -561,19 +571,20 @@
       <jump line="20" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="4" column="20" filename="$USER_HOME$/projects/airskl_backend/lib/tools.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/landings/competition/home/templates/layouts/simple-page/main.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWFwICRzZW50X2h0dHBfc2V0X2Nvb2tpZSAkcmVzcF91aWQgewogICAgZGVmYXVsdCAkY29va2llX3VpZDsKICAgIH4qdWlkPSg/PHU+WzAtOWEtekEtWjpfLV0rKSAkdTsKfQo=</text>
+        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
@@ -664,8 +675,8 @@
         <entry>172</entry>
         <entry>wq</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
