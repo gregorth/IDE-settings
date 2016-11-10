@@ -75,9 +75,9 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/horizontal/main.html" timestamp="1478708507861">
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/horizontal/main.html" timestamp="1478776945059">
         <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="46" />
+        <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/roles/db/templates/pg_hba.conf" timestamp="1478526545160">
@@ -140,11 +140,11 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" timestamp="1478775542039">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="34" column="44" />
-        <mark key="]" line="34" column="44" />
-        <mark key="." line="34" column="44" />
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" timestamp="1478776935137">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="41" />
+        <mark key="." line="35" column="40" />
+        <mark key="^" line="35" column="33" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/competition/settings/production.py" timestamp="1477663164598">
         <mark key="'" line="23" column="0" />
@@ -570,12 +570,12 @@
       <jump line="23" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="102" column="8" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="99" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
-      <jump line="34" column="22" filename="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" />
+      <jump line="34" column="27" filename="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -584,41 +584,34 @@
         <text encoding="base64">XDxzZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSAgICBzZXQgJGFwcF9yZXF1ZXN0X3R5cGUgbm9ybWFsOwo=</text>
+        <text encoding="base64">CTxzY3JpcHQgc3JjPSIvc3RhdHMvIiBhc3luYz48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTxpbWcgc3JjPSJodHRwOi8vd3d3LnlvdXJzZXJ2ZXIuY29tL3lvdXJ0cmFja2luZy5waHA/YXNzb2NpYXRlaWQ9M3JkcGFydHlpZCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgLz4K</text>
+        <text encoding="base64">CTxzY3JpcHQgc3JjPSIvc3RhdHMvIiBhc3luYz0idHJ1ZSI+PHNjcmlwdC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0geyByb2xlOiBkYiwgdGFnczogZGIgfQo=</text>
+        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvMXgxLmdpZiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWFwICRzZW50X2h0dHBfc2V0X2Nvb2tpZSAkcmVzcF9zZXNzaW9uaWQgewogICAgZGVmYXVsdCAkY29va2llX3Nlc3Npb25pZDsKICAgIH4qc2Vzc2lvbmlkPSg/PHU+WzAtOWEtekEtWjoiXy1dKykgJHU7Cn0K</text>
+        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxpbWcgc3JjPSJodHRwOi8vd3d3LnlvdXJzZXJ2ZXIuY29tL3lvdXJ0cmFja2luZy5waHA/YXNzb2NpYXRlaWQ9M3JkcGFydHlpZCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBuYW1lOiBlbmFibGUgc3VwZXJ2aXNvcgogIHNlcnZpY2U6IG5hbWU9c3VwZXJ2aXNvciBlbmFibGVkPXllcwo=</text>
+        <text encoding="base64">ICAgIC0geyByb2xlOiBkYiwgdGFnczogZGIgfQo=</text>
       </register>
-      <register name="7" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="7" type="2">
+        <text encoding="base64">bWFwICRzZW50X2h0dHBfc2V0X2Nvb2tpZSAkcmVzcF9zZXNzaW9uaWQgewogICAgZGVmYXVsdCAkY29va2llX3Nlc3Npb25pZDsKICAgIH4qc2Vzc2lvbmlkPSg/PHU+WzAtOWEtekEtWjoiXy1dKykgJHU7Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQk8b3B0aW9uIHZhbHVlPSIxIj5Xb21lbjwvb3B0aW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQk8b3B0aW9uIHZhbHVlPSIwIj5NZW48L29wdGlvbj4K</text>
+        <text encoding="base64">LSBuYW1lOiBlbmFibGUgc3VwZXJ2aXNvcgogIHNlcnZpY2U6IG5hbWU9c3VwZXJ2aXNvciBlbmFibGVkPXllcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
