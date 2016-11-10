@@ -348,8 +348,8 @@
       <file name="$USER_HOME$/projects/landings/competition/.gitignore" timestamp="1478524740197">
         <mark key="'" line="27" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1478708680355">
-        <mark key="'" line="20" column="7" />
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1478771711739">
+        <mark key="'" line="23" column="7" />
         <mark key="[" line="102" column="38" />
         <mark key="]" line="102" column="38" />
         <mark key="^" line="102" column="38" />
@@ -472,9 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="466" column="31" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="498" column="4" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="506" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="39" column="40" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="179" column="30" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/contrib/sessions/backends/base.py" />
@@ -572,6 +569,9 @@
       <jump line="4" column="20" filename="$USER_HOME$/projects/airskl_backend/lib/tools.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/landings/competition/home/templates/layouts/simple-page/main.html" />
+      <jump line="7" column="13" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
+      <jump line="108" column="13" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
+      <jump line="23" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -581,7 +581,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3ZWJcPg==</text>
+        <text encoding="base64">XDxhcHBfcmVxdWVzdF90eXBlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
@@ -625,9 +625,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3ZWJcPg==</last-search>
+      <last-search encoding="base64">XDxhcHBfcmVxdWVzdF90eXBlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3ZWJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBfcmVxdWVzdF90eXBlXD4=</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -635,7 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_language_from_request</entry>
         <entry>TextInput</entry>
         <entry encoding="base64">XDxleHRyYV9hdHRyc1w+</entry>
         <entry encoding="base64">XDxlbXB0eV92YWx1ZVw+</entry>
@@ -655,6 +654,7 @@
         <entry encoding="base64">XDxiZWxvd1w+</entry>
         <entry encoding="base64">XDxyZXNwX3Nlc3Npb25pZFw+</entry>
         <entry encoding="base64">XDx3ZWJcPg==</entry>
+        <entry encoding="base64">XDxhcHBfcmVxdWVzdF90eXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
