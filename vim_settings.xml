@@ -140,11 +140,11 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" timestamp="1478708500954">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="46" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" timestamp="1478775542039">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="34" column="44" />
+        <mark key="]" line="34" column="44" />
+        <mark key="." line="34" column="44" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/competition/settings/production.py" timestamp="1477663164598">
         <mark key="'" line="23" column="0" />
@@ -472,8 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="30" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/contrib/sessions/backends/base.py" />
-      <jump line="160" column="20" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="37" column="8" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/landings/competition/core/middleware.py" />
       <jump line="58" column="51" filename="$USER_HOME$/projects/landings/competition/core/middleware.py" />
@@ -572,13 +570,15 @@
       <jump line="23" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="102" column="8" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="99" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
+      <jump line="34" column="22" filename="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>normal</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>normal</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
@@ -675,8 +675,8 @@
         <entry>172</entry>
         <entry>wq</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
