@@ -348,12 +348,12 @@
       <file name="$USER_HOME$/projects/landings/competition/.gitignore" timestamp="1478524740197">
         <mark key="'" line="27" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1478771711739">
-        <mark key="'" line="23" column="7" />
-        <mark key="[" line="102" column="38" />
-        <mark key="]" line="102" column="38" />
-        <mark key="^" line="102" column="38" />
-        <mark key="." line="102" column="38" />
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1478773249672">
+        <mark key="'" line="101" column="8" />
+        <mark key="[" line="101" column="8" />
+        <mark key="]" line="102" column="7" />
+        <mark key="^" line="102" column="7" />
+        <mark key="." line="102" column="7" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/locale/hi/LC_MESSAGES/django.po" timestamp="1478524760404">
         <mark key="[" line="25" column="8" />
@@ -472,7 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="40" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="179" column="30" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/contrib/sessions/backends/base.py" />
       <jump line="160" column="20" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
@@ -572,19 +571,20 @@
       <jump line="7" column="13" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="108" column="13" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="23" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
+      <jump line="102" column="8" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>normal</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>normal</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBfcmVxdWVzdF90eXBlXD4=</text>
+        <text encoding="base64">XDxzZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
+        <text encoding="base64">CSAgICBzZXQgJGFwcF9yZXF1ZXN0X3R5cGUgbm9ybWFsOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
@@ -625,17 +625,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBfcmVxdWVzdF90eXBlXD4=</last-search>
+      <last-search encoding="base64">XDxzZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBfcmVxdWVzdF90eXBlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRcPg==</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TextInput</entry>
         <entry encoding="base64">XDxleHRyYV9hdHRyc1w+</entry>
         <entry encoding="base64">XDxlbXB0eV92YWx1ZVw+</entry>
         <entry>MEDIA</entry>
@@ -655,6 +654,7 @@
         <entry encoding="base64">XDxyZXNwX3Nlc3Npb25pZFw+</entry>
         <entry encoding="base64">XDx3ZWJcPg==</entry>
         <entry encoding="base64">XDxhcHBfcmVxdWVzdF90eXBlXD4=</entry>
+        <entry encoding="base64">XDxzZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -675,8 +675,8 @@
         <entry>172</entry>
         <entry>wq</entry>
         <entry>qa</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
