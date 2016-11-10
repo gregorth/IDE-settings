@@ -348,8 +348,8 @@
       <file name="$USER_HOME$/projects/landings/competition/.gitignore" timestamp="1478524740197">
         <mark key="'" line="27" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1478773249672">
-        <mark key="'" line="101" column="8" />
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" timestamp="1478774781059">
+        <mark key="'" line="99" column="7" />
         <mark key="[" line="101" column="8" />
         <mark key="]" line="102" column="7" />
         <mark key="^" line="102" column="7" />
@@ -472,7 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="179" column="30" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/contrib/sessions/backends/base.py" />
       <jump line="160" column="20" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="37" column="8" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
@@ -572,6 +571,7 @@
       <jump line="108" column="13" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="23" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="102" column="8" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
+      <jump line="99" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
