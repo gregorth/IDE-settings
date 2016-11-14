@@ -205,8 +205,8 @@
         <mark key="." line="16" column="79" />
         <mark key="^" line="16" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/forms.py" timestamp="1478526070096">
-        <mark key="'" line="19" column="93" />
+      <file name="$USER_HOME$/projects/landings/competition/home/forms.py" timestamp="1479116491035">
+        <mark key="'" line="37" column="12" />
         <mark key="[" line="3" column="45" />
         <mark key="]" line="3" column="49" />
         <mark key="." line="3" column="49" />
@@ -316,7 +316,6 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/airskl_backend/README.md" timestamp="1478610127527" />
       <file name="$USER_HOME$/projects/landings/competition/deploy/stage.yml" timestamp="1478601617721">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -450,7 +449,6 @@
       <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/contrib/sessions/backends/base.py" timestamp="1478265862303">
         <mark key="'" line="179" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/locale/sv/LC_MESSAGES/django.po" timestamp="1478526196552" />
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/management/commands/import_data.py" timestamp="1476742436411">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="26" column="55" />
@@ -472,7 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="8" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/landings/competition/core/middleware.py" />
       <jump line="58" column="51" filename="$USER_HOME$/projects/landings/competition/core/middleware.py" />
       <jump line="63" column="45" filename="$USER_HOME$/projects/landings/competition/core/middleware.py" />
@@ -572,6 +569,7 @@
       <jump line="99" column="7" filename="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/nginx.conf" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" />
       <jump line="34" column="27" filename="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" />
+      <jump line="37" column="12" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -614,7 +612,7 @@
         <text encoding="base64">LSBuYW1lOiBlbmFibGUgc3VwZXJ2aXNvcgogIHNlcnZpY2U6IG5hbWU9c3VwZXJ2aXNvciBlbmFibGVkPXllcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -667,9 +665,9 @@
         <entry>wj:w</entry>
         <entry>172</entry>
         <entry>wq</entry>
-        <entry>qa</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
