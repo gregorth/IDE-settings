@@ -197,6 +197,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" timestamp="1479200758857">
+        <mark key="^" line="61" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" timestamp="1478526343023">
         <mark key="'" line="133" column="34" />
         <mark key="[" line="21" column="0" />
@@ -440,6 +443,9 @@
         <mark key="]" line="75" column="46" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/unlock/lib/python3.5/site-packages/rest_framework/status.py" timestamp="1479200407597">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/landings/competition/home/myscipy.py" timestamp="1478516440133">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -476,15 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="45" filename="$USER_HOME$/projects/landings/competition/core/middleware.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/landings/competition/core/middleware.py" />
-      <jump line="67" column="1" filename="$USER_HOME$/projects/landings/competition/core/middleware.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/projects/landings/competition/core/middleware.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/landings/competition/core/middleware.py" />
-      <jump line="65" column="8" filename="$USER_HOME$/projects/landings/competition/core/middleware.py" />
-      <jump line="63" column="4" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
-      <jump line="64" column="48" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="47" column="47" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="321" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="242" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
@@ -576,55 +573,64 @@
       <jump line="37" column="12" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="205" column="10" filename="$USER_HOME$/projects/landings/competition/static/js/project.js" />
       <jump line="202" column="20" filename="$USER_HOME$/projects/landings/competition/static/js/project.js" />
+      <jump line="59" column="11" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
+      <jump line="10" column="45" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
+      <jump line="9" column="32" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.virtualenvs/unlock/lib/python3.5/site-packages/rest_framework/status.py" />
+      <jump line="63" column="77" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
+      <jump line="64" column="12" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
+      <jump line="70" column="12" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
+      <jump line="85" column="78" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
+      <jump line="11" column="34" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgc3RhdHVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>submit</text>
+        <text encoding="base64">XDxDb3Vyc2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CTxzY3JpcHQgc3JjPSIvc3RhdHMvIiBhc3luYz48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgc3RhdHVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTxzY3JpcHQgc3JjPSIvc3RhdHMvIiBhc3luYz0idHJ1ZSI+PHNjcmlwdC8+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvMXgxLmdpZiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgPgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CTxzY3JpcHQgc3JjPSIvc3RhdHMvIiBhc3luYz0idHJ1ZSI+PHNjcmlwdC8+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvMXgxLmdpZiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgPgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CTxpbWcgc3JjPSJodHRwOi8vd3d3LnlvdXJzZXJ2ZXIuY29tL3lvdXJ0cmFja2luZy5waHA/YXNzb2NpYXRlaWQ9M3JkcGFydHlpZCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgLz4K</text>
+        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0geyByb2xlOiBkYiwgdGFnczogZGIgfQo=</text>
+        <text encoding="base64">CTxpbWcgc3JjPSJodHRwOi8vd3d3LnlvdXJzZXJ2ZXIuY29tL3lvdXJ0cmFja2luZy5waHA/YXNzb2NpYXRlaWQ9M3JkcGFydHlpZCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWFwICRzZW50X2h0dHBfc2V0X2Nvb2tpZSAkcmVzcF9zZXNzaW9uaWQgewogICAgZGVmYXVsdCAkY29va2llX3Nlc3Npb25pZDsKICAgIH4qc2Vzc2lvbmlkPSg/PHU+WzAtOWEtekEtWjoiXy1dKykgJHU7Cn0K</text>
+        <text encoding="base64">ICAgIC0geyByb2xlOiBkYiwgdGFnczogZGIgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWFwICRzZW50X2h0dHBfc2V0X2Nvb2tpZSAkcmVzcF9zZXNzaW9uaWQgewogICAgZGVmYXVsdCAkY29va2llX3Nlc3Npb25pZDsKICAgIH4qc2Vzc2lvbmlkPSg/PHU+WzAtOWEtekEtWjoiXy1dKykgJHU7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBuYW1lOiBlbmFibGUgc3VwZXJ2aXNvcgogIHNlcnZpY2U6IG5hbWU9c3VwZXJ2aXNvciBlbmFibGVkPXllcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>submit</last-search>
+      <last-search encoding="base64">XDxDb3Vyc2VcPg==</last-search>
       <last-offset />
-      <last-pattern>submit</last-pattern>
+      <last-pattern encoding="base64">XDxDb3Vyc2VcPg==</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -632,10 +638,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbXB0eV92YWx1ZVw+</entry>
-        <entry>MEDIA</entry>
-        <entry encoding="base64">XDxub1w+</entry>
-        <entry encoding="base64">XDxublw+</entry>
         <entry>mo</entry>
         <entry>man</entry>
         <entry>DjangoTranslation</entry>
@@ -652,6 +654,10 @@
         <entry encoding="base64">XDxhcHBfcmVxdWVzdF90eXBlXD4=</entry>
         <entry encoding="base64">XDxzZXRcPg==</entry>
         <entry>submit</entry>
+        <entry encoding="base64">XDxNaXNzaW5nRW1haWxFeGNlcHRpb25cPg==</entry>
+        <entry>422</entry>
+        <entry>status</entry>
+        <entry encoding="base64">XDxDb3Vyc2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -671,8 +677,8 @@
         <entry>wj:w</entry>
         <entry>172</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry>qa</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
