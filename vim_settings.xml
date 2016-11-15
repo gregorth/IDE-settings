@@ -249,12 +249,6 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/system/tasks/main.yml" timestamp="1478532369739">
-        <mark key="[" line="62" column="38" />
-        <mark key="]" line="65" column="39" />
-        <mark key="." line="65" column="39" />
-        <mark key="^" line="65" column="39" />
-      </file>
       <file name="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" timestamp="1477555926413">
         <mark key="'" line="91" column="25" />
         <mark key="[" line="96" column="0" />
@@ -313,11 +307,6 @@
         <mark key="]" line="9" column="16" />
         <mark key="^" line="9" column="16" />
         <mark key="." line="9" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/db/tasks/main.yml" timestamp="1478531745515">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/locale/fr/LC_MESSAGES/django.po" timestamp="1478526105608">
         <mark key="[" line="22" column="24" />
