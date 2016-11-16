@@ -613,7 +613,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -666,9 +666,9 @@
         <entry>wj:w</entry>
         <entry>172</entry>
         <entry>wq</entry>
-        <entry>qa</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
