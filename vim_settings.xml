@@ -146,6 +146,11 @@
         <mark key="]" line="205" column="8" />
         <mark key="." line="205" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/urls.py" timestamp="1479397986373">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" timestamp="1478776935137">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="41" />
@@ -358,6 +363,13 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" timestamp="1479397974465">
+        <mark key="'" line="124" column="45" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="^" line="124" column="48" />
+        <mark key="." line="128" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/landings/competition/locale/nn/LC_MESSAGES/django.po" timestamp="1477310339580">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="22" column="8" />
@@ -471,8 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="47" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
-      <jump line="321" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="242" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="243" column="60" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="251" column="61" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
@@ -571,55 +581,57 @@
       <jump line="70" column="12" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
       <jump line="85" column="78" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
       <jump line="11" column="34" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
+      <jump line="124" column="45" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgc3RhdHVzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN0YXRpY2ZpbGVzX3VybHBhdHRlcm5zKCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb3Vyc2VcPg==</text>
+        <text>STATIC_ROOT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CTxzY3JpcHQgc3JjPSIvc3RhdHMvIiBhc3luYz48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgc3RhdHVzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN0YXRpY2ZpbGVzX3VybHBhdHRlcm5zKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJoZXJlIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTxzY3JpcHQgc3JjPSIvc3RhdHMvIiBhc3luYz0idHJ1ZSI+PHNjcmlwdC8+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvMXgxLmdpZiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CTxpbWcgc3JjPSJodHRwOi8vd3d3LnlvdXJzZXJ2ZXIuY29tL3lvdXJ0cmFja2luZy5waHA/YXNzb2NpYXRlaWQ9M3JkcGFydHlpZCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgLz4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC0geyByb2xlOiBkYiwgdGFnczogZGIgfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">bWFwICRzZW50X2h0dHBfc2V0X2Nvb2tpZSAkcmVzcF9zZXNzaW9uaWQgewogICAgZGVmYXVsdCAkY29va2llX3Nlc3Npb25pZDsKICAgIH4qc2Vzc2lvbmlkPSg/PHU+WzAtOWEtekEtWjoiXy1dKykgJHU7Cn0K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZyb20gZGphbmdvLmNvbmYudXJscy5zdGF0aWMgaW1wb3J0IHN0YXRpYwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgc3RhdHVzCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CTxzY3JpcHQgc3JjPSIvc3RhdHMvIiBhc3luYz0idHJ1ZSI+PHNjcmlwdC8+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvMXgxLmdpZiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgPgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
+      </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb3Vyc2VcPg==</last-search>
+      <last-search>STATIC_ROOT</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb3Vyc2VcPg==</last-pattern>
+      <last-pattern>STATIC_ROOT</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -627,7 +639,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mo</entry>
         <entry>man</entry>
         <entry>DjangoTranslation</entry>
         <entry>print</entry>
@@ -647,6 +658,7 @@
         <entry>422</entry>
         <entry>status</entry>
         <entry encoding="base64">XDxDb3Vyc2VcPg==</entry>
+        <entry>STATIC_ROOT</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -659,16 +671,16 @@
         <entry>Q</entry>
         <entry>25</entry>
         <entry>90</entry>
-        <entry>q</entry>
         <entry>.w</entry>
         <entry>14</entry>
         <entry>Qa</entry>
         <entry>wj:w</entry>
         <entry>172</entry>
         <entry>wq</entry>
+        <entry>qa</entry>
         <entry>W</entry>
         <entry>w</entry>
-        <entry>qa</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
