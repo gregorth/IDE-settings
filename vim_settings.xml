@@ -94,16 +94,18 @@
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" timestamp="1479470800777">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/competition/lp/page_processors.py" timestamp="1476284456578">
         <mark key="'" line="8" column="98" />
         <mark key="[" line="8" column="98" />
         <mark key="]" line="8" column="98" />
         <mark key="^" line="8" column="138" />
         <mark key="." line="8" column="98" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/middleware/locale.py" timestamp="1478600450332">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="50" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/core/middleware.py" timestamp="1478600835102">
         <mark key="'" line="20" column="8" />
@@ -146,10 +148,12 @@
         <mark key="]" line="205" column="8" />
         <mark key="." line="205" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/urls.py" timestamp="1479397986373">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/urls.py" timestamp="1479470736506">
+        <mark key="'" line="2" column="52" />
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="25" />
+        <mark key="." line="24" column="25" />
+        <mark key="^" line="24" column="25" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" timestamp="1478776935137">
         <mark key="[" line="35" column="0" />
@@ -164,11 +168,11 @@
         <mark key="." line="97" column="35" />
         <mark key="^" line="97" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" timestamp="1479468701713">
-        <mark key="[" line="16" column="100" />
-        <mark key="]" line="16" column="97" />
-        <mark key="^" line="16" column="97" />
-        <mark key="." line="16" column="97" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" timestamp="1479472289487">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/wagtail/lib/python3.5/site-packages/wagtailtinymce/rich_text.py" timestamp="1476703886352">
         <mark key="'" line="105" column="8" />
@@ -253,6 +257,12 @@
         <mark key="." line="59" column="15" />
         <mark key="^" line="59" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/models.py" timestamp="1479471724243">
+        <mark key="[" line="14" column="57" />
+        <mark key="]" line="14" column="61" />
+        <mark key="." line="14" column="61" />
+        <mark key="^" line="14" column="61" />
+      </file>
       <file name="$USER_HOME$/projects/landings/competition/competition/settings/.env" timestamp="1477493753810">
         <mark key="'" line="18" column="27" />
         <mark key="[" line="18" column="16" />
@@ -299,6 +309,9 @@
         <mark key="^" line="140" column="26" />
         <mark key="." line="140" column="26" />
       </file>
+      <file name="/Python Console" timestamp="1479471257532">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/priv/cic/contact/views.py" timestamp="1477395576130">
         <mark key="'" line="8" column="28" />
         <mark key="[" line="16" column="17" />
@@ -324,6 +337,12 @@
         <mark key="]" line="22" column="29" />
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/templates/form.html" timestamp="1479471125660">
+        <mark key="[" line="3" column="60" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/stage.yml" timestamp="1478601617721">
         <mark key="[" line="8" column="0" />
@@ -369,12 +388,12 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" timestamp="1479399600536">
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" timestamp="1479472199181">
         <mark key="'" line="44" column="14" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="^" line="137" column="0" />
-        <mark key="." line="134" column="0" />
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="23" />
+        <mark key="^" line="45" column="23" />
+        <mark key="." line="45" column="23" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/locale/nn/LC_MESSAGES/django.po" timestamp="1477310339580">
         <mark key="'" line="1" column="0" />
@@ -496,7 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="15" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="283" column="32" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="288" column="58" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="290" column="61" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
@@ -596,13 +614,14 @@
       <jump line="91" column="4" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
       <jump line="127" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
       <jump line="44" column="14" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
+      <jump line="2" column="52" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pass</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>STATIC_ROOT</text>
@@ -611,31 +630,31 @@
         <text encoding="base64">CTxzY3JpcHQgc3JjPSIvc3RhdHMvIiBhc3luYz48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwb2xpY3kgPSBzZWxmLmNsZWFuZWRfZGF0YVsnYWNjZXB0ZWRfcG9saWN5J10KICAgICAgICBpZiBub3QgcG9saWN5OgogICAgICAgICAgICByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IoIk11c2lzeiB6YWFrY2VwdG93YcSHIHJlZ3VsYW1pbiBzZXJ3aXN1IikKICAgICAgICByZXR1cm4gcG9saWN5Cg==</text>
+        <text encoding="base64">e3sgZm9ybS5hc19wIH19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0YXRpY2ZpbGVzX3VybHBhdHRlcm5zKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgSGlkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJoZXJlIikK</text>
+        <text encoding="base64">Mk5BQW0rQ1dOcXV1U0l0YlZXTnB0YWphOEEzK053bU1DdGNjSFBlcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb2xpY3kgPSBzZWxmLmNsZWFuZWRfZGF0YVsnYWNjZXB0ZWRfcG9saWN5J10KICAgICAgICBpZiBub3QgcG9saWN5OgogICAgICAgICAgICByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IoIk11c2lzeiB6YWFrY2VwdG93YcSHIHJlZ3VsYW1pbiBzZXJ3aXN1IikKICAgICAgICByZXR1cm4gcG9saWN5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZyb20gZGphbmdvLmNvbmYudXJscy5zdGF0aWMgaW1wb3J0IHN0YXRpYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgc3RhdHVzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN0YXRpY2ZpbGVzX3VybHBhdHRlcm5zKCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJoZXJlIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTxzY3JpcHQgc3JjPSIvc3RhdHMvIiBhc3luYz0idHJ1ZSI+PHNjcmlwdC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
