@@ -94,11 +94,11 @@
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" timestamp="1479470800777">
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="26" />
-        <mark key="^" line="23" column="26" />
-        <mark key="." line="23" column="26" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" timestamp="1479474605228">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="56" />
+        <mark key="^" line="14" column="56" />
+        <mark key="." line="14" column="56" />
       </file>
       <file name="$USER_HOME$/projects/competition/lp/page_processors.py" timestamp="1476284456578">
         <mark key="'" line="8" column="98" />
@@ -168,11 +168,11 @@
         <mark key="." line="97" column="35" />
         <mark key="^" line="97" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" timestamp="1479472289487">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" timestamp="1479475353049">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="32" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/wagtail/lib/python3.5/site-packages/wagtailtinymce/rich_text.py" timestamp="1476703886352">
         <mark key="'" line="105" column="8" />
@@ -309,7 +309,7 @@
         <mark key="^" line="140" column="26" />
         <mark key="." line="140" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1479471257532">
+      <file name="/Python Console" timestamp="1479475234364">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/priv/cic/contact/views.py" timestamp="1477395576130">
@@ -388,8 +388,8 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" timestamp="1479472199181">
-        <mark key="'" line="44" column="14" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" timestamp="1479475367737">
+        <mark key="'" line="137" column="0" />
         <mark key="[" line="45" column="23" />
         <mark key="]" line="45" column="23" />
         <mark key="^" line="45" column="23" />
@@ -515,8 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="32" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="288" column="58" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="290" column="61" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="298" column="35" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="304" column="27" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
@@ -615,6 +613,8 @@
       <jump line="127" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
       <jump line="44" column="14" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
       <jump line="2" column="52" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/urls.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
