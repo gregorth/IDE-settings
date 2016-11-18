@@ -95,10 +95,10 @@
         <mark key="." line="25" column="10" />
       </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" timestamp="1479474605228">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="14" column="56" />
-        <mark key="^" line="14" column="56" />
-        <mark key="." line="14" column="56" />
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="16" column="56" />
+        <mark key="^" line="16" column="56" />
+        <mark key="." line="16" column="56" />
       </file>
       <file name="$USER_HOME$/projects/competition/lp/page_processors.py" timestamp="1476284456578">
         <mark key="'" line="8" column="98" />
@@ -148,12 +148,12 @@
         <mark key="]" line="205" column="8" />
         <mark key="." line="205" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/urls.py" timestamp="1479470736506">
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/urls.py" timestamp="1479476710023">
         <mark key="'" line="2" column="52" />
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="25" />
-        <mark key="^" line="24" column="25" />
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" timestamp="1478776935137">
         <mark key="[" line="35" column="0" />
@@ -388,12 +388,12 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" timestamp="1479475367737">
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" timestamp="1479476768110">
         <mark key="'" line="137" column="0" />
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="45" column="23" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
         <mark key="^" line="45" column="23" />
-        <mark key="." line="45" column="23" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/locale/nn/LC_MESSAGES/django.po" timestamp="1477310339580">
         <mark key="'" line="1" column="0" />
@@ -610,15 +610,15 @@
       <jump line="124" column="45" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/landings/superhire.co/requirements/base.txt" />
       <jump line="91" column="4" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
       <jump line="44" column="14" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
       <jump line="2" column="52" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/urls.py" />
       <jump line="46" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
+      <jump line="127" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
       <jump line="137" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>True</text>
@@ -630,31 +630,31 @@
         <text encoding="base64">CTxzY3JpcHQgc3JjPSIvc3RhdHMvIiBhc3luYz48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e3sgZm9ybS5hc19wIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">Pj4+Pj4+PiB1c2VkIEFtYXpvbiBTMyBmb3IgdXNlcidzIHVwbG9hZGVkIGNvbnRlbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgSGlkZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Mk5BQW0rQ1dOcXV1U0l0YlZXTnB0YWphOEEzK053bU1DdGNjSFBlcAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwb2xpY3kgPSBzZWxmLmNsZWFuZWRfZGF0YVsnYWNjZXB0ZWRfcG9saWN5J10KICAgICAgICBpZiBub3QgcG9saWN5OgogICAgICAgICAgICByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IoIk11c2lzeiB6YWFrY2VwdG93YcSHIHJlZ3VsYW1pbiBzZXJ3aXN1IikKICAgICAgICByZXR1cm4gcG9saWN5Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBhZGYxMDA1MDk0NzUyZDRiYjlhMWZjMDBhNGVmNmFlM2EzYTA4MTU5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBhZGYxMDA1MDk0NzUyZDRiYjlhMWZjMDBhNGVmNmFlM2EzYTA4MTU5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0YXRpY2ZpbGVzX3VybHBhdHRlcm5zKCkpCg==</text>
+        <text encoding="base64">PT09PT09PQpmcm9tIGpvYm9mZmVyLnZpZXdzIGltcG9ydCBsYW5kaW5nX3BhZ2UsIGZvcm0KPj4+Pj4+PiB1c2VkIEFtYXpvbiBTMyBmb3IgdXNlcidzIHVwbG9hZGVkIGNvbnRlbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJoZXJlIikK</text>
+        <text encoding="base64">e3sgZm9ybS5hc19wIH19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
