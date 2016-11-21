@@ -456,12 +456,12 @@
         <mark key="." line="68" column="15" />
         <mark key="^" line="68" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/tasks/main.yml" timestamp="1477496446346">
-        <mark key="'" line="88" column="130" />
-        <mark key="[" line="86" column="53" />
-        <mark key="]" line="87" column="11" />
-        <mark key="." line="87" column="11" />
-        <mark key="^" line="87" column="11" />
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/tasks/main.yml" timestamp="1479718572798">
+        <mark key="'" line="94" column="130" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="84" column="40" />
       </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/requirements/base.txt" timestamp="1479399273693">
         <mark key="'" line="0" column="0" />
@@ -638,10 +638,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>form</text>
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>form</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0X2NvbXBsZXRpb25cPg==</text>
@@ -729,10 +729,10 @@
         <entry>wj:w</entry>
         <entry>172</entry>
         <entry>wq</entry>
-        <entry>qa</entry>
         <entry>q</entry>
-        <entry>w</entry>
+        <entry>qa</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
