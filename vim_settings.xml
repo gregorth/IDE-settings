@@ -174,12 +174,12 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/templates/nginx.conf" timestamp="1479728730984">
-        <mark key="'" line="7" column="24" />
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="24" />
-        <mark key="." line="7" column="24" />
-        <mark key="^" line="7" column="24" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/templates/nginx.conf" timestamp="1479732550666">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="93" column="31" />
+        <mark key="]" line="93" column="31" />
+        <mark key="." line="93" column="31" />
+        <mark key="^" line="93" column="28" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/stage.yml" timestamp="1478601617721">
         <mark key="[" line="8" column="0" />
@@ -424,6 +424,12 @@
         <mark key="^" line="26" column="45" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/vars/vars.yml" timestamp="1479732862434">
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="58" />
+        <mark key="^" line="10" column="58" />
+        <mark key="." line="10" column="58" />
+      </file>
       <file name="$USER_HOME$/projects/landings/wolf-academy/home/emails.py" timestamp="1477482080329">
         <mark key="'" line="13" column="107" />
         <mark key="[" line="16" column="77" />
@@ -606,7 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/__init__.py" />
       <jump line="164" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="132" column="34" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" />
       <jump line="60" column="8" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
@@ -706,13 +711,14 @@
       <jump line="148" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" />
       <jump line="17" column="11" filename="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/tasks/main.yml" />
       <jump line="7" column="24" filename="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/templates/nginx.conf" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/templates/nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>base</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>base</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>MIDDLEWARE</text>
