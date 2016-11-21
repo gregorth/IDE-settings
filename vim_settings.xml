@@ -10,9 +10,6 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="8" column="8" />
       </file>
-      <file name="/a.dummy" timestamp="1479720856670">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/victor_cms/victor_cms/settings/base.py" timestamp="1476708485787">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -47,12 +44,11 @@
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" timestamp="1479736372918">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="45" />
-        <mark key="]" line="18" column="45" />
-        <mark key="^" line="18" column="45" />
-        <mark key="." line="18" column="45" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" timestamp="1479753768954">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/projects/competition/lp/page_processors.py" timestamp="1476284456578">
         <mark key="'" line="8" column="98" />
@@ -148,9 +144,6 @@
         <mark key="]" line="158" column="66" />
         <mark key="^" line="158" column="39" />
         <mark key="." line="158" column="66" />
-      </file>
-      <file name="/Python Console" timestamp="1479479316884">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/home/email.py" timestamp="1477649589149">
         <mark key="[" line="17" column="73" />
@@ -285,7 +278,7 @@
         <mark key="^" line="28" column="59" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/devel.py" timestamp="1479736301895">
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/devel.py" timestamp="1479752561207">
         <mark key="[" line="44" column="38" />
         <mark key="]" line="44" column="10" />
         <mark key="." line="44" column="10" />
@@ -297,12 +290,12 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" timestamp="1479736298512">
-        <mark key="'" line="148" column="0" />
-        <mark key="[" line="72" column="18" />
-        <mark key="]" line="72" column="18" />
-        <mark key="." line="72" column="18" />
-        <mark key="^" line="72" column="27" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" timestamp="1479753758932">
+        <mark key="'" line="153" column="35" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+        <mark key="^" line="150" column="37" />
       </file>
       <file name="$USER_HOME$/projects/airskl_backend/lib/tools.py" timestamp="1478609566365">
         <mark key="'" line="4" column="20" />
@@ -385,11 +378,11 @@
         <mark key="." line="97" column="35" />
         <mark key="^" line="97" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" timestamp="1479737101816">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="3" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="25" column="3" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" timestamp="1479753865743">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="21" />
+        <mark key="^" line="32" column="21" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/wagtail/lib/python3.5/site-packages/wagtailtinymce/rich_text.py" timestamp="1476703886352">
         <mark key="'" line="105" column="8" />
@@ -397,6 +390,10 @@
         <mark key="]" line="54" column="167" />
         <mark key="." line="54" column="167" />
         <mark key="^" line="54" column="167" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/superhire.co/lib/python3.5/site-packages/django/forms/fields.py" timestamp="1479752844147">
+        <mark key="[" line="62" column="23" />
+        <mark key="]" line="62" column="35" />
       </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/tools.py" timestamp="1479477913074">
         <mark key="'" line="19" column="52" />
@@ -445,12 +442,12 @@
         <mark key="." line="0" column="65" />
         <mark key="^" line="0" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/templates/page-parts/footer.html" timestamp="1479736407535">
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/templates/page-parts/footer.html" timestamp="1479752612862">
         <mark key="'" line="34" column="36" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="40" column="57" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="39" column="57" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/settings.py" timestamp="1476743381394">
         <mark key="'" line="101" column="4" />
@@ -600,13 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="34" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" />
-      <jump line="60" column="8" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
-      <jump line="20" column="5" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
-      <jump line="48" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/forms/fields.py" />
-      <jump line="49" column="13" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/forms/fields.py" />
-      <jump line="107" column="11" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/forms/fields.py" />
-      <jump line="106" column="8" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/forms/fields.py" />
       <jump line="834" column="39" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/forms/fields.py" />
       <jump line="841" column="25" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/forms/fields.py" />
       <jump line="842" column="24" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/forms/fields.py" />
@@ -700,46 +690,53 @@
       <jump line="7" column="24" filename="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/templates/nginx.conf" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/templates/nginx.conf" />
       <jump line="34" column="36" filename="$USER_HOME$/projects/landings/superhire.co/superhire/templates/page-parts/footer.html" />
+      <jump line="45" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/devel.py" />
+      <jump line="18" column="45" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
+      <jump line="72" column="18" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
+      <jump line="152" column="35" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>TODO: send email by SendGrid to Michał Gregier</text>
       </register>
       <register name="/" type="4">
         <text>MIDDLEWARE</text>
       </register>
       <register name="0" type="4">
-        <text>widget=forms.TextInput(attrs={'class': &quot;form-control wow swing&quot;})</text>
+        <text>required=True</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZGVmIF9faW5pdF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAjICAgICBzdXBlcihDb250YWN0Rm9ybSwgc2VsZikuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQogICAgIyAgICAgc2VsZi5maWVsZHNbJ2VtYWlsJ10uaGVscF90ZXh0ID0gIkFkcmVzIGVtYWlsIgogICAgIyAgICAgc2VsZi5maWVsZHNbJ2VtYWlsJ10ubGFiZWwgPSAiQWRyZXMgZW1haWwiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIHdvdyBzd2luZyIgaWQ9Im5hbWUiIG5hbWU9Im5hbWUiIHBsYWNlaG9sZGVyPSJJbWnEmSBpIG5hendpc2tvIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIHdvdyBzd2luZyIgaWQ9ImVtYWlsIiBuYW1lPSJlbWFpbCIgcGxhY2Vob2xkZXI9IkFkcmVzIGVtYWlsIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIHdvdyBzd2luZyIgaWQ9InBob25lIiBuYW1lPSJwaG9uZSIgcGxhY2Vob2xkZXI9IlRlbGVmb24iPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgI2hhY2sgdXNlZCBzbXRwIGFjY291bnQgZnJvbSBtb3Rpd2luZ3MK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBuYW1lOiBydW4gY29tcGlsZSBtZXNzYWdlcwogIGJlY29tZV91c2VyOiAie3sgd2ViX3VzZXIgfX0iCiAgdGFnczogdHJhbnMKICBkamFuZ29fbWFuYWdlOiBhcHBfcGF0aD17eyB3ZWJfYmFzZV9kaXIgfX0gdmlydHVhbGVudj17eyBob21lX2RpciB9fS92ZW52IGNvbW1hbmQ9Y29tcGlsZW1lc3NhZ2VzCg==</text>
+        <text encoding="base64">ICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdQT1NUJzoKICAgICAgICBmb3JtID0gQ29udGFjdEZvcm0ocmVxdWVzdC5QT1NUKQogICAgICAgIGlmIGZvcm0uaXNfdmFsaWQoKToKICAgICAgICAgICAgI1RPRE86IHNlbmQgZW1haWwgYnkgU2VuZEdyaWQgdG8gTWljaGHFgiBHcmVnaWVyCiAgICAgICAgICAgIHJldHVybiByZWRpcmVjdCgnLycpCiAgICBlbHNlOgogICAgICAgIGZvcm0gPSBDb250YWN0Rm9ybSgpCiAgICBjdHggPSB7CiAgICAgICAgJ2Zvcm0nOiBmb3JtCiAgICB9CiAgICByZXR1cm4gcmVuZGVyKHJlcXVlc3QsICdwYWdlcy9ob21lLmh0bWwnLCBjdHgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGNvbnRhY3RfZm9ybShyZXF1ZXN0KToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHRyYWNraW5nX2Nvb2tpZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHRyYWNraW5nX2Nvb2tpZSgpCmRlZiBjb250YWN0X2Zvcm0ocmVxdWVzdCk6CiAgICBpZiByZXF1ZXN0Lm1ldGhvZCA9PSAnUE9TVCc6CiAgICAgICAgZm9ybSA9IENvbnRhY3RGb3JtKHJlcXVlc3QuUE9TVCkKICAgICAgICBpZiBmb3JtLmlzX3ZhbGlkKCk6CiAgICAgICAgICAgICNUT0RPOiBzZW5kIGVtYWlsIGJ5IFNlbmRHcmlkIHRvIE1pY2hhxYIgR3JlZ2llcgogICAgICAgICAgICByZXR1cm4gcmVkaXJlY3QoJy8nKQogICAgZWxzZToKICAgICAgICBmb3JtID0gQ29udGFjdEZvcm0oKQogICAgY3R4ID0gewogICAgICAgICdmb3JtJzogZm9ybQogICAgfQogICAgcmV0dXJuIHJlbmRlcihyZXF1ZXN0LCAncGFnZXMvaG9tZS5odG1sJywgY3R4KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -794,9 +791,9 @@
         <entry>172</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>:w</entry>
         <entry>qa</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -850,6 +847,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
