@@ -325,6 +325,12 @@
       <file name="/Python Console" timestamp="1479479316884">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/application/tasks/main.yml" timestamp="1479719622205">
+        <mark key="[" line="76" column="40" />
+        <mark key="]" line="77" column="1" />
+        <mark key="." line="77" column="1" />
+        <mark key="^" line="77" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/priv/cic/contact/views.py" timestamp="1477395576130">
         <mark key="'" line="8" column="28" />
         <mark key="[" line="16" column="17" />
@@ -438,6 +444,11 @@
         <mark key="]" line="2" column="45" />
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/tasks/main.yml" timestamp="1479719581752">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" timestamp="1477648737232">
         <mark key="'" line="48" column="0" />
@@ -650,31 +661,31 @@
         <text encoding="base64">QHRyYWNraW5nX2Nvb2tpZSgpCmRlZiBmb3JtKHJlcXVlc3QpOgogICAgaWYgcmVxdWVzdC5tZXRob2QgPT0gJ1BPU1QnOgogICAgICAgIGZvcm0gPSBKb2JSZXF1ZXN0Rm9ybShyZXF1ZXN0LlBPU1QsIHJlcXVlc3QuRklMRVMpCiAgICAgICAgaWYgZm9ybS5pc192YWxpZCgpOgogICAgICAgICAgIGZvcm0uc2F2ZSgpCiAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCcvdGh4LXBhZ2UvJykKICAgIGVsc2U6IAogICAgICAgIGZvcm0gPSBKb2JSZXF1ZXN0Rm9ybSgpCiAgICBjdHggPSB7CiAgICAgICAnZm9ybSc6IGZvcm0KICAgIH0KICAgIHJldHVybiByZW5kZXIocmVxdWVzdCwgJ2Zvcm0uaHRtbCcsIGN0eCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybS5zYXZlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImF0dHJpYnV0ZSBkZXRlY3RlZCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBuYW1lOiBlbmFibGUgc3VwZXJ2aXNvcgogIHNlcnZpY2U6IG5hbWU9c3VwZXJ2aXNvciBlbmFibGVkPXllcwoKLSBuYW1lOiBzdGFydCBzdXBlcnZpc29yCiAgc2VydmljZTogbmFtZT1zdXBlcnZpc29yIHN0YXRlPXN0YXJ0ZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9ybS5zYXZlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImF0dHJpYnV0ZSBkZXRlY3RlZCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiB1c2VkIEFtYXpvbiBTMyBmb3IgdXNlcidzIHVwbG9hZGVkIGNvbnRlbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -730,8 +741,8 @@
         <entry>172</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>qa</entry>
         <entry>W</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
