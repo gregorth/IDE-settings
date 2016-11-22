@@ -542,10 +542,10 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/unlock_app-web/README.md" timestamp="1479829967343">
-        <mark key="[" line="79" column="2" />
-        <mark key="]" line="79" column="2" />
-        <mark key="." line="79" column="2" />
+      <file name="$USER_HOME$/projects/unlock_app-web/README.md" timestamp="1479832800495">
+        <mark key="[" line="69" column="13" />
+        <mark key="]" line="69" column="13" />
+        <mark key="." line="69" column="13" />
         <mark key="^" line="79" column="2" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" timestamp="1477648737232">
@@ -694,10 +694,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>http_user_agent</text>
