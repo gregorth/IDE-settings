@@ -10,39 +10,6 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/landings/wolf-academy/wolfacademy/settings/production.py" timestamp="1477055005551">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/views.py" timestamp="1476748414682">
-        <mark key="'" line="8" column="4" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="59" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/devel.py" timestamp="1479752561207">
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="10" />
-        <mark key="." line="44" column="10" />
-        <mark key="^" line="44" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/supervisor.conf" timestamp="1477496346929">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="3" column="24" />
-        <mark key="^" line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" timestamp="1479806371032">
-        <mark key="'" line="153" column="35" />
-        <mark key="[" line="35" column="12" />
-        <mark key="]" line="35" column="22" />
-        <mark key="." line="35" column="22" />
-        <mark key="^" line="35" column="22" />
-      </file>
       <file name="$USER_HOME$/projects/victor_cms/victor_cms/settings/base.py" timestamp="1476708485787">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -50,37 +17,12 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/application/templates/env.stage" timestamp="1477663140341">
-        <mark key="'" line="15" column="7" />
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="26" column="9" />
-        <mark key="^" line="26" column="9" />
-        <mark key="." line="26" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/competition/locale/id/LC_MESSAGES/django.po" timestamp="1478516805691">
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="22" />
-        <mark key="." line="30" column="22" />
-        <mark key="^" line="30" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/ssl.conf" timestamp="1477486357989">
-        <mark key="[" line="1" column="42" />
-        <mark key="]" line="1" column="55" />
-        <mark key="." line="1" column="55" />
-        <mark key="^" line="1" column="55" />
-      </file>
       <file name="$USER_HOME$/projekty/tmp/nba_py/examples/example_player.py" timestamp="1476741327747">
         <mark key="'" line="23" column="40" />
         <mark key="[" line="15" column="19" />
         <mark key="]" line="15" column="33" />
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/competition/locale/en/LC_MESSAGES/django.po" timestamp="1478524804396">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="12" />
-        <mark key="^" line="25" column="12" />
-        <mark key="." line="25" column="12" />
       </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/manage.py" timestamp="1479723399791">
         <mark key="[" line="5" column="53" />
@@ -115,6 +57,274 @@
         <mark key="^" line="8" column="138" />
         <mark key="." line="8" column="98" />
       </file>
+      <file name="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" timestamp="1477395722466">
+        <mark key="'" line="41" column="14" />
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="41" column="83" />
+        <mark key="^" line="41" column="83" />
+        <mark key="." line="41" column="83" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/urls.py" timestamp="1479476710023">
+        <mark key="'" line="2" column="52" />
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" timestamp="1476748166823">
+        <mark key="'" line="41" column="39" />
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="20" />
+        <mark key="^" line="62" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/priv/cic/contact/serializers.py" timestamp="1477395527915">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="59" />
+        <mark key="." line="9" column="59" />
+        <mark key="^" line="9" column="59" />
+      </file>
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/models.py" timestamp="1476748062985">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="55" column="40" />
+        <mark key="^" line="70" column="91" />
+        <mark key="." line="70" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" timestamp="1478526343023">
+        <mark key="'" line="133" column="34" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="24" column="31" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1478526043570">
+        <mark key="'" line="171" column="11" />
+        <mark key="[" line="167" column="57" />
+        <mark key="]" line="168" column="79" />
+        <mark key="^" line="168" column="79" />
+        <mark key="." line="168" column="79" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/wolf-academy/deploy/roles/application/tasks/main.yml" timestamp="1477055790010">
+        <mark key="'" line="45" column="46" />
+        <mark key="[" line="59" column="12" />
+        <mark key="]" line="59" column="15" />
+        <mark key="." line="59" column="15" />
+        <mark key="^" line="59" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/models.py" timestamp="1479824574476">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="13" column="71" />
+        <mark key="]" line="13" column="72" />
+        <mark key="." line="13" column="72" />
+        <mark key="^" line="13" column="81" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" timestamp="1477555926413">
+        <mark key="'" line="91" column="25" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="117" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/priv/cic/cic/urls.py" timestamp="1477393142281">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="25" />
+        <mark key="." line="24" column="25" />
+        <mark key="^" line="24" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/home/tools.py" timestamp="1477653433246">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="35" column="21" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="2" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/home/templates/blocks/horizontal/form.html" timestamp="1478526371336">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="158" column="66" />
+        <mark key="]" line="158" column="66" />
+        <mark key="^" line="158" column="39" />
+        <mark key="." line="158" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/home/email.py" timestamp="1477649589149">
+        <mark key="[" line="17" column="73" />
+        <mark key="]" line="17" column="81" />
+        <mark key="^" line="17" column="81" />
+        <mark key="." line="17" column="81" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/templates/form.html" timestamp="1479471125660">
+        <mark key="[" line="3" column="60" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/templates/nginx.conf" timestamp="1479732550666">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="93" column="31" />
+        <mark key="]" line="93" column="31" />
+        <mark key="." line="93" column="31" />
+        <mark key="^" line="93" column="28" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/forms/fields.py" timestamp="1478523592216">
+        <mark key="'" line="912" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" timestamp="1477647774709">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/.gitignore" timestamp="1478524740197">
+        <mark key="'" line="27" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/urls.py" timestamp="1479725048216">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="14" />
+        <mark key="^" line="19" column="14" />
+        <mark key="." line="19" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/locale/hi/LC_MESSAGES/django.po" timestamp="1478524760404">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="10" />
+        <mark key="." line="25" column="10" />
+        <mark key="^" line="25" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/host_vars/devel" timestamp="1479728760448">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" timestamp="1479478667129">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="57" column="43" />
+        <mark key="]" line="57" column="43" />
+        <mark key="^" line="57" column="43" />
+        <mark key="." line="57" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/db/tasks/main.yml" timestamp="1478531666345">
+        <mark key="'" line="21" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/wsgi.py" timestamp="1479725358077">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="58" />
+        <mark key="." line="13" column="58" />
+        <mark key="^" line="13" column="58" />
+      </file>
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/tools.py" timestamp="1476735454926">
+        <mark key="'" line="9" column="24" />
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/application/tasks/main.yml" timestamp="1477914633911">
+        <mark key="'" line="68" column="2" />
+        <mark key="[" line="68" column="15" />
+        <mark key="]" line="68" column="15" />
+        <mark key="." line="68" column="15" />
+        <mark key="^" line="68" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/tasks/main.yml" timestamp="1479718572798">
+        <mark key="'" line="94" column="130" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="84" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/priv/cic/contact/models.py" timestamp="1477390213650">
+        <mark key="'" line="24" column="21" />
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/home/myscipy.py" timestamp="1478516440133">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/contrib/sessions/backends/base.py" timestamp="1478265862303">
+        <mark key="'" line="179" column="30" />
+      </file>
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/management/commands/import_data.py" timestamp="1476742436411">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="26" column="55" />
+        <mark key="]" line="27" column="15" />
+        <mark key="^" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/wolf-academy/wolfacademy/settings/production.py" timestamp="1477055005551">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/python_http_client/client.py" timestamp="1477648374128">
+        <mark key="'" line="56" column="61" />
+      </file>
+      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/views.py" timestamp="1476748414682">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="59" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/devel.py" timestamp="1479752561207">
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="44" column="10" />
+        <mark key="." line="44" column="10" />
+        <mark key="^" line="44" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/application/tasks/main.yml" timestamp="1479824817381">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/supervisor.conf" timestamp="1477496346929">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" timestamp="1479806371032">
+        <mark key="'" line="153" column="35" />
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="22" />
+        <mark key="^" line="35" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/airskl_backend/lib/tools.py" timestamp="1478609566365">
+        <mark key="'" line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/application/templates/env.stage" timestamp="1477663140341">
+        <mark key="'" line="15" column="7" />
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="9" />
+        <mark key="^" line="26" column="9" />
+        <mark key="." line="26" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/locale/id/LC_MESSAGES/django.po" timestamp="1478516805691">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="22" />
+        <mark key="." line="30" column="22" />
+        <mark key="^" line="30" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/ssl.conf" timestamp="1477486357989">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="55" />
+        <mark key="." line="1" column="55" />
+        <mark key="^" line="1" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/competition/locale/en/LC_MESSAGES/django.po" timestamp="1478524804396">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/landings/competition/core/middleware.py" timestamp="1478600835102">
         <mark key="'" line="20" column="8" />
         <mark key="[" line="23" column="51" />
@@ -135,13 +345,6 @@
         <mark key="^" line="29" column="31" />
         <mark key="." line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/priv/cic/contact/management/commands/import_data.py" timestamp="1477395722466">
-        <mark key="'" line="41" column="14" />
-        <mark key="[" line="41" column="18" />
-        <mark key="]" line="41" column="83" />
-        <mark key="^" line="41" column="83" />
-        <mark key="." line="41" column="83" />
-      </file>
       <file name="$USER_HOME$/projects/victor_cms/lp/editor.py" timestamp="1476704025349">
         <mark key="'" line="24" column="4" />
         <mark key="[" line="21" column="68" />
@@ -155,13 +358,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="5" column="27" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/urls.py" timestamp="1479476710023">
-        <mark key="'" line="2" column="52" />
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" timestamp="1478776935137">
         <mark key="[" line="35" column="0" />
@@ -190,37 +386,9 @@
         <mark key="." line="54" column="167" />
         <mark key="^" line="54" column="167" />
       </file>
-      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/serializers.py" timestamp="1476748166823">
-        <mark key="'" line="41" column="39" />
-        <mark key="[" line="63" column="20" />
-        <mark key="]" line="63" column="20" />
-        <mark key="." line="63" column="20" />
-        <mark key="^" line="62" column="23" />
-      </file>
-      <file name="$USER_HOME$/projects/priv/cic/contact/serializers.py" timestamp="1477395527915">
-        <mark key="'" line="4" column="6" />
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="59" />
-        <mark key="." line="9" column="59" />
-        <mark key="^" line="9" column="59" />
-      </file>
       <file name="$USER_HOME$/.virtualenvs/superhire.co/lib/python3.5/site-packages/django/forms/fields.py" timestamp="1479752844147">
         <mark key="[" line="62" column="23" />
         <mark key="]" line="62" column="35" />
-      </file>
-      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/models.py" timestamp="1476748062985">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="55" column="40" />
-        <mark key="^" line="70" column="91" />
-        <mark key="." line="70" column="49" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" timestamp="1478526343023">
-        <mark key="'" line="133" column="34" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="24" column="31" />
-        <mark key="^" line="21" column="44" />
-        <mark key="." line="21" column="44" />
       </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/tools.py" timestamp="1479804748565">
         <mark key="'" line="19" column="52" />
@@ -256,27 +424,6 @@
         <mark key="^" line="53" column="43" />
         <mark key="." line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/competition/settings/base.py" timestamp="1478526043570">
-        <mark key="'" line="171" column="11" />
-        <mark key="[" line="167" column="57" />
-        <mark key="]" line="168" column="79" />
-        <mark key="^" line="168" column="79" />
-        <mark key="." line="168" column="79" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/wolf-academy/deploy/roles/application/tasks/main.yml" timestamp="1477055790010">
-        <mark key="'" line="45" column="46" />
-        <mark key="[" line="59" column="12" />
-        <mark key="]" line="59" column="15" />
-        <mark key="." line="59" column="15" />
-        <mark key="^" line="59" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/models.py" timestamp="1479824574476">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="13" column="71" />
-        <mark key="]" line="13" column="72" />
-        <mark key="." line="13" column="72" />
-        <mark key="^" line="13" column="81" />
-      </file>
       <file name="$USER_HOME$/projects/landings/competition/competition/settings/.env" timestamp="1477493753810">
         <mark key="'" line="18" column="27" />
         <mark key="[" line="18" column="16" />
@@ -284,37 +431,16 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/stats/management/commands/logsmon.py" timestamp="1477555926413">
-        <mark key="'" line="91" column="25" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="117" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/priv/cic/cic/urls.py" timestamp="1477393142281">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="25" />
-        <mark key="^" line="24" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/tools.py" timestamp="1477653433246">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="35" column="21" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="2" column="42" />
+      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/system/tasks/main.yml" timestamp="1479824823106">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/hosts" timestamp="1477469024251">
         <mark key="[" line="0" column="62" />
         <mark key="]" line="0" column="65" />
         <mark key="." line="0" column="65" />
         <mark key="^" line="0" column="65" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/templates/blocks/horizontal/form.html" timestamp="1478526371336">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="158" column="66" />
-        <mark key="]" line="158" column="66" />
-        <mark key="^" line="158" column="39" />
-        <mark key="." line="158" column="66" />
       </file>
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/settings.py" timestamp="1476743381394">
         <mark key="'" line="101" column="4" />
@@ -336,12 +462,6 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/email.py" timestamp="1477649589149">
-        <mark key="[" line="17" column="73" />
-        <mark key="]" line="17" column="81" />
-        <mark key="^" line="17" column="81" />
-        <mark key="." line="17" column="81" />
-      </file>
       <file name="$USER_HOME$/projects/competition/lp/models.py" timestamp="1476285036790">
         <mark key="'" line="29" column="19" />
         <mark key="[" line="9" column="9" />
@@ -356,30 +476,20 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/db/templates/postgresql.conf" timestamp="1479824956457">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/landings/competition/locale/fr/LC_MESSAGES/django.po" timestamp="1478526105608">
         <mark key="[" line="22" column="24" />
         <mark key="]" line="22" column="29" />
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/templates/form.html" timestamp="1479471125660">
-        <mark key="[" line="3" column="60" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-      </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/application/templates/wsgi.py" timestamp="1479729148169">
         <mark key="[" line="13" column="73" />
         <mark key="]" line="13" column="91" />
         <mark key="." line="13" column="91" />
         <mark key="^" line="13" column="91" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/templates/nginx.conf" timestamp="1479732550666">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="93" column="31" />
-        <mark key="]" line="93" column="31" />
-        <mark key="." line="93" column="31" />
-        <mark key="^" line="93" column="28" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/home/middleware.py" timestamp="1478600828742">
         <mark key="[" line="19" column="17" />
@@ -394,19 +504,6 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" timestamp="1477647774709">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="21" column="33" />
-        <mark key="^" line="21" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/urls.py" timestamp="1479725048216">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="19" column="14" />
-        <mark key="^" line="19" column="14" />
-        <mark key="." line="19" column="14" />
-      </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/stats/models.py" timestamp="1479803818551">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="92" />
@@ -418,25 +515,6 @@
         <mark key="^" line="102" column="7" />
         <mark key="." line="102" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/locale/hi/LC_MESSAGES/django.po" timestamp="1478524760404">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="10" />
-        <mark key="." line="25" column="10" />
-        <mark key="^" line="25" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/host_vars/devel" timestamp="1479728760448">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" timestamp="1479478667129">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="57" column="43" />
-        <mark key="]" line="57" column="43" />
-        <mark key="^" line="57" column="43" />
-        <mark key="." line="57" column="43" />
-      </file>
       <file name="$USER_HOME$/projects/landings/competition/locale/nn/LC_MESSAGES/django.po" timestamp="1477310339580">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="22" column="8" />
@@ -444,25 +522,12 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/wsgi.py" timestamp="1479725358077">
-        <mark key="[" line="13" column="49" />
-        <mark key="]" line="13" column="58" />
-        <mark key="." line="13" column="58" />
-        <mark key="^" line="13" column="58" />
-      </file>
       <file name="$USER_HOME$/projects/landings/competition/home/models.py" timestamp="1479120696413">
         <mark key="'" line="289" column="0" />
         <mark key="[" line="287" column="50" />
         <mark key="]" line="288" column="32" />
         <mark key="." line="288" column="32" />
         <mark key="^" line="288" column="32" />
-      </file>
-      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/tools.py" timestamp="1476735454926">
-        <mark key="'" line="9" column="24" />
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="45" />
-        <mark key="^" line="2" column="45" />
-        <mark key="." line="2" column="45" />
       </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/tasks/main.yml" timestamp="1479728514575">
         <mark key="'" line="17" column="11" />
@@ -478,26 +543,11 @@
         <mark key="." line="82" column="54" />
         <mark key="^" line="82" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/application/tasks/main.yml" timestamp="1477914633911">
-        <mark key="'" line="68" column="2" />
-        <mark key="[" line="68" column="15" />
-        <mark key="]" line="68" column="15" />
-        <mark key="." line="68" column="15" />
-        <mark key="^" line="68" column="15" />
+      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/db/templates/postgresql.conf" timestamp="1478526541225">
+        <mark key="'" line="613" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/tasks/main.yml" timestamp="1479718572798">
-        <mark key="'" line="94" column="130" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="84" column="40" />
-      </file>
-      <file name="$USER_HOME$/projects/priv/cic/contact/models.py" timestamp="1477390213650">
-        <mark key="'" line="24" column="21" />
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="36" />
-        <mark key="." line="6" column="36" />
-        <mark key="^" line="6" column="36" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/requirements/base.txt" timestamp="1479721632050">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/application/templates/manage.py" timestamp="1479723161191">
         <mark key="[" line="5" column="80" />
@@ -512,24 +562,14 @@
         <mark key="." line="25" column="24" />
         <mark key="^" line="25" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/landings/competition/home/myscipy.py" timestamp="1478516440133">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/.virtualenvs/unlock/lib/python3.5/site-packages/rest_framework/status.py" timestamp="1479200407597">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/home/migrations/0030_auto_20161027_1207.py" timestamp="1477570532201">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="40" />
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="40" />
-      </file>
-      <file name="$USER_HOME$/projekty/recruitment/NBA_browser/endpoints/management/commands/import_data.py" timestamp="1476742436411">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="26" column="55" />
-        <mark key="]" line="27" column="15" />
-        <mark key="^" line="27" column="15" />
-        <mark key="." line="27" column="15" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/competition/urls.py" timestamp="1478270200918">
         <mark key="[" line="26" column="4" />
@@ -539,8 +579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="912" column="24" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/forms/fields.py" />
-      <jump line="287" column="0" filename="$USER_HOME$/projects/landings/competition/home/models.py" />
       <jump line="66" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="185" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
       <jump line="193" column="0" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
@@ -639,10 +677,12 @@
       <jump line="3" column="6" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/models.py" />
       <jump line="14" column="4" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/models.py" />
       <jump line="39" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/projects/unlock_app-web/deploy/roles/db/templates/postgresql.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/unlock_app-web/deploy/roles/db/templates/postgresql.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>10.105.59.165</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>10.105.59.165</text>
@@ -654,34 +694,34 @@
         <text encoding="base64">aHR0cF91c2VyX2FnZW50IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJJUCIsIHJlcXVlc3QuTUVUQS5nZXQoJ0hUVFBfVVNFUl9BR0VOVCcpKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJJUCIsIHJlcXVlc3QuTUVUQS5nZXQoJ1JFTU9URV9BRERSJykpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiREFUQSIsIGRhdGEpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQ0QiLCBjbGVhbmVkX2RhdGEpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IHt9CiAgICAgICAgICAgIGRhdGEudXBkYXRlKHsKICAgICAgICAgICAgICAgICdodHRwX3VzZXJfYWdlbnQnOiByZXF1ZXN0Lk1FVEEuZ2V0KCdIVFRQX1VTRVJfQUdFTlQnKSwKICAgICAgICAgICAgICAgICdyZW1vdGVfYWRkcic6IHJlcXVlc3QuTUVUQS5nZXQoJ1JFTU9URV9BRERSJykKICAgICAgICAgICAgfSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJJUCIsIHJlcXVlc3QuTUVUQSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">LSBuYW1lOiBlbmFibGUgc3VwZXJ2aXNvcgogIHNlcnZpY2U6IG5hbWU9c3VwZXJ2aXNvciBlbmFibGVkPXllcwoKLSBuYW1lOiBzdGFydCBzdXBlcnZpc29yCiAgc2VydmljZTogbmFtZT1zdXBlcnZpc29yIHN0YXRlPXN0YXJ0ZWQKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJJUCIsIHJlcXVlc3QuTUVUQS5nZXQoJ0hUVFBfVVNFUl9BR0VOVCcpKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJJUCIsIHJlcXVlc3QuTUVUQS5nZXQoJ1JFTU9URV9BRERSJykpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiREFUQSIsIGRhdGEpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiQ0QiLCBjbGVhbmVkX2RhdGEpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IHt9CiAgICAgICAgICAgIGRhdGEudXBkYXRlKHsKICAgICAgICAgICAgICAgICdodHRwX3VzZXJfYWdlbnQnOiByZXF1ZXN0Lk1FVEEuZ2V0KCdIVFRQX1VTRVJfQUdFTlQnKSwKICAgICAgICAgICAgICAgICdyZW1vdGVfYWRkcic6IHJlcXVlc3QuTUVUQS5nZXQoJ1JFTU9URV9BRERSJykKICAgICAgICAgICAgfSkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">ICAgIHByaW50KCJJUCIsIHJlcXVlc3QuTUVUQSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Oldhcm5pbmdkZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -734,9 +774,9 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>:w</entry>
-        <entry>w</entry>
-        <entry>W</entry>
         <entry>qa</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
