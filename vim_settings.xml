@@ -270,12 +270,12 @@
         <mark key="." line="59" column="15" />
         <mark key="^" line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/models.py" timestamp="1479805484543">
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/models.py" timestamp="1479824574476">
         <mark key="'" line="14" column="4" />
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="13" column="71" />
-        <mark key="^" line="13" column="93" />
+        <mark key="[" line="13" column="71" />
+        <mark key="]" line="13" column="72" />
+        <mark key="." line="13" column="72" />
+        <mark key="^" line="13" column="81" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/competition/settings/.env" timestamp="1477493753810">
         <mark key="'" line="18" column="27" />
@@ -681,7 +681,7 @@
         <text encoding="base64">Oldhcm5pbmdkZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -734,9 +734,9 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>:w</entry>
+        <entry>w</entry>
         <entry>W</entry>
         <entry>qa</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
