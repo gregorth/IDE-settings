@@ -51,18 +51,13 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/forms/fields.py" timestamp="1478523592216">
-        <mark key="'" line="912" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/competition/.gitignore" timestamp="1478524740197">
-        <mark key="'" line="27" column="5" />
-      </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/urls.py" timestamp="1479725048216">
         <mark key="[" line="19" column="5" />
         <mark key="]" line="19" column="14" />
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/prod.py" timestamp="1479916876822" />
       <file name="$USER_HOME$/projects/landings/competition/locale/hi/LC_MESSAGES/django.po" timestamp="1478524760404">
         <mark key="[" line="25" column="8" />
         <mark key="]" line="25" column="10" />
@@ -74,9 +69,6 @@
         <mark key="]" line="13" column="13" />
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/db/tasks/main.yml" timestamp="1478531666345">
-        <mark key="'" line="21" column="9" />
       </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/wsgi.py" timestamp="1479725358077">
         <mark key="[" line="13" column="49" />
@@ -96,25 +88,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/contrib/sessions/backends/base.py" timestamp="1478265862303">
-        <mark key="'" line="179" column="30" />
-      </file>
       <file name="$USER_HOME$/projects/unlock_app-web/unlock/phrases/admin.py" timestamp="1479904487781">
         <mark key="[" line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/python_http_client/client.py" timestamp="1477648374128">
-        <mark key="'" line="56" column="61" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/devel.py" timestamp="1479752561207">
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="10" />
-        <mark key="." line="44" column="10" />
-        <mark key="^" line="44" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/application/tasks/main.yml" timestamp="1479824817381">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/devel.py" timestamp="1479917617821">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="36" column="26" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/supervisor.conf" timestamp="1477496346929">
         <mark key="[" line="3" column="10" />
@@ -122,15 +101,12 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" timestamp="1479908381446">
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" timestamp="1479917631563">
         <mark key="'" line="145" column="40" />
-        <mark key="[" line="149" column="28" />
-        <mark key="]" line="150" column="43" />
-        <mark key="." line="150" column="43" />
-        <mark key="^" line="150" column="43" />
-      </file>
-      <file name="$USER_HOME$/projects/airskl_backend/lib/tools.py" timestamp="1478609566365">
-        <mark key="'" line="4" column="20" />
+        <mark key="[" line="148" column="39" />
+        <mark key="]" line="148" column="46" />
+        <mark key="." line="148" column="46" />
+        <mark key="^" line="148" column="46" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/locale/id/LC_MESSAGES/django.po" timestamp="1478516805691">
         <mark key="[" line="30" column="8" />
@@ -150,6 +126,12 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/application/templates/env.prod" timestamp="1479916959951">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="116" />
+        <mark key="." line="9" column="116" />
+        <mark key="^" line="9" column="116" />
+      </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/application/templates/env.devel" timestamp="1479721461794">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="32" />
@@ -161,10 +143,6 @@
         <mark key="]" line="35" column="41" />
         <mark key="." line="35" column="40" />
         <mark key="^" line="35" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" timestamp="1479805533126">
-        <mark key="'" line="8" column="88" />
-        <mark key="^" line="8" column="87" />
       </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/tools.py" timestamp="1479804748565">
         <mark key="'" line="19" column="52" />
@@ -179,25 +157,23 @@
         <mark key="^" line="10" column="58" />
         <mark key="." line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/system/tasks/main.yml" timestamp="1479824823106">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/hosts" timestamp="1477469024251">
         <mark key="[" line="0" column="62" />
         <mark key="]" line="0" column="65" />
         <mark key="." line="0" column="65" />
         <mark key="^" line="0" column="65" />
       </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/host_vars/prod" timestamp="1479916748423">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/application/tasks/main.yml" timestamp="1479895059897">
         <mark key="[" line="50" column="62" />
         <mark key="]" line="50" column="62" />
         <mark key="^" line="50" column="62" />
         <mark key="." line="50" column="62" />
-      </file>
-      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/db/templates/postgresql.conf" timestamp="1479824956457">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/locale/fr/LC_MESSAGES/django.po" timestamp="1478526105608">
         <mark key="[" line="22" column="24" />
@@ -237,27 +213,18 @@
         <mark key="^" line="79" column="2" />
       </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/handlers/main.yml" timestamp="1479894817722" />
-      <file name="$USER_HOME$/projects/landings/competition/deploy/roles/db/templates/postgresql.conf" timestamp="1478526541225">
-        <mark key="'" line="613" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/unlock_app-web/unlock/config/common.py" timestamp="1479896021372">
-        <mark key="'" line="144" column="16" />
+      <file name="$USER_HOME$/projects/unlock_app-web/unlock/config/common.py" timestamp="1479917517413">
+        <mark key="'" line="135" column="26" />
         <mark key="[" line="157" column="30" />
         <mark key="]" line="157" column="39" />
         <mark key="^" line="157" column="39" />
         <mark key="." line="157" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/requirements/base.txt" timestamp="1479721632050">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/application/templates/manage.py" timestamp="1479723161191">
         <mark key="[" line="5" column="80" />
         <mark key="]" line="5" column="95" />
         <mark key="." line="5" column="95" />
         <mark key="^" line="5" column="95" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/unlock/lib/python3.5/site-packages/rest_framework/status.py" timestamp="1479200407597">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/home/migrations/0030_auto_20161027_1207.py" timestamp="1477570532201">
         <mark key="[" line="12" column="20" />
@@ -273,13 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="447" column="4" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="19" column="93" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
-      <jump line="157" column="39" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/horizontal/form.html" />
-      <jump line="26" column="52" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/horizontal/form.html" />
-      <jump line="25" column="113" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/horizontal/form.html" />
-      <jump line="30" column="0" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/horizontal/form.html" />
-      <jump line="613" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/db/templates/postgresql.conf" />
       <jump line="82" column="0" filename="$USER_HOME$/projects/landings/competition/deploy/roles/db/templates/pg_hba.conf" />
       <jump line="16" column="13" filename="$USER_HOME$/projects/landings/competition/deploy/roles/db/tasks/main.yml" />
       <jump line="21" column="9" filename="$USER_HOME$/projects/landings/competition/deploy/roles/db/tasks/main.yml" />
@@ -370,19 +330,26 @@
       <jump line="26" column="0" filename="$USER_HOME$/projects/unlock_app-web/unlock/config/common.py" />
       <jump line="113" column="14" filename="$USER_HOME$/projects/unlock_app-web/unlock/config/common.py" />
       <jump line="146" column="37" filename="$USER_HOME$/projects/unlock_app-web/unlock/config/common.py" />
-      <jump line="144" column="16" filename="$USER_HOME$/projects/unlock_app-web/unlock/config/common.py" />
       <jump line="148" column="39" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" />
       <jump line="145" column="40" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" />
+      <jump line="14" column="4" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/devel.py" />
+      <jump line="35" column="1" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/devel.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/devel.py" />
+      <jump line="38" column="16" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/devel.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/devel.py" />
+      <jump line="110" column="37" filename="$USER_HOME$/projects/unlock_app-web/unlock/config/common.py" />
+      <jump line="144" column="26" filename="$USER_HOME$/projects/unlock_app-web/unlock/config/common.py" />
+      <jump line="135" column="26" filename="$USER_HOME$/projects/unlock_app-web/unlock/config/common.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>https://ea4e429f9fc14433ae25545b4bfab29e:c0cc03a74bdb4108b887801d88601a59@sentry.toreforge.space/13</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>https://ea4e429f9fc14433ae25545b4bfab29e:c0cc03a74bdb4108b887801d88601a59@sentry.toreforge.space/13</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMT0dTX0RJUlw+</text>
+        <text>logging</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdsZXZlbCc6ICdFUlJPUicsCg==</text>
@@ -419,9 +386,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMT0dTX0RJUlw+</last-search>
+      <last-search>logging</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMT0dTX0RJUlw+</last-pattern>
+      <last-pattern>logging</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -429,10 +396,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3ZWJcPg==</entry>
-        <entry encoding="base64">XDxhcHBfcmVxdWVzdF90eXBlXD4=</entry>
-        <entry encoding="base64">XDxzZXRcPg==</entry>
-        <entry>submit</entry>
         <entry encoding="base64">XDxNaXNzaW5nRW1haWxFeGNlcHRpb25cPg==</entry>
         <entry>422</entry>
         <entry>status</entry>
@@ -449,6 +412,10 @@
         <entry>LOGS</entry>
         <entry encoding="base64">XDxCQVNFX0RJUlw+</entry>
         <entry encoding="base64">XDxMT0dTX0RJUlw+</entry>
+        <entry>RAVEN</entry>
+        <entry>LOGGING</entry>
+        <entry>LOGS_DIR</entry>
+        <entry>logging</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
@@ -468,9 +435,9 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>:w</entry>
+        <entry>W</entry>
         <entry>qa</entry>
         <entry>w</entry>
-        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
