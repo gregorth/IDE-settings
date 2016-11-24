@@ -163,11 +163,11 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/templates/nginx.conf" timestamp="1479732550666">
+      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/templates/nginx.conf" timestamp="1479990684018">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="93" column="31" />
-        <mark key="]" line="93" column="31" />
-        <mark key="." line="93" column="31" />
+        <mark key="[" line="69" column="26" />
+        <mark key="]" line="69" column="26" />
+        <mark key="." line="69" column="26" />
         <mark key="^" line="93" column="28" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/host_vars/stage" timestamp="1477647774709">
@@ -518,11 +518,6 @@
         <mark key="." line="288" column="32" />
         <mark key="^" line="288" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/unlock_app-web/deploy/host_vars/devel" timestamp="1479827681593">
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/tasks/main.yml" timestamp="1479894835955">
         <mark key="'" line="17" column="11" />
         <mark key="[" line="16" column="9" />
@@ -681,10 +676,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>dsn</text>
