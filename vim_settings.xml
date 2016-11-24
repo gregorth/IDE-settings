@@ -417,7 +417,12 @@
         <mark key="." line="3" column="49" />
         <mark key="^" line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/stats/management/commands/logsmon.py" timestamp="1479996409268" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/stats/management/commands/logsmon.py" timestamp="1479999475989">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/priv/cic/cic/settings.py" timestamp="1477393908942">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="53" column="43" />
