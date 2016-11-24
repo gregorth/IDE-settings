@@ -431,7 +431,7 @@
         <mark key="." line="0" column="65" />
         <mark key="^" line="0" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/host_vars/prod" timestamp="1479916748423">
+      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/host_vars/prod" timestamp="1479985583772">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="11" />
         <mark key="^" line="5" column="40" />
@@ -680,11 +680,11 @@
       <jump line="37" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/prod.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBpbnN0YW5jZTogCiAgICA6cGFyYW0gZmlsZW5hbWU6IAogICAgOnJldHVybjogCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>dsn</text>
