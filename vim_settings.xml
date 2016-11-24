@@ -10,7 +10,7 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="8" column="8" />
       </file>
-      <file name="/a.dummy" timestamp="1479892252749">
+      <file name="/a.dummy" timestamp="1480002062854">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/victor_cms/victor_cms/settings/base.py" timestamp="1476708485787">
@@ -47,11 +47,11 @@
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" timestamp="1479912406136">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="42" />
-        <mark key="." line="10" column="42" />
-        <mark key="^" line="10" column="42" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" timestamp="1480001095492">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="28" />
+        <mark key="." line="41" column="28" />
+        <mark key="^" line="41" column="28" />
       </file>
       <file name="$USER_HOME$/projects/competition/lp/page_processors.py" timestamp="1476284456578">
         <mark key="'" line="8" column="98" />
@@ -149,14 +149,12 @@
         <mark key="^" line="158" column="39" />
         <mark key="." line="158" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/devel.yml" timestamp="1479894797936" />
       <file name="$USER_HOME$/projects/landings/competition/home/email.py" timestamp="1477649589149">
         <mark key="[" line="17" column="73" />
         <mark key="]" line="17" column="81" />
         <mark key="^" line="17" column="81" />
         <mark key="." line="17" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/db/tasks/main.yml" timestamp="1479826175840" />
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/templates/form.html" timestamp="1479471125660">
         <mark key="[" line="3" column="60" />
         <mark key="]" line="4" column="19" />
@@ -183,12 +181,12 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/prod.py" timestamp="1479998073190">
-        <mark key="'" line="51" column="21" />
-        <mark key="[" line="73" column="30" />
-        <mark key="]" line="73" column="31" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/prod.py" timestamp="1480001474808">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
         <mark key="^" line="75" column="58" />
-        <mark key="." line="73" column="31" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/locale/hi/LC_MESSAGES/django.po" timestamp="1478524760404">
         <mark key="[" line="25" column="8" />
@@ -285,12 +283,12 @@
         <mark key="^" line="28" column="59" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/devel.py" timestamp="1479978146394">
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/devel.py" timestamp="1480001467512">
         <mark key="'" line="34" column="8" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="35" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
         <mark key="^" line="34" column="8" />
-        <mark key="." line="34" column="8" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/competition/deploy/roles/system/templates/supervisor.conf" timestamp="1477496346929">
         <mark key="[" line="3" column="10" />
@@ -298,8 +296,8 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" timestamp="1479917631563">
-        <mark key="'" line="145" column="40" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" timestamp="1480002057479">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="148" column="39" />
         <mark key="]" line="148" column="46" />
         <mark key="." line="148" column="46" />
@@ -382,6 +380,15 @@
         <mark key="]" line="97" column="37" />
         <mark key="." line="97" column="35" />
         <mark key="^" line="97" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" timestamp="1480002353890">
+        <mark key="'" line="2" column="24" />
+        <mark key="j" line="20" column="30" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="20" column="21" />
+        <mark key="." line="12" column="0" />
+        <mark key="o" line="11" column="31" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/wagtail/lib/python3.5/site-packages/wagtailtinymce/rich_text.py" timestamp="1476703886352">
         <mark key="'" line="105" column="8" />
@@ -515,7 +522,6 @@
         <mark key="^" line="102" column="7" />
         <mark key="." line="102" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/motiwings_minisite/settings/base.py" timestamp="1479894727984" />
       <file name="$USER_HOME$/projects/landings/competition/locale/nn/LC_MESSAGES/django.po" timestamp="1477310339580">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="22" column="8" />
@@ -543,7 +549,6 @@
         <mark key="." line="69" column="13" />
         <mark key="^" line="79" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/handlers/main.yml" timestamp="1479894817722" />
       <file name="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" timestamp="1477648737232">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="82" column="48" />
@@ -557,6 +562,16 @@
         <mark key="]" line="157" column="39" />
         <mark key="^" line="157" column="39" />
         <mark key="." line="157" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/requirements/base.txt" timestamp="1480001024782">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="21" column="32" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+      </file>
+      <file name="/a.regexp" timestamp="1480002072308">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/application/templates/manage.py" timestamp="1479723161191">
         <mark key="[" line="5" column="80" />
@@ -585,10 +600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="27" filename="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" />
-      <jump line="37" column="12" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
-      <jump line="205" column="10" filename="$USER_HOME$/projects/landings/competition/static/js/project.js" />
-      <jump line="202" column="20" filename="$USER_HOME$/projects/landings/competition/static/js/project.js" />
       <jump line="59" column="11" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
       <jump line="10" column="45" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
       <jump line="9" column="32" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
@@ -624,7 +635,6 @@
       <jump line="85" column="27" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" />
       <jump line="67" column="26" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" />
       <jump line="49" column="14" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" />
       <jump line="17" column="11" filename="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/tasks/main.yml" />
       <jump line="7" column="24" filename="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/templates/nginx.conf" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/templates/nginx.conf" />
@@ -637,7 +647,6 @@
       <jump line="152" column="35" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
       <jump line="3" column="30" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" />
       <jump line="8" column="88" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" />
       <jump line="3" column="6" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/models.py" />
       <jump line="14" column="4" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/models.py" />
@@ -685,43 +694,49 @@
       <jump line="73" column="31" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/prod.py" />
       <jump line="58" column="37" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/prod.py" />
       <jump line="51" column="21" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/prod.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/prod.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/base.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" />
+      <jump line="21" column="148" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" />
+      <jump line="20" column="30" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" />
+      <jump line="2" column="24" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>prod</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy5NQVhfU0laRV9VUExPQURfRklMRSkK</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>ALLOWED_HOSTS</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text encoding="base64">XDxzZXR0aW5nc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xvZ2ZpbGUnOiB7CiAgICAgICAgICAgICAgICAnbGV2ZWwnOiAnZGVidWcnLAogICAgICAgICAgICAgICAgJ2NsYXNzJzogJ2xvZ2dpbmcuZmlsZWhhbmRsZXInLAogICAgICAgICAgICAgICAgJ2ZpbGVuYW1lJzogb3MucGF0aC5qb2luKGxvZ3NfZGlyLCAnc3VwZXJoaXJlLmxvZycpLAogICAgICAgICAgICAgICAgJ2Zvcm1hdHRlcic6ICd2ZXJib3NlJwogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy5BTExPV0VEX0hPU1RTKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBpbnN0YW5jZTogCiAgICA6cGFyYW0gZmlsZW5hbWU6IAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy5NQVhfU0laRV9VUExPQURfRklMRSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy5BTExPV0VEX0hPU1RTKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VOVFJZX0RTTiA9IGVudignREpBTkdPX1NFTlRSWV9EU04nKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bWUuX3NpemUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QHRyYWNraW5nX2Nvb2tpZSgpCg==</text>
+        <text encoding="base64">TUFYX1NJWkVfVVBMT0FEX0ZJTEUgPSAiODM4ODYwOCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHRyYWNraW5nX2Nvb2tpZSgpCg==</text>
+        <text encoding="base64">TUFYX1NJWkVfVVBMT0FEX0ZJTEUgPSAiODM4ODYwOCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0icmVzdW1lIiBjbGFzcz0iY29sLXhzLTIgdGV4dC1jZW50ZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1wbHVzIj57eyBmb3JtLnJlc3VtZSB9fTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBpbnN0YW5jZTogCiAgICA6cGFyYW0gZmlsZW5hbWU6IAogICAgOnJldHVybjogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -731,9 +746,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search encoding="base64">XDxzZXR0aW5nc1w+</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern encoding="base64">XDxzZXR0aW5nc1w+</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -741,9 +756,6 @@
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
-        <entry>MIDDLEWARE</entry>
-        <entry encoding="base64">XDxodHRwX3VzZXJfYWdlbnRcPg==</entry>
         <entry>http_user_agent</entry>
         <entry>LOGS</entry>
         <entry encoding="base64">XDxCQVNFX0RJUlw+</entry>
@@ -761,6 +773,9 @@
         <entry encoding="base64">XDxsb2dzbW9uXD4=</entry>
         <entry>logrotate</entry>
         <entry>debug</entry>
+        <entry>print</entry>
+        <entry encoding="base64">XDxNQVhfU0laRV9VUExPQURfRklMRVw+</entry>
+        <entry encoding="base64">XDxzZXR0aW5nc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
@@ -778,10 +793,10 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>:w</entry>
-        <entry>W</entry>
         <entry>65</entry>
         <entry>Qa</entry>
         <entry>qa</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
