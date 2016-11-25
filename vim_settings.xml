@@ -12,11 +12,12 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" timestamp="1480001095492">
-        <mark key="[" line="41" column="27" />
-        <mark key="]" line="41" column="28" />
-        <mark key="." line="41" column="28" />
-        <mark key="^" line="41" column="28" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" timestamp="1480085628614">
+        <mark key="'" line="39" column="21" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="39" column="21" />
       </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/test.py" timestamp="1480081376762">
         <mark key="[" line="2" column="0" />
@@ -291,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="11" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
       <jump line="10" column="45" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
       <jump line="9" column="32" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.virtualenvs/unlock/lib/python3.5/site-packages/rest_framework/status.py" />
@@ -391,10 +391,11 @@
       <jump line="21" column="148" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" />
       <jump line="20" column="30" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" />
       <jump line="2" column="24" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" />
+      <jump line="37" column="21" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YWxzbyBhY2Nlc3MgUzMgZnJvbSBkZXZlbG9wbWVudC9sb2NhbCBzZXJ2ZXJzLgo=</text>
+        <text encoding="base64">ICAgICAgICBpcCA9IGdldF9yZWFsX2lwKHJlcXVlc3QpCiAgICAgICAgcHJpbnQoIklQIiwgaXApCg==</text>
       </register>
       <register name="-" type="4">
         <text>AWS_S3_FILE_BUFFER_SIZE= 5242881</text>
@@ -402,8 +403,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR0aW5nc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>AWS_STORAGE_BUCKET_NAME</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpcCA9IGdldF9yZWFsX2lwKHJlcXVlc3QpCiAgICAgICAgcHJpbnQoIklQIiwgaXApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YWxzbyBhY2Nlc3MgUzMgZnJvbSBkZXZlbG9wbWVudC9sb2NhbCBzZXJ2ZXJzLgo=</text>
