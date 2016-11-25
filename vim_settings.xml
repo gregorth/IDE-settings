@@ -12,12 +12,13 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" timestamp="1480085628614">
-        <mark key="'" line="39" column="21" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" timestamp="1480087844998">
+        <mark key="'" line="43" column="3" />
         <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="19" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="32" column="10" />
+        <mark key="n" line="31" column="4" />
         <mark key="." line="13" column="0" />
-        <mark key="^" line="39" column="21" />
       </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/test.py" timestamp="1480081376762">
         <mark key="[" line="2" column="0" />
@@ -58,8 +59,8 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/prod.py" timestamp="1480001474808">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/settings/prod.py" timestamp="1480087628668">
+        <mark key="'" line="97" column="5" />
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
         <mark key="^" line="75" column="58" />
@@ -292,13 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="45" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
-      <jump line="9" column="32" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/.virtualenvs/unlock/lib/python3.5/site-packages/rest_framework/status.py" />
-      <jump line="63" column="77" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
-      <jump line="64" column="12" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
-      <jump line="70" column="12" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
-      <jump line="85" column="78" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
       <jump line="11" column="34" filename="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
       <jump line="124" column="45" filename="$USER_HOME$/projects/landings/superhire.co/superhire/superhire/settings.py" />
@@ -391,56 +385,63 @@
       <jump line="21" column="148" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" />
       <jump line="20" column="30" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" />
       <jump line="2" column="24" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" />
-      <jump line="37" column="21" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
+      <jump line="97" column="5" filename="$USER_HOME$/projects/landings/superhire.co/superhire/settings/prod.py" />
+      <jump line="47" column="10" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
+      <jump line="13" column="9" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
+      <jump line="8" column="36" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
+      <jump line="42" column="42" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
+      <jump line="45" column="3" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpcCA9IGdldF9yZWFsX2lwKHJlcXVlc3QpCiAgICAgICAgcHJpbnQoIklQIiwgaXApCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJJUCIsIGlwKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>AWS_S3_FILE_BUFFER_SIZE= 5242881</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXR0aW5nc1w+</text>
+        <text encoding="base64">XDxnZXRfcmVxdWVzdF9pcFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpcCA9IGdldF9yZWFsX2lwKHJlcXVlc3QpCiAgICAgICAgcHJpbnQoIklQIiwgaXApCg==</text>
+      <register name="0" type="4">
+        <text>request.META.get('REMOTE_ADDR')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWxzbyBhY2Nlc3MgUzMgZnJvbSBkZXZlbG9wbWVudC9sb2NhbCBzZXJ2ZXJzLgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJJUCIsIGlwKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgojIEhhbmRsZSBib3RoIGV4cGxpY2l0bHkgY29uZmlndXJlZCBBV1Mga2V5cyBhbmQgbGFjayBvZiB0aGVtLiBUaGlzIGFsbG93cyB1cyB0byBhc3NpZ24gcm9sZXMKIyB0byBFQzIgaW5zdGFuY2VzIG9uIHByb2R1Y3Rpb24sIGFuZCA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlwID0gZ2V0X3JlYWxfaXAocmVxdWVzdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXAgPSByZXF1ZXN0Lk1FVEEuZ2V0KCdSRU1PVEVfQUREUicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXAgPSBnZXRfaXAocmVxdWVzdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy5NQVhfU0laRV9VUExPQURfRklMRSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaXA6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy5BTExPV0VEX0hPU1RTKQo=</text>
+        <text encoding="base64">ICAgICAgICBpcCA9IGdldF9yZWFsX2lwKHJlcXVlc3QpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiSVAiLCBpcCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bWUuX3NpemUpCg==</text>
+        <text encoding="base64">YWxzbyBhY2Nlc3MgUzMgZnJvbSBkZXZlbG9wbWVudC9sb2NhbCBzZXJ2ZXJzLgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">TUFYX1NJWkVfVVBMT0FEX0ZJTEUgPSAiODM4ODYwOCIK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgojIEhhbmRsZSBib3RoIGV4cGxpY2l0bHkgY29uZmlndXJlZCBBV1Mga2V5cyBhbmQgbGFjayBvZiB0aGVtLiBUaGlzIGFsbG93cyB1cyB0byBhc3NpZ24gcm9sZXMKIyB0byBFQzIgaW5zdGFuY2VzIG9uIHByb2R1Y3Rpb24sIGFuZCA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXR0aW5nc1w+</last-search>
+      <last-search encoding="base64">XDxnZXRfcmVxdWVzdF9pcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXR0aW5nc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfcmVxdWVzdF9pcFw+</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -448,9 +449,6 @@
     </search>
     <history>
       <history-search>
-        <entry>http_user_agent</entry>
-        <entry>LOGS</entry>
-        <entry encoding="base64">XDxCQVNFX0RJUlw+</entry>
         <entry encoding="base64">XDxMT0dTX0RJUlw+</entry>
         <entry>LOGGING</entry>
         <entry>logging</entry>
@@ -468,6 +466,9 @@
         <entry>print</entry>
         <entry encoding="base64">XDxNQVhfU0laRV9VUExPQURfRklMRVw+</entry>
         <entry encoding="base64">XDxzZXR0aW5nc1w+</entry>
+        <entry encoding="base64">XDxnZXRfcmVhbF9pcFw+</entry>
+        <entry encoding="base64">XDxnZXRfaXBcPg==</entry>
+        <entry encoding="base64">XDxnZXRfcmVxdWVzdF9pcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
