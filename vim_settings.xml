@@ -149,12 +149,14 @@
         <mark key="^" line="158" column="39" />
         <mark key="." line="158" column="66" />
       </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/devel.yml" timestamp="1479894797936" />
       <file name="$USER_HOME$/projects/landings/competition/home/email.py" timestamp="1477649589149">
         <mark key="[" line="17" column="73" />
         <mark key="]" line="17" column="81" />
         <mark key="^" line="17" column="81" />
         <mark key="." line="17" column="81" />
       </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/db/tasks/main.yml" timestamp="1479826175840" />
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/templates/form.html" timestamp="1479471125660">
         <mark key="[" line="3" column="60" />
         <mark key="]" line="4" column="19" />
@@ -502,6 +504,7 @@
         <mark key="." line="13" column="91" />
         <mark key="^" line="13" column="91" />
       </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/unlock/config/devel.py" timestamp="1480077997647" />
       <file name="$USER_HOME$/projects/landings/competition/home/middleware.py" timestamp="1478600828742">
         <mark key="[" line="19" column="17" />
         <mark key="]" line="19" column="20" />
@@ -522,6 +525,7 @@
         <mark key="^" line="102" column="7" />
         <mark key="." line="102" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/motiwings_minisite/settings/base.py" timestamp="1479894727984" />
       <file name="$USER_HOME$/projects/landings/competition/locale/nn/LC_MESSAGES/django.po" timestamp="1477310339580">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="22" column="8" />
@@ -536,6 +540,11 @@
         <mark key="." line="288" column="32" />
         <mark key="^" line="288" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/deploy/host_vars/devel" timestamp="1480077967315">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/tasks/main.yml" timestamp="1479997731501">
         <mark key="'" line="82" column="49" />
         <mark key="[" line="16" column="9" />
@@ -549,6 +558,7 @@
         <mark key="." line="69" column="13" />
         <mark key="^" line="79" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/system/handlers/main.yml" timestamp="1479894817722" />
       <file name="$USER_HOME$/projects/landings/competition/competition/settings/dev.py" timestamp="1477648737232">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="82" column="48" />
