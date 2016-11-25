@@ -380,6 +380,12 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/system/templates/test.py" timestamp="1480080769954">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="9" column="46" />
+      </file>
       <file name="$USER_HOME$/projects/landings/competition/home/templates/layouts/vertical/main.html" timestamp="1478776935137">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="41" />
@@ -410,7 +416,7 @@
         <mark key="^" line="54" column="167" />
       </file>
       <file name="$USER_HOME$/projects/unlock_app-web/unlock/users/models.py" timestamp="1480078594380" />
-      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/system/templates/nginx_production.conf" timestamp="1480079137433" />
+      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/system/templates/nginx_production.conf" timestamp="1480080630958" />
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/tools.py" timestamp="1479804748565">
         <mark key="'" line="19" column="52" />
         <mark key="[" line="28" column="66" />
@@ -724,44 +730,44 @@
       <jump line="2" column="24" filename="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/forms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy5NQVhfU0laRV9VUExPQURfRklMRSkK</text>
+      <register name="&quot;" type="4">
+        <text>settings.</text>
       </register>
       <register name="-" type="4">
-        <text>ALLOWED_HOSTS</text>
+        <text>settings.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR0aW5nc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy5BTExPV0VEX0hPU1RTKQo=</text>
+      <register name="0" type="4">
+        <text>AWS_STORAGE_BUCKET_NAME</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy5NQVhfU0laRV9VUExPQURfRklMRSkK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy5BTExPV0VEX0hPU1RTKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy5NQVhfU0laRV9VUExPQURfRklMRSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy5BTExPV0VEX0hPU1RTKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bWUuX3NpemUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TUFYX1NJWkVfVVBMT0FEX0ZJTEUgPSAiODM4ODYwOCIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bWUuX3NpemUpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">TUFYX1NJWkVfVVBMT0FEX0ZJTEUgPSAiODM4ODYwOCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBpbnN0YW5jZTogCiAgICA6cGFyYW0gZmlsZW5hbWU6IAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">TUFYX1NJWkVfVVBMT0FEX0ZJTEUgPSAiODM4ODYwOCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBpbnN0YW5jZTogCiAgICA6cGFyYW0gZmlsZW5hbWU6IAogICAgOnJldHVybjogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -818,8 +824,8 @@
         <entry>65</entry>
         <entry>Qa</entry>
         <entry>qa</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
