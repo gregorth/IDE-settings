@@ -216,6 +216,7 @@
         <mark key="." line="13" column="58" />
         <mark key="^" line="13" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/unlock/phrases/models.py" timestamp="1480078939287" />
       <file name="$USER_HOME$/projekty/recruitment/NBA_browser/NBA_browser/tools.py" timestamp="1476735454926">
         <mark key="'" line="9" column="24" />
         <mark key="[" line="2" column="9" />
@@ -223,6 +224,7 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/unlock/phrases/serializers.py" timestamp="1480079001306" />
       <file name="$USER_HOME$/projects/landings/competition/deploy/roles/application/tasks/main.yml" timestamp="1477914633911">
         <mark key="'" line="68" column="2" />
         <mark key="[" line="68" column="15" />
@@ -345,6 +347,12 @@
         <mark key="." line="23" column="72" />
         <mark key="^" line="23" column="72" />
       </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/unlock/phrases/views.py" timestamp="1480079019996">
+        <mark key="[" line="25" column="67" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/landings/superhire.co/deploy/roles/application/templates/env.devel" timestamp="1479721461794">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="32" />
@@ -402,6 +410,7 @@
         <mark key="^" line="54" column="167" />
       </file>
       <file name="$USER_HOME$/projects/unlock_app-web/unlock/users/models.py" timestamp="1480078594380" />
+      <file name="$USER_HOME$/projects/unlock_app-web/deploy/roles/system/templates/nginx_production.conf" timestamp="1480079137433" />
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/tools.py" timestamp="1479804748565">
         <mark key="'" line="19" column="52" />
         <mark key="[" line="28" column="66" />
@@ -569,7 +578,7 @@
         <mark key="." line="82" column="54" />
         <mark key="^" line="82" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/unlock_app-web/unlock/config/common.py" timestamp="1479976798535">
+      <file name="$USER_HOME$/projects/unlock_app-web/unlock/config/common.py" timestamp="1480079082061">
         <mark key="'" line="135" column="26" />
         <mark key="[" line="157" column="30" />
         <mark key="]" line="157" column="39" />
