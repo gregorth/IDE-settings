@@ -95,6 +95,7 @@
         <mark key="^" line="70" column="91" />
         <mark key="." line="70" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/unlock/authentication/views.py" timestamp="1480078558226" />
       <file name="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" timestamp="1478526343023">
         <mark key="'" line="133" column="34" />
         <mark key="[" line="21" column="0" />
@@ -305,6 +306,7 @@
         <mark key="." line="148" column="46" />
         <mark key="^" line="148" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/unlock/users/test/test_views.py" timestamp="1480078607012" />
       <file name="$USER_HOME$/projects/landings/competition/deploy/roles/application/templates/env.stage" timestamp="1477663140341">
         <mark key="'" line="15" column="7" />
         <mark key="[" line="26" column="9" />
@@ -399,6 +401,7 @@
         <mark key="." line="54" column="167" />
         <mark key="^" line="54" column="167" />
       </file>
+      <file name="$USER_HOME$/projects/unlock_app-web/unlock/users/models.py" timestamp="1480078594380" />
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/tools.py" timestamp="1479804748565">
         <mark key="'" line="19" column="52" />
         <mark key="[" line="28" column="66" />
