@@ -26,6 +26,7 @@
         <mark key="." line="148" column="46" />
         <mark key="^" line="148" column="46" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/superhire.co/lib/python3.5/site-packages/ipware/defaults.py" timestamp="1480337856518" />
       <file name="$USER_HOME$/projects/landings/competition/locale/id/LC_MESSAGES/django.po" timestamp="1478516805691">
         <mark key="[" line="30" column="8" />
         <mark key="]" line="30" column="22" />
@@ -56,7 +57,7 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" timestamp="1480326913286">
+      <file name="$USER_HOME$/projects/landings/superhire.co/superhire/joboffer/views.py" timestamp="1480337874726">
         <mark key="'" line="44" column="9" />
         <mark key="[" line="37" column="40" />
         <mark key="]" line="37" column="40" />
@@ -114,6 +115,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/superhire.co/lib/python3.5/site-packages/ipware/ip.py" timestamp="1480337826428" />
       <file name="$USER_HOME$/projects/landings/superhire.co/superhire/stats/management/commands/logsmon.py" timestamp="1479999475989">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="14" />
