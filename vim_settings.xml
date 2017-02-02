@@ -609,12 +609,12 @@
         <mark key="." line="19" column="27" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" timestamp="1485813717806">
-        <mark key="'" line="90" column="8" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" timestamp="1486063605094">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="173" column="54" />
+        <mark key="]" line="174" column="40" />
+        <mark key="^" line="174" column="40" />
+        <mark key="." line="174" column="40" />
       </file>
       <file name="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" timestamp="1476709675473">
         <mark key="'" line="651" column="9" />
@@ -922,15 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="224" column="11" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="225" column="23" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="104" column="8" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="84" column="37" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="272" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="126" column="21" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="92" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="140" column="17" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="194" column="34" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="226" column="34" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
       <jump line="168" column="20" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
@@ -1017,24 +1008,33 @@
       <jump line="109" column="12" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/utils/googleDrive.py" />
       <jump line="187" column="8" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/utils/googleDrive.py" />
       <jump line="67" column="39" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
       <jump line="376" column="8" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
       <jump line="42" column="48" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
       <jump line="63" column="13" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
       <jump line="90" column="8" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="65" column="28" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="108" column="19" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="181" column="19" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="199" column="19" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="323" column="27" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="114" column="15" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="143" column="12" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="144" column="22" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="180" column="33" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>C:\Users\me\Desktop\myEbooksFromPackt</text>
+        <text>self.accountData.packtPubUrl + claimUrl</text>
       </register>
       <register name="-" type="4">
         <text>C:\Users\me\Desktop\myEbooksFromPackt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVTZXNzaW9uXD4=</text>
+        <text>has not</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CTxzY3JpcHQgc3JjPSIvc3RhdHMvIiBhc3luYz48L3NjcmlwdD4K</text>
+      <register name="0" type="4">
+        <text>self.accountData.packtPubUrl + claimUrl</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZQo=</text>
@@ -1068,9 +1068,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVTZXNzaW9uXD4=</last-search>
+      <last-search>has not</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVTZXNzaW9uXD4=</last-pattern>
+      <last-pattern>has not</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -1090,6 +1090,9 @@
         <entry>session_created</entry>
         <entry>session</entry>
         <entry encoding="base64">XDxjcmVhdGVTZXNzaW9uXD4=</entry>
+        <entry>error</entry>
+        <entry>Grabb</entry>
+        <entry>has not</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
