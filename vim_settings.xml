@@ -264,7 +264,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1485812373018">
+      <file name="/Python Console" timestamp="1486064703908">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/unlock_app-web/unlock/phrases/views.py" timestamp="1475674760295">
@@ -536,6 +536,7 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="31" column="15" />
       </file>
+      <file name="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/configFile.cfg" timestamp="1486065957330" />
       <file name="$USER_HOME$/projects/mysite/mysite/urls.py" timestamp="1473931222771">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="10" />
@@ -609,12 +610,11 @@
         <mark key="." line="19" column="27" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" timestamp="1486063605094">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="173" column="54" />
-        <mark key="]" line="174" column="40" />
-        <mark key="^" line="174" column="40" />
-        <mark key="." line="174" column="40" />
+      <file name="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" timestamp="1486068216392">
+        <mark key="'" line="190" column="0" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="." line="190" column="0" />
       </file>
       <file name="$USER_HOME$/projects/opensource/wagtail-torchbox/tbx/core/models.py" timestamp="1476709675473">
         <mark key="'" line="651" column="9" />
@@ -922,18 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="34" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="226" column="34" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="168" column="20" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
-      <jump line="14" column="44" filename="$USER_HOME$/projects/landings/competition/competition/settings/base.py" />
-      <jump line="1" column="38" filename="$USER_HOME$/projects/landings/competition/locale/in/LC_MESSAGES/django.po" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
-      <jump line="48" column="13" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
-      <jump line="3" column="37" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
-      <jump line="143" column="8" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/__init__.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/utils/translation/trans_real.py" />
-      <jump line="132" column="34" filename="$USER_HOME$/projects/landings/competition/home/templates/blocks/vertical/form.html" />
       <jump line="60" column="8" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="20" column="5" filename="$USER_HOME$/projects/landings/competition/home/forms.py" />
       <jump line="48" column="6" filename="$USER_HOME$/.virtualenvs/competition/lib/python3.5/site-packages/django/forms/fields.py" />
@@ -1022,43 +1010,55 @@
       <jump line="144" column="22" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
       <jump line="180" column="33" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="162" column="8" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="324" column="24" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="57" column="55" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="69" column="8" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="277" column="66" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="176" column="31" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="158" column="56" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="147" column="53" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="178" column="29" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="106" column="32" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="191" column="15" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
+      <jump line="190" column="0" filename="$USER_HOME$/projekty/opensource/Packt-Publishing-Free-Learning/packtPublishingFreeEbook.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self.accountData.packtPubUrl + claimUrl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb29raWVzLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>C:\Users\me\Desktop\myEbooksFromPackt</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>has not</text>
+        <text encoding="base64">XDxwYWNrdFB1YlVybFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>self.accountData.packtPubUrl + claimUrl</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzZXNzaW9uLmNvb2tpZXMuZ2V0X2RpY3QoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZQo=</text>
+        <text encoding="base64">ICAgICAgICBjb29raWVzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZQo=</text>
+        <text encoding="base64">bG9nZ2luZy5nZXRMb2dnZXIoInJlcXVlc3RzIikuc2VMZXZlbChsb2dnaW5nLkRFQlVHKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnNlc3Npb24uY29va2llcy5nZXRfZGljdCgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmaWxlbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICByZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgc3RhdHVzCg==</text>
+        <text encoding="base64">ICAgICAgICByZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CTxzY3JpcHQgc3JjPSIvc3RhdHMvIiBhc3luYz0idHJ1ZSI+PHNjcmlwdC8+Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmaWxlbmFtZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvMXgxLmdpZiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgPgo=</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgc3RhdHVzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CTxpbWcgc3JjPSIvc3RhdHMvIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgo=</text>
@@ -1068,9 +1068,9 @@
       </register>
     </registers>
     <search>
-      <last-search>has not</last-search>
+      <last-search encoding="base64">XDxwYWNrdFB1YlVybFw+</last-search>
       <last-offset />
-      <last-pattern>has not</last-pattern>
+      <last-pattern encoding="base64">XDxwYWNrdFB1YlVybFw+</last-pattern>
       <last-replace>become</last-replace>
       <last-substitute>sudo</last-substitute>
       <last-dir>1</last-dir>
@@ -1093,6 +1093,9 @@
         <entry>error</entry>
         <entry>Grabb</entry>
         <entry>has not</entry>
+        <entry encoding="base64">XDxncmFiRWJvb2tcPg==</entry>
+        <entry encoding="base64">XDxfX2dldExvZ2luRGF0YVw+</entry>
+        <entry encoding="base64">XDxwYWNrdFB1YlVybFw+</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -1106,6 +1109,11 @@
         <entry>Q</entry>
         <entry>qa</entry>
         <entry>W</entry>
+        <entry>100</entry>
+        <entry>180</entry>
+        <entry>38</entry>
+        <entry>80</entry>
+        <entry>191</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
